@@ -1,0 +1,18 @@
+#ITS
+
+chimera.uchime(fasta=V1_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V2_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V3_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V4_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V5_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V6_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V7_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V8_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V9_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V10_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V11_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V12_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V13_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V14_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V15_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
+chimera.uchime(fasta=V16_ITS.fasta, reference=UNITEv6_sh_97_s.fasta)
