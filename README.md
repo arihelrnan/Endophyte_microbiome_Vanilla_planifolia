@@ -4,4 +4,4 @@ This repository is divided in 4 directories:
 1.	bin. This directory has scripts necessary to bioinformatics processing and diversity analysis. It is divided in two subdirectories: a) Sequence processing, with necessary scripts in Shell for merge pairs sequences and their quality filter, identify chimeras sequence, OTU assignment and their taxonomy assignment and make OTU table; b) Diversity analysis, with scripts in R for normalization of data set, calculate alpha diversity and beta diversity and their visualizations and statistical analysis, and graphics of binning taxonomic. 
 2.	Objets. This directory has reference data base and parameters files necessary for sequence processing scripts. 
 3.	Meta. It contains the OTU table of 16SrRNA data and other of ITS data.  It also contains the meta file with information of each sample and groups. 
-4.	Figures. Graphics and visualizations that are files out of scripts in Diversity analysis directory.
+4.	Figures. Graphics and visualizations that are files out of scripts in Diversity analysis directory. It aslo contained visualizations of exploratory analysis of sequence.
