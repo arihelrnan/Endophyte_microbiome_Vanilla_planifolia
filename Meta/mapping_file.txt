@@ -1,0 +1,14 @@
+#SampleID	Variables	Tejido	Estado	Tratamiento
+V3.16s	T-AST	Tallo	Asintomatica	Ar
+V5.16s	T-ST	Tallo	Sintomatica	Ir
+V6.16s	T-ST	Tallo	Sintomatica	Ir
+V7.16s	T-SILV	Tallo	Silvestre	Ar S/L
+V8.16s	T-SILV	Tallo	Silvestre	Ar S/L
+V9.16s	R-AST	Raiz	Asintomatica	Fe
+V10.16s	R-AST	Raiz	Asintomatica	Fe
+V11.16s	R-AST	Raiz	Asintomatica	Fe
+V12.16s	R-ST	Raiz	Sintomatica	Ag
+V13.16s	R-ST	Raiz	Sintomatica	Ag
+V14.16s	R-ST	Raiz	Sintomatica	Ag
+V15.16s	R-SILV	Raiz	Silvestre	Ir
+V16.16s	R-SILV	Raiz	Silvestre	Ir
