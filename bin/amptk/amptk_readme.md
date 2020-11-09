@@ -11,9 +11,11 @@ This directory content 3 scripts:
 Input sequence forqrd and reverse are in format fastq. AMPtk scripts consist in four steps: Pre-Processing, Clustering, OTU table filtering and Taxonomy. The parameters of each steps its variable acourding scripts: 
 
 **Pre-Processing**
+
 For `ITS_paired.sh` and `16S_paired.sh`, I use merged sequence, using option default of `--reads`. For script `ITS_forward-sh` I use only forward sequence indicate in option `--reads forward`. For ITS merged adn forward sequence, minimum length read to keep its 150pb and trim length in 300pb. For 16SrRNA sequence I trim length in a 450 pb, and min length is a 400 pb. 
 
 **Clustering**
+
 I use the uchime reference chimeras for filter according to sequence: If its 16SrRNA use `--uchime_ref 16S` and if its ITS use `--uchime_ref ITS`. The min size to select a OTU is 10 for two cases. 
 
 **Filtering**
