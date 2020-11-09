@@ -2,7 +2,7 @@
 # -*- ENCODING: UTF-8 -*-
 
 #R1 and R2 sequence are contained in the illumina_ITS_data/ directory. The output files are content in the ITS_merged/ directory. 
-amptk illumina -i illumina_ITS_data/ -o ITS_merged/ -f ITS3 -r ITS4 -l 300 --min_len 150 --full_length --cleanup 
+amptk illumina -i illumina_ITS_data/ -o ITS_merged/ -f ITS3 -r ITS4 -l 300 --min_len 150 --cleanup 
 
 #Make new folder in to ITS_merged/ directory and copy .demux files to the new folder
 cd ITS_merged
