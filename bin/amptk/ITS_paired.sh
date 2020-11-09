@@ -5,10 +5,9 @@
 amptk illumina -i illumina_ITS_data/ -o ITS_merged/ -f ITS3 -r ITS4 -l 300 --min_len 150 --cleanup 
 
 #Make new folder in to ITS_merged/ directory and copy .demux files to the new folder
-cd ITS_merged
-mkdir cluster_data
-cp *.demux.fq cluster_data/ 
-cd cluster_data/
+
+mkdir ../data/cluster_data
+mv *.demux.fq cluster_data/ 
 
 #OTU clustering using UPARSE with 97% of identy. I run this command of each sample, and I specify the name of output file. 
 amptk cluster -i V1.demux.fq -o V1_cluster --uchime_ref ITS -m 10
