@@ -2,7 +2,7 @@
 # -*- ENCODING: UTF-8 -*-
 
 #R1 and R2 sequence are contained in the illumina_16S_data/ directory. The output files are content in the 16S_merged/ directory. 
-amptk illumina -i illumina_16S_data/ -o 16S_merged/ -f CCTACGGGNGGCWGCAG -r GACTACHVGGGTATCTAATCC -l 450 --min_len 400 --full_length --cleanup 
+amptk illumina -i illumina_16S_data/ -o 16S_merged/ -f CCTACGGGNGGCWGCAG -r GACTACHVGGGTATCTAATCC -l 300 --min_len 150 --cleanup 
 
 #Make new folder in to 16S_merged/ directory and copy .demux files to the new folder
 cd 16S_merged
