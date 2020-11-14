@@ -11,4 +11,4 @@
 #amptk filter -i Fwd_ITS_cluster.otu_table.txt -f Fwd_ITS_cluster.cluster.otus.fa -o Fwd_filter -p 0.005 --min_reads_otu 10
 
 #Assign taxonomy to OTUs
-amptk taxonomy -f Fwd_filter.filtered.otus.fa -i Fwd_filter.final.txt -o Fwd_taxonomy -m mapping_file.txt -d ITS2 --tax_filter Fungi(base) arihel@pavilion:/hdd/arihel/se
+amptk taxonomy -f Fwd_filter.filtered.otus.fa -i Fwd_filter.final.txt -o Fwd_taxonomy -m mapping_file.txt -d ITS2 --tax_filter Fungi
