@@ -5,37 +5,17 @@
 amptk illumina -i illumina_16S_data/ -o 16S_merged/ -f CCTACGGGNGGCWGCAG -r GACTACHVGGGTATCTAATCC -l 300 --min_len 150 --cleanup 
 
 #Make new folder in to 16S_merged/ directory and copy .demux files to the new folder
-cd 16S_merged
-mkdir cluster_data
-cp *.demux.fq cluster_data/ 
-cd cluster_data/
+mkdir ../../data/16S_merged/illumina
+mv *.demux.fq ../../data/16S_merged/illumina
 
 #OTU clustering using UPARSE with 97% of identy. I run this command of each sample, and I specify the name of output file. 
-amptk cluster -i V1.demux.fq -o V1_cluster --uchime_ref 16S -m 10
-amptk cluster -i V2.demux.fq -o V2_cluster --uchime_ref 16S -m 10
-amptk cluster -i V3.demux.fq -o V3_cluster --uchime_ref 16S -m 10
-amptk cluster -i V4.demux.fq -o V4_cluster --uchime_ref 16S -m 10
-amptk cluster -i V5.demux.fq -o V5_cluster --uchime_ref 16S -m 10
-amptk cluster -i V6.demux.fq -o V6_cluster --uchime_ref 16S -m 10
-amptk cluster -i V7.demux.fq -o V7_cluster --uchime_ref 16S -m 10
-amptk cluster -i V8.demux.fq -o V8_cluster --uchime_ref 16S -m 10
-amptk cluster -i V9.demux.fq -o V9_cluster --uchime_ref 16S -m 10
-amptk cluster -i V10.demux.fq -o V10_cluster --uchime_ref 16S -m 10
-amptk cluster -i V11.demux.fq -o V11_cluster --uchime_ref 16S -m 10
-amptk cluster -i V12.demux.fq -o V12_cluster --uchime_ref 16S -m 10
-amptk cluster -i V13.demux.fq -o V13_cluster --uchime_ref 16S -m 10
-amptk cluster -i V14.demux.fq -o V14_cluster --uchime_ref 16S -m 10
-amptk cluster -i V15.demux.fq -o V15_cluster --uchime_ref 16S -m 10
-amptk cluster -i V16.demux.fq -o V16_cluster --uchime_ref 16S -m 10
+amptk cluster -i ../../data/16S_merged/*demux.fq -o cluster/ --uchime_ref 16S -m 10
+
 
 #Move directory cluster_data/ with OTU Tables and fasta files
-cd ..
-mv 16S_merged/cluster_data cluster_data
-mkdir filter
-cp cluster_data/*.txt filter/
-cp cluster_data/*.fa filter/
-cp cluster_data/*.log filter/
-cd filter
+mkdir ../../data/cluster
+mv ../../data/cluster cluster
+
 
 #Filter OTU Table acourding 
 amptk filter -i V1_cluster.otu_table.txt -f V1_cluster.cluster.otus.fa -o V1_filter -p 0.005 --min_reads_otu 10
