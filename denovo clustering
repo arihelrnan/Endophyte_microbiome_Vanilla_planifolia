@@ -1,0 +1,21 @@
+#http://qiime.org/tutorials/tutorial.html
+#Pick OTUs based on sequence similarity within the reads 
+pick_otus.py -i allseqs.fasta -j 0.97
+
+#Pick a representative sequence for each OTU 
+pick_rep_set.py -i uclust_picked_otus/allseqs_otus.txt -f allseqs.fasta
+
+#Assign taxonomy to OTU representative sequences 
+assign_taxonomy.py -i allseqs.fasta_rep_set.fasta 
+
+#Align OTU representative sequences 
+align_seqs.py -i allseqs.fasta_rep_set.fasta -m muscle
+
+#Filter the alignment 
+filter_alignment.py -i muscle_aligned/allseqs.fasta_rep_set_aligned.fasta  
+
+#Build a phylogenetic tree
+make_phylogeny.py -i allseqs.fasta_rep_set_aligned_pfiltered.fasta 
+
+#Make the OTU table 
+make_otu_table.py -i pickdenovo/uclust_picked_otus/allseqs_otus.txt -o output_biom_fp.biom
