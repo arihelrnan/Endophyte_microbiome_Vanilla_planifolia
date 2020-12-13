@@ -1,0 +1,8 @@
+#ITS_OTU.fasta is the file with Ariel's sequences
+#in the directory endophytes_sequences are all the files with my sequences.
+
+cat endoseqsids.txt | while read line
+do
+blastn -query endophytes_sequences/$line.fasta -subject ITS_OTU.fasta -out otussearch/otus_complete_$line.txt -max_target_seqs 5 -outfmt 6
+done
+
