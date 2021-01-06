@@ -1,14 +1,17 @@
-#SampleID	Variables	Tejido	Estado	Tratamiento
-V3.16s	T-AST	Tallo	Asintomatica	Ar
-V5.16s	T-ST	Tallo	Sintomatica	Ir
-V6.16s	T-ST	Tallo	Sintomatica	Ir
-V7.16s	T-SILV	Tallo	Silvestre	Ar S/L
-V8.16s	T-SILV	Tallo	Silvestre	Ar S/L
-V9.16s	R-AST	Raiz	Asintomatica	Fe
-V10.16s	R-AST	Raiz	Asintomatica	Fe
-V11.16s	R-AST	Raiz	Asintomatica	Fe
-V12.16s	R-ST	Raiz	Sintomatica	Ag
-V13.16s	R-ST	Raiz	Sintomatica	Ag
-V14.16s	R-ST	Raiz	Sintomatica	Ag
-V15.16s	R-SILV	Raiz	Silvestre	Ir
-V16.16s	R-SILV	Raiz	Silvestre	Ir
+#SampleID	Variables	Organ
+V1	Asymptomatic	Stem
+V2	Asymptomatic	Stem
+V3	Asymptomatic	Stem
+V4	Symptomatic	Stem
+V5	Symptomatic	Stem
+V6	Symptomatic	Stem
+V7	Wild	Stem
+V8	Wild	Stem
+V9	Asymptomatic	Root
+V10	Asymptomatic	Root
+V11	Asymptomatic	Root
+V12	Symptomatic	Root
+V13	Symptomatic	Root
+V14	Symptomatic	Root
+V15	Wild	Root
+V16	Wild	Root
