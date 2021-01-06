@@ -1,0 +1,975 @@
+#OTU_ID	V1.ITS	V2.ITS	V3.ITS	V4.ITS	V5.ITS	V6.ITS	V7.ITS	V8.ITS	V9.ITS	V10.ITS	V11.ITS	V12.ITS	V13.ITS	V14.ITS	V15.ITS	V16.ITS	taxonomy
+New.CleanUp.ReferenceOTU2	21	0	6	5	23	434	53	0	0	8	0	5	6	0	468	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Bipolaris
+New.CleanUp.ReferenceOTU10	207	0	0	0	9	32	0	0	5	5	13	0	5	0	0	12	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU11	7	18	0	1272	0	6	0	0	8	0	1079	0	0	0	8	50	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU14	62	15083	101	0	35	0	0	0	9	24	9	0	7	213	0	1729	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Corynesporascaceae; g__Corynespora
+New.CleanUp.ReferenceOTU20	7	0	0	15	6	331	0	0	6	0	30	12	0	18	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU22	231	176	0	0	120	6	0	5	0	0	0	13	7	27	24	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae; g__Tetracladium; s__unidentified
+New.CleanUp.ReferenceOTU23	67	0	478	25	0	13	0	14	0	0	72	0	6	11	30	8	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Curvularia
+New.CleanUp.ReferenceOTU24	524	0	15197	0	19	0	110	18	5	0	8	0	0	10	0	53	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU25	12231	38	11691	0	5	359	0	0	17	0	10	0	10	0	239	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Corynesporascaceae; g__Corynespora
+New.CleanUp.ReferenceOTU27	18	0	12	275	0	0	34	0	0	14	6	0	8	0	740	0	Unclassified
+New.CleanUp.ReferenceOTU28	10	388	0	11	0	0	0	0	22	5	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Amphinema; s__Amphinema_byssoides
+New.CleanUp.ReferenceOTU33	150	24	0	0	0	0	0	0	0	0	0	0	9	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU35	9	7	0	5	0	0	0	0	0	0	0	5	45	0	9	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria
+New.CleanUp.ReferenceOTU37	208	0	0	109	0	14	0	0	0	0	17	0	0	8	9	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideomycetes_ord_Incertae_sedis; f__Dothideomycetes_fam_Incertae_sedis; g__Gonatophragmium; s__Gonatophragmium_triuniae
+New.CleanUp.ReferenceOTU38	33	24	0	22127	6	0	16	9	9	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium; s__Acremonium_alternatum
+New.CleanUp.ReferenceOTU39	63	0	6	0	23	0	0	0	57	412	0	0	5	15	0	6	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+New.CleanUp.ReferenceOTU40	11	0	0	0	209	0	0	0	0	0	0	0	71	0	0	27	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Gibellulopsis; s__Gibellulopsis_piscis
+New.CleanUp.ReferenceOTU48	13	0	7	0	0	0	5	0	12	8	128	14761	0	25	55	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae
+New.CleanUp.ReferenceOTU49	5	0	0	0	0	0	0	0	9	0	0	1846	42	11	101	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU4	0	10	25	0	0	0	0	0	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Hysteriales; f__Hysteriaceae; g__Rhytidhysteron; s__Rhytidhysteron_rufulum
+New.CleanUp.ReferenceOTU13	0	5314	11	0	16	0	0	51	12	492	0	6	0	0	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU34	0	175	0	0	7	40	0	68	364	0	0	0	7	0	0	12	Unclassified
+New.CleanUp.ReferenceOTU41	0	103	10	0	0	0	8	20	0	0	0	0	8	774	0	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Periconiaceae; g__Periconia; s__Periconia_byssoides
+New.CleanUp.ReferenceOTU42	0	13	0	0	0	6	11	0	7	0	211	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Biatriosporaceae; g__Biatriospora; s__unidentified
+New.CleanUp.ReferenceOTU5	0	0	8	31	87	53	0	0	0	0	6	6	0	0	9	23	Unclassified
+New.CleanUp.ReferenceOTU6	0	0	19	0	290	0	191	7	0	8	8	17	0	6	0	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU50	0	0	19	0	6	45	33	55	0	0	0	14	0	27	47	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Filobasidiales; f__Filobasidiaceae; g__Filobasidium; s__Filobasidium_magnum
+New.CleanUp.ReferenceOTU51	0	0	443	0	0	9	0	0	23	0	6	44	52	125	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU55	0	0	15	0	6	0	7	386	6	0	18	6	84	0	0	98	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU56	0	0	9	0	5	17	0	21	11	0	0	9	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Gibberella
+New.CleanUp.ReferenceOTU58	0	0	10	0	0	0	12	6	47	0	6	0	25	8	0	0	k__Fungi; p__Basidiomycota; c__Atractiellomycetes; o__Atractiellales; f__Hoehnelomycetaceae; g__Atractiella; s__unidentified
+New.CleanUp.ReferenceOTU64	0	0	9	0	1304	6	11	7	133	0	26	63	0	71	0	6	Unclassified
+New.CleanUp.ReferenceOTU69	0	0	282	0	5	0	38	18	6	0	0	0	0	0	11	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU71	0	0	119	0	29	9	0	0	7	6	0	0	0	9	17	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+New.CleanUp.ReferenceOTU77	0	0	12	0	20	124	0	0	86	18	10	19	0	5	27	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU82	0	0	5	0	0	20232	0	0	0	0	0	0	7	888	5	20	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU84	0	0	84	0	12	400	0	7	9	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum; s__Colletotrichum_gloeosporioides
+New.CleanUp.ReferenceOTU85	0	0	12	0	59	6	54	0	48	0	0	45	0	0	42	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Tremellaceae; g__Cryptococcus; s__unidentified
+New.CleanUp.ReferenceOTU86	0	0	11	0	45	0	0	0	23	0	6	22	5	0	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU90	0	0	10	0	100	13	0	0	0	0	0	25	0	0	0	17	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU93	0	0	5	0	27	208	0	0	0	0	0	0	42	0	0	5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU94	0	0	330	0	31	0	0	0	17	0	10	36	0	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU95	0	0	9	0	33	0	0	63	5	0	0	72	0	6	0	15	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU98	0	0	6	0	0	68	6	0	0	0	0	0	5	5	0	10	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Torulaceae; g__Torula
+New.CleanUp.ReferenceOTU101	0	0	16	0	6	307	0	0	0	6	986	0	198	11	14408	6	k__Fungi; p__Basidiomycota; c__Agaricostilbomycetes
+New.CleanUp.ReferenceOTU102	0	0	255	0	0	0	0	0	0	0	15	6	10	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU105	0	0	17	0	292	0	0	0	10	0	0	0	0	27	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Neophaeococcomyces; s__Neophaeococcomyces_catenatus
+New.CleanUp.ReferenceOTU106	0	0	5	0	0	0	0	18	7	0	5	26	41	0	153	12	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU113	0	0	26	0	18	9	8	0	0	0	49	0	0	0	13	0	Unclassified
+New.CleanUp.ReferenceOTU114	0	0	782	0	0	0	0	26	0	0	7	7	10	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Torulaceae; g__Dendryphion; s__Dendryphion_europaeum
+New.CleanUp.ReferenceOTU115	0	0	513	0	0	0	0	17	8	0	0	0	0	9	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia
+New.CleanUp.ReferenceOTU121	0	0	455	0	9	0	0	0	0	8	0	0	0	0	0	25	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU122	0	0	10	0	25	0	0	0	0	0	6	144	28	143	0	9	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU123	0	0	58	0	0	0	0	0	7	0	18	0	0	0	21	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+New.CleanUp.ReferenceOTU125	0	0	50	0	5	0	0	0	0	0	0	39	0	7	5	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleraceae; g__Genolevuria
+New.CleanUp.ReferenceOTU126	0	0	7	0	6	0	0	0	10	255	0	26	0	0	0	26	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU128	0	0	8	0	9	5	0	9	8	0	0	6	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU130	0	0	35	0	0	27	0	103	0	0	10	7	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia
+New.CleanUp.ReferenceOTU133	0	0	50	0	0	0	0	0	0	0	59	8	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU134	0	0	4699	0	0	0	0	0	24	0	0	5	0	10	24	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU135	0	0	2529	0	0	0	0	5	7	88	0	10	0	9	6	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU136	0	0	1741	0	0	11	0	0	5	162	12	7	0	9	7	16	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU138	0	0	5	0	0	13	0	0	0	0	5	0	10	0	24	68	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU139	0	0	5	0	9	0	0	24	13	11	0	0	0	0	5	0	Unclassified
+New.CleanUp.ReferenceOTU144	0	0	6	0	5	11	0	0	0	0	0	38	32	0	0	5	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana; s__Strelitziana_eucalypti
+New.CleanUp.ReferenceOTU145	0	0	31	0	300	0	0	0	0	5	0	96	8	0	0	9	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae
+New.CleanUp.ReferenceOTU152	0	0	156	0	0	26549	0	355	16	0	0	0	6	0	0	6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Periconiaceae; g__Periconia
+New.CleanUp.ReferenceOTU154	0	0	22	0	14	7	0	85	0	0	461	0	18	0	69	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__Orbilia_corculispora
+New.CleanUp.ReferenceOTU158	0	0	20	0	6	0	0	240	0	0	0	6	8	5	0	65	Unclassified
+New.CleanUp.ReferenceOTU161	0	0	28	0	0	29	0	0	0	0	20	0	8	29	0	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+New.CleanUp.ReferenceOTU163	0	0	12	0	20	31	0	0	0	0	18	8	0	0	96	18	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU165	0	0	36	0	0	15	0	0	0	53	17	57	10	9	6	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Phaeomoniellales; f__Phaeomoniellaceae
+New.CleanUp.ReferenceOTU167	0	0	17	0	0	27	0	0	11	0	0	0	6	0	0	5	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cryptococcaceae; g__Kwoniella; s__Kwoniella_dendrophila
+New.CleanUp.ReferenceOTU168	0	0	18	0	0	7	0	0	8	0	23	5	0	98	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Erythrobasidiales; f__Erythrobasidiaceae; g__Erythrobasidium; s__Erythrobasidium_hasegawianum
+New.CleanUp.ReferenceOTU170	0	0	5	0	10	0	0	0	41	0	10	0	8	0	14	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU173	0	0	28	0	0	0	0	0	0	0	0	5	0	0	19	22	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU174	0	0	80	0	0	14	0	0	29	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+New.CleanUp.ReferenceOTU180	0	0	5	0	0	0	0	0	0	0	12	0	6	6	0	10	k__Fungi; p__Basidiomycota; c__Agaricostilbomycetes; o__Agaricostilbales; f__Chionosphaeraceae
+New.CleanUp.ReferenceOTU181	0	0	147	0	0	6	0	74	0	0	15	35	0	20	8	29	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Leptosphaeriaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU183	0	0	45	0	0	0	0	75	0	0	7	6	0	179	0	14	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae
+New.CleanUp.ReferenceOTU185	0	0	14	0	7	8	0	12	0	7	8	9	21	25	388	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Magnaporthales; f__Magnaporthaceae
+New.CleanUp.ReferenceOTU190	0	0	6	0	0	0	0	14	33	418	5	10	0	0	10	16	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU191	0	0	7	0	0	8	0	27	6	199	5689	6	9	0	0	35	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliales_fam_Incertae_sedis; g__Lecophagus; s__unidentified
+New.CleanUp.ReferenceOTU192	0	0	16	0	0	0	0	6	81	0	0	18	0	0	0	2421	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU193	0	0	15	0	0	0	0	0	7	19	6	9	279	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU199	0	0	18	0	0	0	0	8	12	0	5	82	0	0	347	24545	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Lophiostomataceae; g__Lophiostoma
+New.CleanUp.ReferenceOTU201	0	0	5	0	0	0	0	0	8	0	0	0	0	0	90	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Teichosporaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU203	0	0	6	0	0	0	0	0	24	0	24	0	0	7	59	8	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Torulaceae; g__Torula; s__unidentified
+New.CleanUp.ReferenceOTU204	0	0	311	0	0	0	0	0	0	41	8	0	20	10	43	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU209	0	0	8	0	0	0	0	19	18	0	251	33	192	8	0	10	k__Fungi; p__Chytridiomycota; c__GS13; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU210	0	0	15	0	0	0	0	0	12	0	0	0	0	59	0	13	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU212	0	0	140	0	0	0	0	5	14	0	0	0	0	14	0	14	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU214	0	0	148	0	0	0	0	0	5	0	0	0	13	0	14	42	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Coniothyriaceae
+New.CleanUp.ReferenceOTU215	0	0	13	0	0	0	0	0	10	0	0	0	14	11	64	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU217	0	0	16	0	0	0	0	5	0	0	21	0	0	0	5	104	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes
+New.CleanUp.ReferenceOTU221	0	0	9	0	0	0	0	7	0	22	53	21	5	16	0	5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU223	0	0	5	0	0	0	0	9	5	8	13	60	0	0	18	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU230	0	0	27	0	0	0	0	16	13	5	12	6	8	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Bartaliniaceae
+New.CleanUp.ReferenceOTU235	0	0	10	0	0	0	0	0	0	0	0	11	0	0	53	47	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU236	0	0	8	0	0	0	0	0	0	0	14	218	7	7	0	8	Unclassified
+New.CleanUp.ReferenceOTU241	0	0	8	0	0	0	0	14	24	0	7	0	0	0	0	5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU242	0	0	275	0	0	0	0	0	0	0	0	10	17	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Rhynchogastremataceae; g__Papiliotrema; s__Papiliotrema_laurentii
+New.CleanUp.ReferenceOTU243	0	0	7	0	0	0	0	9	20	0	0	23	0	0	0	68	Unclassified
+New.CleanUp.ReferenceOTU244	0	0	177	0	0	0	0	22	8	0	0	0	6	25	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum; s__Colletotrichum_gigasporum
+New.CleanUp.ReferenceOTU245	0	0	58	0	0	0	0	0	0	0	27	0	11	25	15	18	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU246	0	0	149	0	0	0	0	0	2642	0	22	0	0	0	19	6	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Togniniales; f__Togniniaceae; g__Phaeoacremonium; s__Phaeoacremonium_rubrigenum
+New.CleanUp.ReferenceOTU247	0	0	6	0	0	0	0	7	0	0	57	5	65	0	21	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU250	0	0	5	0	0	0	0	6	27333	0	0	6	8	0	6	17	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Dictyosporiaceae; g__Dictyosporium; s__Dictyosporium_heptasporum
+New.CleanUp.ReferenceOTU253	0	0	58	0	0	0	0	0	5965	0	0	0	6	5	0	19	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU254	0	0	11	0	0	0	0	0	1295	0	0	0	31	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU256	0	0	45	0	0	0	0	0	0	0	123	0	0	15	7	105	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana; s__Strelitziana_africana
+New.CleanUp.ReferenceOTU263	0	0	5	0	0	0	0	0	23	0	0	5	86	0	5	10	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU264	0	0	6	0	0	0	0	0	31	0	0	39	23	15	0	24	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU265	0	0	11	0	0	0	0	0	0	0	6	5	5	8	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+New.CleanUp.ReferenceOTU270	0	0	93	0	0	0	0	0	0	0	16	43	6	0	0	30	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU279	0	0	5	0	0	0	0	0	0	0	0	5	5	0	0	10	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Leptosphaeriaceae
+New.CleanUp.ReferenceOTU282	0	0	7	0	0	0	0	0	6	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Cladosporiaceae; g__Rachicladosporium
+New.CleanUp.ReferenceOTU284	0	0	123	0	0	0	0	0	13	0	0	8	12	0	7	0	Unclassified
+New.CleanUp.ReferenceOTU285	0	0	77	0	0	0	0	0	0	0	0	0	0	259	48	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU288	0	0	303	0	0	0	0	6	0	0	0	0	0	0	10	0	k__Fungi; p__Basidiomycota; c__Classiculomycetes; o__Classiculales; f__Classiculaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU289	0	0	820	0	0	0	0	17	0	0	0	20	0	0	8	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU290	0	0	6678	0	0	0	0	0	0	0	12	13	0	13	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana; s__Strelitziana_africana
+New.CleanUp.ReferenceOTU295	0	0	32	0	0	0	0	0	0	0	71	0	6	0	6	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU297	0	0	8	0	0	0	0	230	0	0	0	30	0	20	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU298	0	0	46	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae
+New.CleanUp.ReferenceOTU299	0	0	8	0	0	0	0	0	0	0	0	0	0	0	58	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU304	0	0	33	0	0	0	0	0	0	0	0	8	6	0	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU308	0	0	5	0	0	0	0	5	0	0	30	15	0	70	13	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma; s__Vishniacozyma_taibaiensis
+New.CleanUp.ReferenceOTU309	0	0	18	0	0	0	0	0	0	0	15	0	7	0	7	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU318	0	0	82	0	0	0	0	0	0	0	71	0	35	14	38	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU329	0	0	5	0	0	0	0	0	0	0	0	6	33	262	7	0	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Microstromatales; f__Microstromatales_fam_Incertae_sedis; g__Jaminaea; s__unidentified
+New.CleanUp.ReferenceOTU334	0	0	176	0	0	0	0	0	0	0	9	0	16	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU339	0	0	5	0	0	0	0	14	0	0	9	0	0	0	8	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU340	0	0	17	0	0	0	0	0	0	0	8	0	0	7	35	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU341	0	0	26	0	0	0	0	0	0	0	8	11	8	34	7	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU343	0	0	6864	0	0	0	0	5	0	0	0	0	147	0	27	0	Unclassified
+New.CleanUp.ReferenceOTU344	0	0	4519	0	0	0	0	12	0	0	0	0	0	15	247	0	Unclassified
+New.CleanUp.ReferenceOTU345	0	0	7282	0	0	0	0	9	0	0	59	0	0	0	9	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Alternaria; s__Alternaria_alternata
+New.CleanUp.ReferenceOTU346	0	0	17	0	0	0	0	0	0	0	0	380	83	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Strelitziana
+New.CleanUp.ReferenceOTU348	0	0	6	0	0	0	0	17	0	0	0	1703	13	8	11	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU349	0	0	6	0	0	0	0	8	0	0	0	9267	0	253	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae
+New.CleanUp.ReferenceOTU350	0	0	11	0	0	0	0	26	0	0	0	0	0	0	14	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+New.CleanUp.ReferenceOTU357	0	0	759	0	0	0	0	0	0	0	0	106	12	15	18	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia
+New.CleanUp.ReferenceOTU358	0	0	11	0	0	0	0	0	0	0	0	0	0	7	0	0	Unclassified
+New.CleanUp.ReferenceOTU359	0	0	21	0	0	0	0	0	0	0	53	0	20	8	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales; f__Helotiaceae
+New.CleanUp.ReferenceOTU361	0	0	415	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Dictyosporiaceae; g__Dictyosporium; s__Dictyosporium_heptasporum
+New.CleanUp.ReferenceOTU363	0	0	10	0	0	0	0	8	0	0	0	0	0	0	6	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU368	0	0	172	0	0	0	0	5	0	0	0	29	9	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Bartaliniaceae
+New.CleanUp.ReferenceOTU374	0	0	30	0	0	0	0	11	0	0	0	120	0	0	17	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales
+New.CleanUp.ReferenceOTU377	0	0	6	0	0	0	0	0	0	0	11	0	0	198	7	0	Unclassified
+New.CleanUp.ReferenceOTU7	0	0	0	34	149	0	0	0	76	0	574	7	27	204	30	15	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia; s__Neodevriesia_pakbiae
+New.CleanUp.ReferenceOTU18	0	0	0	15	28	11	12	40	0	9	0	35	0	16	143	7	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae
+432904	0	0	0	0	6	5	0	0	0	0	0	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU44	0	0	0	0	23	225	0	7	7	0	0	0	0	0	12	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium; s__Acremonium_alternatum
+New.CleanUp.ReferenceOTU47	0	0	0	0	6	0	0	7	7	5	40	15	46	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia; s__Neodevriesia_pakbiae
+New.CleanUp.ReferenceOTU53	0	0	0	0	5	1425	19	0	0	0	163	19	0	0	6	1370	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Hyalocladosporiella; s__Hyalocladosporiella_tectonae
+New.CleanUp.ReferenceOTU54	0	0	0	0	233	0	0	0	0	0	0	0	39	0	44	3941	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Devriesia; s__Devriesia_strelitziicola
+New.CleanUp.ReferenceOTU62	0	0	0	0	88	0	0	0	58	0	0	0	18	0	9	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia; s__Neodevriesia_pakbiae
+New.CleanUp.ReferenceOTU63	0	0	0	0	10	632	0	31	7	6	0	0	142	0	0	72	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Biatriosporaceae; g__Biatriospora; s__Biatriospora_mackinnonii
+New.CleanUp.ReferenceOTU65	0	0	0	0	49	0	0	0	17	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU66	0	0	0	0	19	0	0	0	0	0	0	0	0	29	9	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Xylaria; s__Xylaria_hypoxylon
+New.CleanUp.ReferenceOTU68	0	0	0	0	6	85	0	11	0	0	0	0	42	13	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU76	0	0	0	0	109	0	0	10	336	3417	5	0	8	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_guyanensis
+New.CleanUp.ReferenceOTU78	0	0	0	0	44	9	0	8	0	31	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Lophiostomataceae; g__Lophiostoma; s__unidentified
+New.CleanUp.ReferenceOTU79	0	0	0	0	5	0	0	13	0	0	32	328	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU81	0	0	0	0	16	0	11	35	0	0	0	0	98	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU83	0	0	0	0	8	1249	0	0	23	0	0	0	45	13	0	0	Unclassified
+New.CleanUp.ReferenceOTU87	0	0	0	0	6	0	0	0	0	0	0	0	0	58	24	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinopsis
+New.CleanUp.ReferenceOTU103	0	0	0	0	16	0	22	0	15	8	120	8	37	0	11	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiomycetes_ord_Incertae_sedis; f__Symmetrosporaceae; g__Symmetrospora; s__Symmetrospora_marina
+New.CleanUp.ReferenceOTU107	0	0	0	0	6	12	42	68	0	0	0	44	0	12	5	21	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Pleurotheciales; f__Pleurotheciaceae; g__Phaeoisaria
+New.CleanUp.ReferenceOTU112	0	0	0	0	81	25	0	0	0	0	0	0	104	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU117	0	0	0	0	587	8	10	0	0	5	10	37	38	0	0	155	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Biatriosporaceae; g__Biatriospora; s__Biatriospora_mackinnonii
+New.CleanUp.ReferenceOTU119	0	0	0	0	8	0	0	118	56	0	0	0	0	12	0	37	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU124	0	0	0	0	6	0	0	0	0	0	0	0	33	15	10	6	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Peniophoraceae; g__Peniophora
+New.CleanUp.ReferenceOTU127	0	0	0	0	32	76	0	0	0	14447	0	19	0	33	11	25	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU132	0	0	0	0	5	0	0	0	0	0	19	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU137	0	0	0	0	5	0	0	5	0	23	22	0	8	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Atheliales; f__Atheliaceae; g__Amphinema; s__Amphinema_byssoides
+New.CleanUp.ReferenceOTU140	0	0	0	0	22	0	0	14	7	0	15	7	0	0	57	9	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae; g__Zymoseptoria; s__Zymoseptoria_brevis
+New.CleanUp.ReferenceOTU141	0	0	0	0	19	0	0	0	0	0	0	94	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__Thanatephorus; s__Thanatephorus_cucumeris
+New.CleanUp.ReferenceOTU142	0	0	0	0	613	32	0	0	0	0	0	0	0	0	59	10	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_guyanensis
+New.CleanUp.ReferenceOTU149	0	0	0	0	572	8	0	0	0	0	17	9	0	0	30	0	Unclassified
+New.CleanUp.ReferenceOTU150	0	0	0	0	7	7	0	0	0	0	0	0	0	6	8	10	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma
+New.CleanUp.ReferenceOTU153	0	0	0	0	8	9471	0	0	0	22	19	106	7	0	14	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Thermoascaceae; g__Byssochlamys; s__Byssochlamys_spectabilis
+New.CleanUp.ReferenceOTU164	0	0	0	0	640	0	0	0	0	0	64	0	24	58	0	20	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia; s__Neodevriesia_pakbiae
+New.CleanUp.ReferenceOTU166	0	0	0	0	7	21	0	0	0	0	34	7	0	36	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiales; f__Cystobasidiaceae; g__Occultifur
+New.CleanUp.ReferenceOTU176	0	0	0	0	11	0	0	5	33	0	50	12	5	12	7	19	Unclassified
+New.CleanUp.ReferenceOTU178	0	0	0	0	19	0	0	13	10	0	6	31	0	8	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Phyllostictaceae; g__Phyllosticta; s__Phyllosticta_capitalensis
+New.CleanUp.ReferenceOTU182	0	0	0	0	5	170	0	0	0	107	127	14	5	819	0	108	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Arthopyreniaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU184	0	0	0	0	9	31	0	0	0	7	0	0	0	30	397	32381	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU46	0	0	0	0	0	255	0	7	91	0	523	28	12	0	13	5	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum; s__Colletotrichum_gigasporum
+New.CleanUp.ReferenceOTU57	0	0	0	0	0	7	0	7	0	0	0	13	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU60	0	0	0	0	0	13	0	6	67	0	15	8	13	7	34	27	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU61	0	0	0	0	0	6	5	0	0	8	5	27	15	0	151	14	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma; s__Vishniacozyma_taibaiensis
+New.CleanUp.ReferenceOTU70	0	0	0	0	0	14	0	0	7	0	21	0	9	92	17	27	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU73	0	0	0	0	0	16	0	0	6	12378	5	327	0	0	44	6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporales_fam_Incertae_sedis; g__Pseudorobillarda
+New.CleanUp.ReferenceOTU74	0	0	0	0	0	135	0	0	0	3184	0	0	31	0	6	59	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU89	0	0	0	0	0	75	0	15	14	12	0	0	0	18	12	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Devriesia; s__Devriesia_strelitziicola
+New.CleanUp.ReferenceOTU96	0	0	0	0	0	6	0	0	0	0	35	5	0	21	7	169	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU100	0	0	0	0	0	24	286	0	10	0	0	0	6	164	14	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+New.CleanUp.ReferenceOTU116	0	0	0	0	0	6	0	15	0	0	0	0	0	0	63	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Wiesneriomycetaceae; g__Wiesneriomyces; s__Wiesneriomyces_laurinus
+New.CleanUp.ReferenceOTU118	0	0	0	0	0	100	0	0	6	0	5	0	0	76	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU131	0	0	0	0	0	205	0	8	0	0	0	0	0	14	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU147	0	0	0	0	0	26	0	0	45	0	5	0	0	12	8	5	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae; g__Zymoseptoria; s__Zymoseptoria_brevis
+New.CleanUp.ReferenceOTU155	0	0	0	0	0	85	0	139	0	0	0	0	0	0	0	10	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae
+New.CleanUp.ReferenceOTU157	0	0	0	0	0	17	0	17	57	0	2294	45	0	11	12	9	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU172	0	0	0	0	0	568	0	0	0	0	11	677	0	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU175	0	0	0	0	0	8	0	12695	0	16	11	0	33	0	0	7	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Dissoconiaceae; g__Uwebraunia; s__Uwebraunia_musae
+New.CleanUp.ReferenceOTU186	0	0	0	0	0	580	0	19	26	0	14	0	0	0	7	148	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU195	0	0	0	0	0	18	0	0	7	17	0	0	23	0	31	8	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae; g__Didymella; s__Didymella_exigua
+New.ReferenceOTU8	0	0	0	0	0	0	26846	0	0	0	0	0	12709	548	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU9	0	0	0	0	0	0	2029	0	0	0	0	0	28116	2050	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae
+New.ReferenceOTU11	0	0	0	0	0	0	1234	0	0	0	0	0	16	429	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Plectosphaerella
+New.ReferenceOTU12	0	0	0	0	0	0	124	0	0	0	0	0	53	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+New.ReferenceOTU1	0	0	0	0	0	0	16	0	0	0	0	0	1314	160	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU10	0	0	0	0	0	0	39626	0	0	0	0	0	497	441	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.ReferenceOTU4	0	0	0	0	0	0	3827	0	0	0	0	0	74	789	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Apiosporaceae; g__Arthrinium; s__Arthrinium_phaeospermum
+New.ReferenceOTU5	0	0	0	0	0	0	452	0	0	0	0	0	7202	419	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Periconiaceae; g__Periconia; s__Periconia_byssoides
+New.ReferenceOTU6	0	0	0	0	0	0	2043	0	0	0	0	0	1072	2117	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.ReferenceOTU7	0	0	0	0	0	0	25455	0	0	0	0	0	1279	13	0	0	Unclassified
+New.ReferenceOTU0	0	0	0	0	0	0	143	0	0	0	0	0	389	7447	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU59	0	0	0	0	0	0	9	0	6	5	0	0	6	0	76	18	Unclassified
+New.CleanUp.ReferenceOTU72	0	0	0	0	0	0	15	0	21643	0	0	0	0	29	30	7	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU111	0	0	0	0	0	0	543	0	0	0	6	0	0	0	0	27	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideomycetes_ord_Incertae_sedis; f__Dothideomycetes_fam_Incertae_sedis; g__Gonatophragmium; s__Gonatophragmium_triuniae
+New.CleanUp.ReferenceOTU80	0	0	0	0	0	0	0	16	0	0	0	0	18	5	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU91	0	0	0	0	0	0	0	8	7	0	0	36	0	7	0	1352	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Biatriosporaceae; g__Biatriospora; s__unidentified
+New.CleanUp.ReferenceOTU92	0	0	0	0	0	0	0	23	0	130	0	0	0	5	5	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU97	0	0	0	0	0	0	0	8	36	0	0	0	12	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Cucurbitariaceae; g__Pyrenochaetopsis; s__Pyrenochaetopsis_leptospora
+New.CleanUp.ReferenceOTU99	0	0	0	0	0	0	0	20	28	8	7	0	34	76	0	8	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU104	0	0	0	0	0	0	0	8	0	0	0	11	0	0	0	191	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU194	0	0	0	0	0	0	0	7	19	0	2751	0	0	0	0	10	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU208	0	0	0	0	0	0	0	13	47	0	16	5	0	0	6	214	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae; g__Stachybotrys; s__unidentified
+New.CleanUp.ReferenceOTU218	0	0	0	0	0	0	0	7	18	0	0	0	0	0	40	0	Unclassified
+New.CleanUp.ReferenceOTU220	0	0	0	0	0	0	0	10	0	0	15	0	0	0	0	42	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU222	0	0	0	0	0	0	0	11	9	5	8	21	0	36	12	18	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU228	0	0	0	0	0	0	0	29	0	0	0	0	0	6	9	0	Unclassified
+New.CleanUp.ReferenceOTU231	0	0	0	0	0	0	0	16	10	0	0	0	0	0	0	10	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Orbilia; s__Orbilia_aristata
+New.CleanUp.ReferenceOTU237	0	0	0	0	0	0	0	9	9	0	20	0	20	49	0	15	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Auriculariales_fam_Incertae_sedis; g__Oliveonia; s__Oliveonia_pauxilla
+New.CleanUp.ReferenceOTU238	0	0	0	0	0	0	0	5	0	0	5	0	9	25	0	0	Unclassified
+New.CleanUp.ReferenceOTU239	0	0	0	0	0	0	0	8	0	23	0	0	19	13	0	0	k__Fungi; p__Basidiomycota; c__Agaricostilbomycetes; o__Agaricostilbales; f__Chionosphaeraceae
+New.CleanUp.ReferenceOTU252	0	0	0	0	0	0	0	14	5164	0	0	0	35	23	0	12	k__Fungi; p__Chytridiomycota; c__Spizellomycetes; o__Spizellomycetales; f__Spizellomycetaceae
+New.CleanUp.ReferenceOTU259	0	0	0	0	0	0	0	6	8	0	0	0	88	0	9	6	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Erythrobasidiales
+New.CleanUp.ReferenceOTU262	0	0	0	0	0	0	0	5	5	0	0	15	0	0	0	18	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU268	0	0	0	0	0	0	0	45	0	0	156	0	108	0	0	64	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU275	0	0	0	0	0	0	0	97	6	0	0	0	0	0	81	27	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU276	0	0	0	0	0	0	0	8	0	0	0	31	0	5	66	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Reticulascaceae; g__Pseudoacrodictys
+New.CleanUp.ReferenceOTU280	0	0	0	0	0	0	0	145	0	0	7	0	0	0	103	6	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae; g__Mycosphaerella; s__unidentified
+New.CleanUp.ReferenceOTU283	0	0	0	0	0	0	0	26	8	0	10	0	5	53	11	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmotrema; s__Parmotrema_tinctorum
+New.CleanUp.ReferenceOTU287	0	0	0	0	0	0	0	16	0	0	7	5	13	6	16	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+New.CleanUp.ReferenceOTU300	0	0	0	0	0	0	0	861	0	0	0	433	27	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU312	0	0	0	0	0	0	0	5926	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU313	0	0	0	0	0	0	0	5275	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU315	0	0	0	0	0	0	0	11197	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma; s__Acrocalymma_vagum
+New.CleanUp.ReferenceOTU317	0	0	0	0	0	0	0	4566	0	0	6	32	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU324	0	0	0	0	0	0	0	9	0	0	9	102	5	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU325	0	0	0	0	0	0	0	17	0	0	514	61	15	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU326	0	0	0	0	0	0	0	58	0	0	9	44	86	0	36	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU330	0	0	0	0	0	0	0	21	0	0	0	0	20	54	12	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU331	0	0	0	0	0	0	0	17	0	0	0	0	0	5	0	0	Unclassified
+New.CleanUp.ReferenceOTU333	0	0	0	0	0	0	0	23	0	0	0	12	0	0	8	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Devriesia; s__Devriesia_strelitziicola
+New.CleanUp.ReferenceOTU335	0	0	0	0	0	0	0	21	0	0	15	10	126	0	18	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU337	0	0	0	0	0	0	0	6	0	0	143	5	13	0	6	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae; g__Brycekendrickomyces; s__Brycekendrickomyces_acaciae
+New.CleanUp.ReferenceOTU338	0	0	0	0	0	0	0	5	0	0	0	0	10	9	0	0	Unclassified
+New.CleanUp.ReferenceOTU352	0	0	0	0	0	0	0	25	0	0	0	0	0	8	8	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU353	0	0	0	0	0	0	0	5	0	0	15	0	31	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Zygosporium
+New.CleanUp.ReferenceOTU362	0	0	0	0	0	0	0	36	0	0	498	0	0	28	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU365	0	0	0	0	0	0	0	7	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU367	0	0	0	0	0	0	0	6	0	0	0	0	0	20	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU372	0	0	0	0	0	0	0	9	0	0	0	0	12	69	47	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU376	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Simplicillium
+New.CleanUp.ReferenceOTU378	0	0	0	0	0	0	0	9	0	0	0	26	10	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU380	0	0	0	0	0	0	0	23	0	0	9	0	0	21	0	0	Unclassified
+New.CleanUp.ReferenceOTU383	0	0	0	0	0	0	0	6	0	0	0	129	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU393	0	0	0	0	0	0	0	1386	0	0	11	0	0	10	43	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU394	0	0	0	0	0	0	0	57	0	0	13	147	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU395	0	0	0	0	0	0	0	5	0	0	8	0	7	57	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU399	0	0	0	0	0	0	0	7	0	0	0	5	5	12	36	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella; s__Kockovaella_prillingeri
+New.CleanUp.ReferenceOTU400	0	0	0	0	0	0	0	8	0	0	0	0	0	6	229	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Wrightoporiaceae; g__Wrightoporia; s__Wrightoporia_tropicalis
+New.CleanUp.ReferenceOTU404	0	0	0	0	0	0	0	125	0	0	14	15	25	38	6	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU410	0	0	0	0	0	0	0	15	0	0	12	0	6	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU416	0	0	0	0	0	0	0	11	0	0	6	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Periconiaceae; g__Periconia; s__Periconia_byssoides
+New.CleanUp.ReferenceOTU418	0	0	0	0	0	0	0	16	0	0	0	9	9	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales
+New.CleanUp.ReferenceOTU419	0	0	0	0	0	0	0	232	0	0	10	333	0	7	12	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU420	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma; s__Acrocalymma_vagum
+New.CleanUp.ReferenceOTU421	0	0	0	0	0	0	0	53	0	0	0	9	8	0	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU424	0	0	0	0	0	0	0	17	0	0	12	0	7	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU425	0	0	0	0	0	0	0	29	0	0	0	32	92	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU429	0	0	0	0	0	0	0	11	0	0	0	0	13	180	38	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU430	0	0	0	0	0	0	0	25	0	0	90	0	6	0	7	0	k__Fungi
+New.CleanUp.ReferenceOTU431	0	0	0	0	0	0	0	6	0	0	229	0	71	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU434	0	0	0	0	0	0	0	63	0	0	5	0	0	0	8	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Hannaella
+New.CleanUp.ReferenceOTU435	0	0	0	0	0	0	0	7	0	0	6	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU436	0	0	0	0	0	0	0	295	0	0	76	13	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU437	0	0	0	0	0	0	0	6	0	0	102	8	0	0	1222	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU439	0	0	0	0	0	0	0	59	0	0	8	0	8	15	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU443	0	0	0	0	0	0	0	820	0	0	0	0	0	9	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU446	0	0	0	0	0	0	0	16	0	0	0	0	9	5	71	0	Unclassified
+New.CleanUp.ReferenceOTU448	0	0	0	0	0	0	0	5	0	0	0	0	18	16	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_fusarioides
+New.CleanUp.ReferenceOTU449	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU450	0	0	0	0	0	0	0	9	0	0	0	0	0	21	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU451	0	0	0	0	0	0	0	8	0	0	0	0	0	31	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales_fam_Incertae_sedis; g__Lopharia; s__unidentified
+New.CleanUp.ReferenceOTU452	0	0	0	0	0	0	0	10	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU459	0	0	0	0	0	0	0	6	0	0	0	0	21	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+New.CleanUp.ReferenceOTU460	0	0	0	0	0	0	0	5	0	0	6	0	7	14	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU467	0	0	0	0	0	0	0	8	0	0	0	0	5	6	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU468	0	0	0	0	0	0	0	5	0	0	0	0	0	6	34	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Peniophoraceae; g__Peniophora; s__unidentified
+New.CleanUp.ReferenceOTU479	0	0	0	0	0	0	0	6	0	0	5	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU482	0	0	0	0	0	0	0	6	0	0	0	0	64	29	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU483	0	0	0	0	0	0	0	13	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Caliciales; f__Physciaceae; g__Physcia
+New.CleanUp.ReferenceOTU485	0	0	0	0	0	0	0	20	0	0	0	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU486	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU491	0	0	0	0	0	0	0	7	0	0	838	0	11	0	8	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Thyridariaceae
+New.CleanUp.ReferenceOTU493	0	0	0	0	0	0	0	8	0	0	10	0	8	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Erythrobasidiales; f__Erythrobasidiaceae; g__Bannoa; s__Bannoa_ogasawarensis
+New.CleanUp.ReferenceOTU494	0	0	0	0	0	0	0	12	0	0	0	0	0	5	38867	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Boliniales; f__Boliniales_fam_Incertae_sedis; g__Junewangia; s__unidentified
+New.CleanUp.ReferenceOTU495	0	0	0	0	0	0	0	80	0	0	6	0	0	0	13	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU496	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU498	0	0	0	0	0	0	0	8	0	0	0	0	45	0	42	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU499	0	0	0	0	0	0	0	16	0	0	26	0	78	0	30	0	Unclassified
+New.CleanUp.ReferenceOTU502	0	0	0	0	0	0	0	7	0	0	15	0	59	0	56	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporales_fam_Incertae_sedis; g__Nigrograna; s__unidentified
+New.CleanUp.ReferenceOTU505	0	0	0	0	0	0	0	117	0	0	9	0	11	19	0	0	Unclassified
+New.CleanUp.ReferenceOTU507	0	0	0	0	0	0	0	63	0	0	65	0	28	0	33	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporales_fam_Incertae_sedis; g__Neooccultibambusa; s__Neooccultibambusa_pandanicola
+New.CleanUp.ReferenceOTU508	0	0	0	0	0	0	0	51	0	0	0	0	0	20	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae
+New.CleanUp.ReferenceOTU511	0	0	0	0	0	0	0	70	0	0	0	0	0	0	60	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU515	0	0	0	0	0	0	0	144	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes
+New.CleanUp.ReferenceOTU516	0	0	0	0	0	0	0	12	0	0	0	0	12	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU518	0	0	0	0	0	0	0	6	0	0	0	0	38	12	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU530	0	0	0	0	0	0	0	6	0	0	9	0	59	0	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU533	0	0	0	0	0	0	0	7	0	0	0	0	15	0	10	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU536	0	0	0	0	0	0	0	62	0	0	0	0	23	9	5	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma
+New.CleanUp.ReferenceOTU538	0	0	0	0	0	0	0	181	0	0	0	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Dactylella
+New.CleanUp.ReferenceOTU539	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU540	0	0	0	0	0	0	0	189	0	0	0	0	0	0	16	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU543	0	0	0	0	0	0	0	38	0	0	161	0	35	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes
+New.CleanUp.ReferenceOTU549	0	0	0	0	0	0	0	152	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU551	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU555	0	0	0	0	0	0	0	16	0	0	0	0	28	131	9	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Magnaporthales; f__Magnaporthaceae; g__Arxiella; s__Arxiella_dolichandrae
+New.CleanUp.ReferenceOTU559	0	0	0	0	0	0	0	940	0	0	91	0	19	6	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Magnaporthales; f__Magnaporthaceae; g__Ophioceras; s__Ophioceras_leptosporum
+New.CleanUp.ReferenceOTU562	0	0	0	0	0	0	0	6	0	0	0	0	6	6	53	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU566	0	0	0	0	0	0	0	5	0	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Caliciales; f__Physciaceae; g__Physcia
+New.CleanUp.ReferenceOTU567	0	0	0	0	0	0	0	6	0	0	0	0	7	7	152	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU570	0	0	0	0	0	0	0	7	0	0	10	0	0	49	0	0	k__Fungi
+New.CleanUp.ReferenceOTU575	0	0	0	0	0	0	0	11	0	0	0	0	0	7	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Hymenochaetales; f__Schizoporaceae; g__Lyomyces; s__unidentified
+New.CleanUp.ReferenceOTU577	0	0	0	0	0	0	0	14	0	0	0	0	0	7	9	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinopsis
+New.CleanUp.ReferenceOTU578	0	0	0	0	0	0	0	7	0	0	0	0	59	0	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU580	0	0	0	0	0	0	0	9	0	0	0	0	25	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes
+New.CleanUp.ReferenceOTU581	0	0	0	0	0	0	0	23	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU592	0	0	0	0	0	0	0	5	0	0	5	0	110	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU594	0	0	0	0	0	0	0	7	0	0	62	0	9	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Sporocadaceae
+New.CleanUp.ReferenceOTU598	0	0	0	0	0	0	0	5	0	0	8	0	10	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU601	0	0	0	0	0	0	0	78	0	0	0	0	9	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU602	0	0	0	0	0	0	0	11	0	0	26	0	14	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU606	0	0	0	0	0	0	0	7	0	0	5	0	0	550	0	0	k__Fungi
+New.CleanUp.ReferenceOTU607	0	0	0	0	0	0	0	9	0	0	6	0	0	84	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Myriangiales; f__Myriangiaceae; g__Myriangium; s__unidentified
+New.CleanUp.ReferenceOTU612	0	0	0	0	0	0	0	5	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU613	0	0	0	0	0	0	0	21	0	0	0	0	5	6	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU625	0	0	0	0	0	0	0	5	0	0	0	0	24	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU627	0	0	0	0	0	0	0	5	0	0	11	0	0	95	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU630	0	0	0	0	0	0	0	29	0	0	6	0	6	5	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU632	0	0	0	0	0	0	0	5	0	0	5	0	383	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Exidiaceae
+New.CleanUp.ReferenceOTU633	0	0	0	0	0	0	0	12	0	0	0	0	0	10	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Plectosphaerella
+New.CleanUp.ReferenceOTU634	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Lophiostomataceae; g__Lophiostoma; s__unidentified
+New.CleanUp.ReferenceOTU635	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Phialophora; s__Phialophora_livistonae
+New.CleanUp.ReferenceOTU636	0	0	0	0	0	0	0	8	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU637	0	0	0	0	0	0	0	82	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+New.CleanUp.ReferenceOTU643	0	0	0	0	0	0	0	36	0	0	0	0	0	35	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Torulaceae; g__Torula
+New.CleanUp.ReferenceOTU644	0	0	0	0	0	0	0	663	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+New.CleanUp.ReferenceOTU646	0	0	0	0	0	0	0	24	0	0	13	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliales_fam_Incertae_sedis; g__Vermispora
+New.CleanUp.ReferenceOTU647	0	0	0	0	0	0	0	11	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU649	0	0	0	0	0	0	0	12	0	0	6	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU652	0	0	0	0	0	0	0	50	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Tubeufiaceae
+New.CleanUp.ReferenceOTU655	0	0	0	0	0	0	0	13	0	0	0	0	83	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU656	0	0	0	0	0	0	0	1435	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Thyridariaceae; g__Roussoella; s__Roussoella_solani
+New.CleanUp.ReferenceOTU663	0	0	0	0	0	0	0	5	0	0	1484	0	0	11	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU671	0	0	0	0	0	0	0	8	0	0	0	0	179	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricostilbomycetes; o__Agaricostilbales; f__Chionosphaeraceae
+New.CleanUp.ReferenceOTU672	0	0	0	0	0	0	0	17	0	0	27	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU675	0	0	0	0	0	0	0	10	0	0	0	0	6	7	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU676	0	0	0	0	0	0	0	17	0	0	41	0	13	14	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU677	0	0	0	0	0	0	0	6	0	0	0	0	9	27	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU680	0	0	0	0	0	0	0	6	0	0	195	0	5	5	0	0	k__Fungi
+New.CleanUp.ReferenceOTU685	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU686	0	0	0	0	0	0	0	30	0	0	123	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU687	0	0	0	0	0	0	0	110	0	0	0	0	19	805	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU697	0	0	0	0	0	0	0	9	0	0	0	0	10	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU698	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU701	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU702	0	0	0	0	0	0	0	18	0	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+New.CleanUp.ReferenceOTU707	0	0	0	0	0	0	0	51	0	0	0	0	8	7	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU715	0	0	0	0	0	0	0	12	0	0	1044	0	17	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU721	0	0	0	0	0	0	0	78	0	0	124	0	465	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU722	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+New.CleanUp.ReferenceOTU724	0	0	0	0	0	0	0	13	0	0	0	0	17	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU726	0	0	0	0	0	0	0	21	0	0	0	0	10	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+New.CleanUp.ReferenceOTU727	0	0	0	0	0	0	0	13	0	0	0	0	8	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU729	0	0	0	0	0	0	0	7	0	0	14	0	0	14	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU731	0	0	0	0	0	0	0	1347	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU740	0	0	0	0	0	0	0	343	0	0	0	0	0	23	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU741	0	0	0	0	0	0	0	195	0	0	33	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Devriesia; s__Devriesia_strelitziicola
+New.CleanUp.ReferenceOTU742	0	0	0	0	0	0	0	9	0	0	0	0	0	114	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Capnodiaceae
+New.CleanUp.ReferenceOTU743	0	0	0	0	0	0	0	627	0	0	0	0	0	22	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Dictyosporiaceae
+New.CleanUp.ReferenceOTU744	0	0	0	0	0	0	0	1455	0	0	47	0	0	142	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU746	0	0	0	0	0	0	0	5	0	0	3822	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU751	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_cordanae
+New.CleanUp.ReferenceOTU752	0	0	0	0	0	0	0	29	0	0	0	0	0	99	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU756	0	0	0	0	0	0	0	10	0	0	0	0	0	10	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU759	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales; f__Exidiaceae; g__Eichleriella; s__unidentified
+New.CleanUp.ReferenceOTU761	0	0	0	0	0	0	0	7	0	0	0	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae
+New.CleanUp.ReferenceOTU762	0	0	0	0	0	0	0	57	0	0	0	0	0	58	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliales_fam_Incertae_sedis; g__Vermispora
+New.CleanUp.ReferenceOTU765	0	0	0	0	0	0	0	7	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU767	0	0	0	0	0	0	0	9	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Nectriopsis; s__Nectriopsis_violacea
+New.CleanUp.ReferenceOTU768	0	0	0	0	0	0	0	69	0	0	34	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU771	0	0	0	0	0	0	0	15	0	0	11	0	0	60	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Boliniales; f__Boliniales_fam_Incertae_sedis; g__Paramicrothyrium; s__unidentified
+New.CleanUp.ReferenceOTU776	0	0	0	0	0	0	0	5	0	0	0	0	0	203	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU780	0	0	0	0	0	0	0	6	0	0	0	0	0	16	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU88	0	0	0	0	0	0	0	0	5	0	25	0	0	0	31	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU143	0	0	0	0	0	0	0	0	12	6	0	0	10	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU159	0	0	0	0	0	0	0	0	10	0	0	0	8	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU160	0	0	0	0	0	0	0	0	6	5	6	0	6	8	122	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Sarocladium
+New.CleanUp.ReferenceOTU169	0	0	0	0	0	0	0	0	19	34	0	0	25	29	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU171	0	0	0	0	0	0	0	0	5	5	19	0	0	0	5	29	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_jingdongensis
+New.CleanUp.ReferenceOTU213	0	0	0	0	0	0	0	0	28	0	0	0	0	354	9	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+New.CleanUp.ReferenceOTU234	0	0	0	0	0	0	0	0	11	0	5	15552	0	7	12	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU240	0	0	0	0	0	0	0	0	31	0	9	0	11	0	0	5	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU249	0	0	0	0	0	0	0	0	85	0	0	0	0	0	27	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU251	0	0	0	0	0	0	0	0	5	0	0	0	0	0	132	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Dactylella; s__Dactylella_clavata
+New.CleanUp.ReferenceOTU255	0	0	0	0	0	0	0	0	54	0	19	0	0	0	0	17	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_cordanae
+New.CleanUp.ReferenceOTU258	0	0	0	0	0	0	0	0	15	0	12	78	104	23	16	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU260	0	0	0	0	0	0	0	0	5	0	8	16	8	11	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU269	0	0	0	0	0	0	0	0	43	0	7	33	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae
+New.CleanUp.ReferenceOTU274	0	0	0	0	0	0	0	0	167	0	25	0	15	0	6	5	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinopsis
+1141758	0	0	0	0	0	0	0	0	0	734	0	0	0	0	0	0	Unclassified
+1646255	0	0	0	0	0	0	0	0	0	109	0	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU187	0	0	0	0	0	0	0	0	0	30	12	0	45	11	0	8	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU189	0	0	0	0	0	0	0	0	0	5	0	6	0	10	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU198	0	0	0	0	0	0	0	0	0	12	5	0	0	11	0	6211	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU202	0	0	0	0	0	0	0	0	0	22	84	11	11	6	481	3647	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Calonectria; s__Calonectria_quinqueseptata
+New.CleanUp.ReferenceOTU216	0	0	0	0	0	0	0	0	0	21	0	0	9	73	5	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Verticillium; s__Verticillium_leptobactrum
+New.CleanUp.ReferenceOTU224	0	0	0	0	0	0	0	0	0	10	157	108	38	5	0	28	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora
+New.CleanUp.ReferenceOTU227	0	0	0	0	0	0	0	0	0	7	0	8	0	91	0	983	Unclassified
+New.CleanUp.ReferenceOTU188	0	0	0	0	0	0	0	0	0	0	15	179	23	22	19	5	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+New.CleanUp.ReferenceOTU200	0	0	0	0	0	0	0	0	0	0	17	0	18	45	0	5	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU207	0	0	0	0	0	0	0	0	0	0	44	9	0	5	61	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU211	0	0	0	0	0	0	0	0	0	0	7	6	7	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Omphalotaceae; g__Gymnopus; s__Gymnopus_luxurians
+New.CleanUp.ReferenceOTU219	0	0	0	0	0	0	0	0	0	0	109	0	31	0	0	8	Unclassified
+New.CleanUp.ReferenceOTU229	0	0	0	0	0	0	0	0	0	0	9	0	103	27	15	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU232	0	0	0	0	0	0	0	0	0	0	71	0	10	8	0	6	Unclassified
+New.CleanUp.ReferenceOTU257	0	0	0	0	0	0	0	0	0	0	11	15	5	7	32	12	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU271	0	0	0	0	0	0	0	0	0	0	5	7	5	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Verticillium; s__Verticillium_leptobactrum
+New.CleanUp.ReferenceOTU273	0	0	0	0	0	0	0	0	0	0	8	0	0	0	6	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU277	0	0	0	0	0	0	0	0	0	0	7	0	15	0	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Clonostachys; s__Clonostachys_rosea
+New.CleanUp.ReferenceOTU294	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU301	0	0	0	0	0	0	0	0	0	0	8	321	8	10	508	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Magnaporthales; f__Magnaporthaceae; g__Pyricularia; s__unidentified
+New.CleanUp.ReferenceOTU305	0	0	0	0	0	0	0	0	0	0	10	0	0	0	57	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU306	0	0	0	0	0	0	0	0	0	0	62	0	0	0	12	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU323	0	0	0	0	0	0	0	0	0	0	61	37	19	8	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU327	0	0	0	0	0	0	0	0	0	0	428	16	81	0	36	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_harzianum
+New.CleanUp.ReferenceOTU351	0	0	0	0	0	0	0	0	0	0	101	0	0	8	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU360	0	0	0	0	0	0	0	0	0	0	947	0	9	0	14	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae; g__Metacordyceps; s__Metacordyceps_chlamydosporia
+New.CleanUp.ReferenceOTU369	0	0	0	0	0	0	0	0	0	0	5	147	9	5	133	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Dothideomycetes_ord_Incertae_sedis; f__Dothideomycetes_fam_Incertae_sedis
+New.CleanUp.ReferenceOTU370	0	0	0	0	0	0	0	0	0	0	5	19	0	0	67	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Curvularia; s__Curvularia_lunata
+New.CleanUp.ReferenceOTU379	0	0	0	0	0	0	0	0	0	0	8	6	0	8	0	0	Unclassified
+New.CleanUp.ReferenceOTU381	0	0	0	0	0	0	0	0	0	0	19	7	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU385	0	0	0	0	0	0	0	0	0	0	31	0	7	101	7	0	Unclassified
+New.CleanUp.ReferenceOTU387	0	0	0	0	0	0	0	0	0	0	12	0	0	6	12	0	Unclassified
+New.CleanUp.ReferenceOTU388	0	0	0	0	0	0	0	0	0	0	15	81	30	99	0	0	k__Fungi
+New.CleanUp.ReferenceOTU389	0	0	0	0	0	0	0	0	0	0	8	12	0	8	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU390	0	0	0	0	0	0	0	0	0	0	94	9	15	5	25	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+New.CleanUp.ReferenceOTU391	0	0	0	0	0	0	0	0	0	0	11	20	0	5	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes
+New.CleanUp.ReferenceOTU396	0	0	0	0	0	0	0	0	0	0	24	0	0	15	9	0	k__Fungi
+New.CleanUp.ReferenceOTU401	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU405	0	0	0	0	0	0	0	0	0	0	8	8	0	0	8	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU408	0	0	0	0	0	0	0	0	0	0	10	0	0	18	5	0	Unclassified
+New.CleanUp.ReferenceOTU409	0	0	0	0	0	0	0	0	0	0	45	6	5	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU412	0	0	0	0	0	0	0	0	0	0	43	0	116	9	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU414	0	0	0	0	0	0	0	0	0	0	121	0	9	0	8	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Cucurbitariaceae; g__Pyrenochaetopsis; s__Pyrenochaetopsis_leptospora
+New.CleanUp.ReferenceOTU423	0	0	0	0	0	0	0	0	0	0	15	12	9	0	6	0	Unclassified
+New.CleanUp.ReferenceOTU426	0	0	0	0	0	0	0	0	0	0	10	33	142	33	0	0	Unclassified
+New.CleanUp.ReferenceOTU427	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU432	0	0	0	0	0	0	0	0	0	0	43	13	25	12	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Thelephorales; f__Thelephoraceae
+New.CleanUp.ReferenceOTU433	0	0	0	0	0	0	0	0	0	0	9	0	22	57	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU438	0	0	0	0	0	0	0	0	0	0	8	0	0	0	513	0	Unclassified
+New.CleanUp.ReferenceOTU442	0	0	0	0	0	0	0	0	0	0	13	8	10	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU454	0	0	0	0	0	0	0	0	0	0	14	0	1488	10	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU470	0	0	0	0	0	0	0	0	0	0	79	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes
+New.CleanUp.ReferenceOTU471	0	0	0	0	0	0	0	0	0	0	35	0	0	26	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae
+New.CleanUp.ReferenceOTU475	0	0	0	0	0	0	0	0	0	0	7	0	0	0	11	0	Unclassified
+New.CleanUp.ReferenceOTU476	0	0	0	0	0	0	0	0	0	0	26	0	34	0	16	0	k__Fungi
+New.CleanUp.ReferenceOTU477	0	0	0	0	0	0	0	0	0	0	17	0	0	0	25	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+New.CleanUp.ReferenceOTU478	0	0	0	0	0	0	0	0	0	0	10	0	6	0	7	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU480	0	0	0	0	0	0	0	0	0	0	7	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU481	0	0	0	0	0	0	0	0	0	0	190	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU490	0	0	0	0	0	0	0	0	0	0	15	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU492	0	0	0	0	0	0	0	0	0	0	504	0	16	6	8	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Calonectria; s__Calonectria_quinqueseptata
+New.CleanUp.ReferenceOTU501	0	0	0	0	0	0	0	0	0	0	403	0	0	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+New.CleanUp.ReferenceOTU504	0	0	0	0	0	0	0	0	0	0	5	0	7	13	16	0	k__Fungi
+New.CleanUp.ReferenceOTU509	0	0	0	0	0	0	0	0	0	0	28	0	0	654	14	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis; g__Hansfordia; s__Hansfordia_pulvinata
+New.CleanUp.ReferenceOTU512	0	0	0	0	0	0	0	0	0	0	154	0	9	12	9	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU520	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Hysteriales; f__Hysteriaceae; g__Rhytidhysteron; s__Rhytidhysteron_rufulum
+New.CleanUp.ReferenceOTU523	0	0	0	0	0	0	0	0	0	0	166	0	92	0	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum
+New.CleanUp.ReferenceOTU526	0	0	0	0	0	0	0	0	0	0	14	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Pilocarpaceae; g__Fellhanera; s__Fellhanera_bouteillei
+New.CleanUp.ReferenceOTU529	0	0	0	0	0	0	0	0	0	0	48	0	8	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma; s__Trichoderma_spirale
+New.CleanUp.ReferenceOTU531	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU534	0	0	0	0	0	0	0	0	0	0	21	0	5	36	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+New.CleanUp.ReferenceOTU535	0	0	0	0	0	0	0	0	0	0	5	0	30	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU541	0	0	0	0	0	0	0	0	0	0	7	0	14	5	0	0	Unclassified
+New.CleanUp.ReferenceOTU544	0	0	0	0	0	0	0	0	0	0	14	0	22	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU547	0	0	0	0	0	0	0	0	0	0	10	0	14	0	6	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae
+New.CleanUp.ReferenceOTU550	0	0	0	0	0	0	0	0	0	0	7	0	301	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU552	0	0	0	0	0	0	0	0	0	0	6	0	261	6	8	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU553	0	0	0	0	0	0	0	0	0	0	13	0	0	0	6	0	k__Fungi
+New.CleanUp.ReferenceOTU554	0	0	0	0	0	0	0	0	0	0	6	0	6	0	5	0	Unclassified
+New.CleanUp.ReferenceOTU558	0	0	0	0	0	0	0	0	0	0	11	0	5	8	5	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Wiesneriomycetaceae; g__Wiesneriomyces; s__Wiesneriomyces_laurinus
+New.CleanUp.ReferenceOTU561	0	0	0	0	0	0	0	0	0	0	59	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU564	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Tubeufiaceae; g__Helicosporium; s__Helicosporium_talbotii
+New.CleanUp.ReferenceOTU572	0	0	0	0	0	0	0	0	0	0	13	0	0	0	40	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU588	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU597	0	0	0	0	0	0	0	0	0	0	7	0	0	23	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU599	0	0	0	0	0	0	0	0	0	0	6	0	28	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Zygosporium
+New.CleanUp.ReferenceOTU611	0	0	0	0	0	0	0	0	0	0	5	0	0	16	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Phialophora; s__Phialophora_cyclaminis
+New.CleanUp.ReferenceOTU615	0	0	0	0	0	0	0	0	0	0	44	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Biatriosporaceae; g__Biatriospora; s__unidentified
+New.CleanUp.ReferenceOTU616	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU619	0	0	0	0	0	0	0	0	0	0	11	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU620	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU621	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU622	0	0	0	0	0	0	0	0	0	0	5	0	0	11	0	0	k__Fungi
+New.CleanUp.ReferenceOTU624	0	0	0	0	0	0	0	0	0	0	34	0	9	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU628	0	0	0	0	0	0	0	0	0	0	19	0	9	8	0	0	Unclassified
+New.CleanUp.ReferenceOTU629	0	0	0	0	0	0	0	0	0	0	6	0	8	10	0	0	Unclassified
+New.CleanUp.ReferenceOTU638	0	0	0	0	0	0	0	0	0	0	23	0	8	17	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+New.CleanUp.ReferenceOTU639	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU641	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Leptospora
+New.CleanUp.ReferenceOTU648	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU654	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU660	0	0	0	0	0	0	0	0	0	0	123	0	11	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Purpureocillium; s__Purpureocillium_lilacinum
+New.CleanUp.ReferenceOTU665	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae
+New.CleanUp.ReferenceOTU678	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU679	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Polyporales; f__Polyporales_fam_Incertae_sedis; g__Lopharia; s__unidentified
+New.CleanUp.ReferenceOTU682	0	0	0	0	0	0	0	0	0	0	39	0	0	8	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Marasmiaceae; g__Marasmius; s__Marasmius_haematocephalus
+New.CleanUp.ReferenceOTU688	0	0	0	0	0	0	0	0	0	0	34	0	0	11	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU689	0	0	0	0	0	0	0	0	0	0	6	0	5	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__unidentified
+New.CleanUp.ReferenceOTU691	0	0	0	0	0	0	0	0	0	0	7	0	6	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Rhinocladiella; s__Rhinocladiella_phaeophora
+New.CleanUp.ReferenceOTU695	0	0	0	0	0	0	0	0	0	0	10	0	20	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU696	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU699	0	0	0	0	0	0	0	0	0	0	5	0	18	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU703	0	0	0	0	0	0	0	0	0	0	89	0	0	29	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU710	0	0	0	0	0	0	0	0	0	0	25	0	190	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_musae
+New.CleanUp.ReferenceOTU714	0	0	0	0	0	0	0	0	0	0	383	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU718	0	0	0	0	0	0	0	0	0	0	3701	0	88	11	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma
+New.CleanUp.ReferenceOTU719	0	0	0	0	0	0	0	0	0	0	524	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma
+New.CleanUp.ReferenceOTU720	0	0	0	0	0	0	0	0	0	0	250	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU723	0	0	0	0	0	0	0	0	0	0	20	0	51	11	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU733	0	0	0	0	0	0	0	0	0	0	17531	0	0	29	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU735	0	0	0	0	0	0	0	0	0	0	5	0	0	83	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU738	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymosphaeriaceae; g__Paraconiothyrium; s__Paraconiothyrium_variabile
+New.CleanUp.ReferenceOTU750	0	0	0	0	0	0	0	0	0	0	8	0	0	17	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Thyridariaceae
+New.CleanUp.ReferenceOTU757	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU758	0	0	0	0	0	0	0	0	0	0	11	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Hypoxylon; s__Hypoxylon_monticulosum
+New.CleanUp.ReferenceOTU764	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU769	0	0	0	0	0	0	0	0	0	0	10	0	0	9	0	0	Unclassified
+New.CleanUp.ReferenceOTU770	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU774	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU787	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU788	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU790	0	0	0	0	0	0	0	0	0	0	33	0	0	102	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium; s__Penicillium_paxilli
+New.CleanUp.ReferenceOTU791	0	0	0	0	0	0	0	0	0	0	93	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiales; f__Cystobasidiaceae; g__Occultifur; s__Occultifur_externus
+New.CleanUp.ReferenceOTU793	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Stephanonectria; s__Stephanonectria_keithii
+New.CleanUp.ReferenceOTU794	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU796	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU797	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU798	0	0	0	0	0	0	0	0	0	0	6	0	0	81	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU800	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Pleurotheciales; f__Pleurotheciaceae
+New.CleanUp.ReferenceOTU801	0	0	0	0	0	0	0	0	0	0	33	0	0	35	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU806	0	0	0	0	0	0	0	0	0	0	184	0	0	33	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Acrospermales; f__Acrospermales_fam_Incertae_sedis; g__Leptodiscella; s__Leptodiscella_africana
+New.CleanUp.ReferenceOTU813	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Magnaporthales; f__Magnaporthaceae; g__Ophioceras; s__Ophioceras_leptosporum
+New.CleanUp.ReferenceOTU815	0	0	0	0	0	0	0	0	0	0	144	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Xenobotrytis; s__Xenobotrytis_acaducospora
+New.CleanUp.ReferenceOTU817	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU819	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Sebacinaceae
+New.CleanUp.ReferenceOTU821	0	0	0	0	0	0	0	0	0	0	6	0	0	23	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Biatriosporaceae; g__Biatriospora; s__Biatriospora_mackinnonii
+New.CleanUp.ReferenceOTU822	0	0	0	0	0	0	0	0	0	0	109	0	0	132	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Lophiostomataceae; g__Lophiostoma; s__unidentified
+New.CleanUp.ReferenceOTU824	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU825	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Ramalinaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU828	0	0	0	0	0	0	0	0	0	0	70	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU829	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Capnodiaceae
+New.CleanUp.ReferenceOTU830	0	0	0	0	0	0	0	0	0	0	11	0	0	83	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Erythrobasidiales
+New.CleanUp.ReferenceOTU835	0	0	0	0	0	0	0	0	0	0	221	0	0	140	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU836	0	0	0	0	0	0	0	0	0	0	512	0	0	185	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusicolla; s__unidentified
+New.CleanUp.ReferenceOTU837	0	0	0	0	0	0	0	0	0	0	12	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_pluriseptata
+New.CleanUp.ReferenceOTU838	0	0	0	0	0	0	0	0	0	0	37	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU840	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+New.CleanUp.ReferenceOTU847	0	0	0	0	0	0	0	0	0	0	7	0	0	29	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Fellomyces; s__Fellomyces_mexicanus
+New.CleanUp.ReferenceOTU848	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales
+New.CleanUp.ReferenceOTU850	0	0	0	0	0	0	0	0	0	0	86	0	0	35	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU853	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_delphinoides
+New.CleanUp.ReferenceOTU855	0	0	0	0	0	0	0	0	0	0	7	0	0	9	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae; g__Brycekendrickomyces; s__Brycekendrickomyces_acaciae
+New.CleanUp.ReferenceOTU857	0	0	0	0	0	0	0	0	0	0	166	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU861	0	0	0	0	0	0	0	0	0	0	10	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU862	0	0	0	0	0	0	0	0	0	0	10	0	0	63	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Boliniales; f__Boliniales_fam_Incertae_sedis; g__Paramicrothyrium; s__unidentified
+New.CleanUp.ReferenceOTU864	0	0	0	0	0	0	0	0	0	0	5	0	0	61	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU867	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU868	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU871	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU873	0	0	0	0	0	0	0	0	0	0	8	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU880	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU882	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Tubeufiales; f__Tubeufiaceae
+New.CleanUp.ReferenceOTU883	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Volutella
+New.CleanUp.ReferenceOTU884	0	0	0	0	0	0	0	0	0	0	11	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU885	0	0	0	0	0	0	0	0	0	0	1920	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Gibberella; s__Gibberella_baccata
+New.CleanUp.ReferenceOTU887	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU889	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+New.CleanUp.ReferenceOTU890	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+New.CleanUp.ReferenceOTU895	0	0	0	0	0	0	0	0	0	0	192	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Sordariales; f__Lasiosphaeriaceae
+New.CleanUp.ReferenceOTU896	0	0	0	0	0	0	0	0	0	0	10	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU901	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU904	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU905	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU910	0	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Periconiaceae; g__Periconia; s__Periconia_pseudodigitata
+New.CleanUp.ReferenceOTU911	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU913	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Massarinaceae; g__Massarina; s__unidentified
+New.CleanUp.ReferenceOTU916	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Pterulaceae
+New.CleanUp.ReferenceOTU919	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU922	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU924	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU925	0	0	0	0	0	0	0	0	0	0	10	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU926	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU932	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU934	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU936	0	0	0	0	0	0	0	0	0	0	55	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU938	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Aspergillus
+New.CleanUp.ReferenceOTU940	0	0	0	0	0	0	0	0	0	0	52	0	0	5	0	0	Unclassified
+New.CleanUp.ReferenceOTU941	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes
+New.CleanUp.ReferenceOTU943	0	0	0	0	0	0	0	0	0	0	170	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU953	0	0	0	0	0	0	0	0	0	0	12	0	0	73	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU955	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae
+New.CleanUp.ReferenceOTU956	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae; g__Thanatephorus; s__Thanatephorus_cucumeris
+New.CleanUp.ReferenceOTU960	0	0	0	0	0	0	0	0	0	0	18	0	0	23	0	0	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Brachybasidiaceae; g__Meira; s__Meira_argovae
+New.CleanUp.ReferenceOTU965	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU968	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU970	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.CleanUp.ReferenceOTU971	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales
+New.CleanUp.ReferenceOTU976	0	0	0	0	0	0	0	0	0	0	883	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU977	0	0	0	0	0	0	0	0	0	0	413	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Corynesporascaceae; g__Corynespora
+New.CleanUp.ReferenceOTU980	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU983	0	0	0	0	0	0	0	0	0	0	17	0	0	377	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU985	0	0	0	0	0	0	0	0	0	0	5	0	0	240	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU987	0	0	0	0	0	0	0	0	0	0	5	0	0	195	0	0	Unclassified
+New.CleanUp.ReferenceOTU989	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU992	0	0	0	0	0	0	0	0	0	0	6	0	0	14	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU994	0	0	0	0	0	0	0	0	0	0	8	0	0	9	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Sebacinales; f__Sebacinaceae; g__Chaetospermum; s__Chaetospermum_artocarpi
+New.CleanUp.ReferenceOTU996	0	0	0	0	0	0	0	0	0	0	20	0	0	13	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU997	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1001	0	0	0	0	0	0	0	0	0	0	250	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU1003	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU1008	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU1009	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Dactylellina; s__Dactylellina_haptotyla
+New.CleanUp.ReferenceOTU1010	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Sporocadaceae
+New.CleanUp.ReferenceOTU1012	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Capnodiaceae; g__Antennariella; s__Antennariella_placitae
+New.CleanUp.ReferenceOTU1015	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Lecanicillium; s__unidentified
+New.CleanUp.ReferenceOTU1016	0	0	0	0	0	0	0	0	0	0	78	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.CleanUp.ReferenceOTU1018	0	0	0	0	0	0	0	0	0	0	14	0	0	70	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Capnodiaceae; g__Antennariella; s__Antennariella_placitae
+New.CleanUp.ReferenceOTU1022	0	0	0	0	0	0	0	0	0	0	5	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Clonostachys
+New.CleanUp.ReferenceOTU1023	0	0	0	0	0	0	0	0	0	0	210	0	0	5	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Russulales; f__Peniophoraceae; g__Subulicystidium; s__unidentified
+New.CleanUp.ReferenceOTU1024	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+New.CleanUp.ReferenceOTU1027	0	0	0	0	0	0	0	0	0	0	18	0	0	46	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1029	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU1032	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+New.CleanUp.ReferenceOTU1035	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1036	0	0	0	0	0	0	0	0	0	0	386	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1041	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1042	0	0	0	0	0	0	0	0	0	0	30	0	0	7	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1047	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Massarinaceae; g__Helminthosporium
+New.CleanUp.ReferenceOTU1048	0	0	0	0	0	0	0	0	0	0	103	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1049	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__unidentified
+New.CleanUp.ReferenceOTU1050	0	0	0	0	0	0	0	0	0	0	36	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Tremellaceae; g__Tremella
+New.CleanUp.ReferenceOTU1051	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Idriella
+New.CleanUp.ReferenceOTU1054	0	0	0	0	0	0	0	0	0	0	39	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium
+New.CleanUp.ReferenceOTU1055	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1056	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1060	0	0	0	0	0	0	0	0	0	0	56	0	0	0	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU1063	0	0	0	0	0	0	0	0	0	0	792	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU1064	0	0	0	0	0	0	0	0	0	0	299	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+New.CleanUp.ReferenceOTU1068	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU1072	0	0	0	0	0	0	0	0	0	0	10313	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU1073	0	0	0	0	0	0	0	0	0	0	1011	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Bionectria; s__Bionectria_setosa
+New.CleanUp.ReferenceOTU1075	0	0	0	0	0	0	0	0	0	0	178	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Chaetosphaeriales; f__Chaetosphaeriaceae
+New.CleanUp.ReferenceOTU1076	0	0	0	0	0	0	0	0	0	0	78	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU1077	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1078	0	0	0	0	0	0	0	0	0	0	384	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU1079	0	0	0	0	0	0	0	0	0	0	3238	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis; g__Fusidium; s__unidentified
+New.CleanUp.ReferenceOTU1080	0	0	0	0	0	0	0	0	0	0	1161	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU1083	0	0	0	0	0	0	0	0	0	0	72	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella
+New.CleanUp.ReferenceOTU1084	0	0	0	0	0	0	0	0	0	0	167	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU1085	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1088	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Diversisporales; f__Diversisporales_fam_Incertae_sedis; g__Entrophospora; s__Entrophospora_infrequens
+New.CleanUp.ReferenceOTU1089	0	0	0	0	0	0	0	0	0	0	31	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU1091	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Boliniales; f__Boliniales_fam_Incertae_sedis; g__Junewangia; s__unidentified
+New.CleanUp.ReferenceOTU1092	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1094	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Exobasidiomycetes; o__Exobasidiales; f__Exobasidiaceae; g__Exobasidium; s__unidentified
+New.CleanUp.ReferenceOTU1096	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1098	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Erythrobasidiales; f__Erythrobasidiaceae; g__Erythrobasidium; s__unidentified
+New.CleanUp.ReferenceOTU1101	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1107	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU1115	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU1117	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Arthrobotrys; s__Arthrobotrys_musiformis
+New.CleanUp.ReferenceOTU1118	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma; s__Acrocalymma_vagum
+New.CleanUp.ReferenceOTU1120	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU1121	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporales_fam_Incertae_sedis; g__Pseudorobillarda
+New.CleanUp.ReferenceOTU1123	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Lecanicillium; s__Lecanicillium_kalimantanense
+New.CleanUp.ReferenceOTU1124	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU1127	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1128	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1133	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU1136	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.CleanUp.ReferenceOTU1138	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU1140	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Ijuhya; s__unidentified
+New.CleanUp.ReferenceOTU1141	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.CleanUp.ReferenceOTU1143	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Pezizomycetes; o__Pezizales; f__Sarcoscyphaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU1146	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1149	0	0	0	0	0	0	0	0	0	0	126	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Campylocarpon; s__Campylocarpon_pseudofasciculare
+New.CleanUp.ReferenceOTU1152	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1155	0	0	0	0	0	0	0	0	0	0	55	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella; s__Kockovaella_prillingeri
+New.CleanUp.ReferenceOTU1159	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1160	0	0	0	0	0	0	0	0	0	0	296	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1161	0	0	0	0	0	0	0	0	0	0	2385	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Bionectriaceae; g__Clonostachys; s__Clonostachys_rosea
+New.CleanUp.ReferenceOTU1164	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis; g__Fusidium
+New.CleanUp.ReferenceOTU1165	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Dactylonectria; s__Dactylonectria_anthuriicola
+New.CleanUp.ReferenceOTU1169	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1172	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU1173	0	0	0	0	0	0	0	0	0	0	462	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_cordanae
+New.CleanUp.ReferenceOTU1175	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU1176	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1177	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1178	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU1179	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU1180	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU1182	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora
+New.CleanUp.ReferenceOTU1183	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Cystobasidiomycetes; o__Cystobasidiales; f__Cystobasidiaceae
+New.CleanUp.ReferenceOTU1184	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU1186	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1187	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	k__Fungi
+New.CleanUp.ReferenceOTU1188	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU1191	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1196	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1198	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU1201	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1204	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1205	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Marasmiaceae; g__Marasmius
+New.CleanUp.ReferenceOTU1207	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1208	0	0	0	0	0	0	0	0	0	0	592	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU1210	0	0	0	0	0	0	0	0	0	0	983	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1212	0	0	0	0	0	0	0	0	0	0	179	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Sarocladium
+New.CleanUp.ReferenceOTU1213	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Trichosphaeriales; f__Trichosphaeriaceae; g__Nigrospora
+New.CleanUp.ReferenceOTU1217	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Gibberella; s__Gibberella_baccata
+New.CleanUp.ReferenceOTU1222	0	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU1223	0	0	0	0	0	0	0	0	0	0	1013	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU1228	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1229	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1231	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU1232	0	0	0	0	0	0	0	0	0	0	243	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU1235	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+New.CleanUp.ReferenceOTU1238	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1245	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU1246	0	0	0	0	0	0	0	0	0	0	74	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1248	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala
+New.CleanUp.ReferenceOTU1250	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1251	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Coprinopsis
+New.CleanUp.ReferenceOTU1253	0	0	0	0	0	0	0	0	0	0	4704	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1254	0	0	0	0	0	0	0	0	0	0	101	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium; s__Acremonium_brachypenium
+New.CleanUp.ReferenceOTU1255	0	0	0	0	0	0	0	0	0	0	317	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Vishniacozyma; s__Vishniacozyma_taibaiensis
+New.CleanUp.ReferenceOTU1256	0	0	0	0	0	0	0	0	0	0	459	0	0	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1257	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU1259	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Trimorphomycetaceae; g__Carlosrosaea; s__unidentified
+New.CleanUp.ReferenceOTU1262	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Tricholomataceae; g__Mycena; s__Mycena_speirea
+New.CleanUp.ReferenceOTU1264	0	0	0	0	0	0	0	0	0	0	95	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Monocillium; s__Monocillium_tenue
+New.CleanUp.ReferenceOTU1265	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium
+New.CleanUp.ReferenceOTU1267	0	0	0	0	0	0	0	0	0	0	67	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_fusarioides
+New.CleanUp.ReferenceOTU1269	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Lentitheciaceae; g__Poaceascoma; s__Poaceascoma_taiwanense
+New.CleanUp.ReferenceOTU1271	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU196	0	0	0	0	0	0	0	0	0	0	0	76	0	17	8	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Trichocomaceae; g__Talaromyces
+New.CleanUp.ReferenceOTU205	0	0	0	0	0	0	0	0	0	0	0	6	28	0	9	36	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Verticillium; s__Verticillium_leptobactrum
+New.CleanUp.ReferenceOTU226	0	0	0	0	0	0	0	0	0	0	0	7	17	0	8	2623	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Plectosphaerella
+New.CleanUp.ReferenceOTU266	0	0	0	0	0	0	0	0	0	0	0	7	7	11	16	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Corynesporascaceae; g__Corynespora
+New.CleanUp.ReferenceOTU302	0	0	0	0	0	0	0	0	0	0	0	9	6	24	8	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae; g__Metacordyceps; s__Metacordyceps_chlamydosporia
+New.CleanUp.ReferenceOTU307	0	0	0	0	0	0	0	0	0	0	0	11	0	68	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae
+New.CleanUp.ReferenceOTU310	0	0	0	0	0	0	0	0	0	0	0	201	194	0	39	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma
+New.CleanUp.ReferenceOTU320	0	0	0	0	0	0	0	0	0	0	0	61	10	1649	21	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU321	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Thyridariaceae; g__Roussoella; s__unidentified
+New.CleanUp.ReferenceOTU328	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariaceae; g__Hypoxylon; s__Hypoxylon_hypomiltum
+New.CleanUp.ReferenceOTU336	0	0	0	0	0	0	0	0	0	0	0	60	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Acremonium; s__Acremonium_hennebertii
+New.CleanUp.ReferenceOTU347	0	0	0	0	0	0	0	0	0	0	0	22025	9	7	13	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Cantharellales; f__Ceratobasidiaceae
+New.CleanUp.ReferenceOTU355	0	0	0	0	0	0	0	0	0	0	0	71	24	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Xenobotrytis; s__Xenobotrytis_acaducospora
+New.CleanUp.ReferenceOTU364	0	0	0	0	0	0	0	0	0	0	0	5	16	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU371	0	0	0	0	0	0	0	0	0	0	0	7	6	22	16	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Fellomyces; s__Fellomyces_penicillatus
+New.CleanUp.ReferenceOTU373	0	0	0	0	0	0	0	0	0	0	0	33	8	19	5954	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriaceae; g__Lasiodiplodia
+New.CleanUp.ReferenceOTU384	0	0	0	0	0	0	0	0	0	0	0	8	8	6	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+New.CleanUp.ReferenceOTU386	0	0	0	0	0	0	0	0	0	0	0	62	9	9	7	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia; s__Neodevriesia_pakbiae
+New.CleanUp.ReferenceOTU397	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Plectosphaerellaceae; g__Plectosphaerella
+New.CleanUp.ReferenceOTU398	0	0	0	0	0	0	0	0	0	0	0	13	9	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+New.CleanUp.ReferenceOTU402	0	0	0	0	0	0	0	0	0	0	0	14	37	0	20	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU403	0	0	0	0	0	0	0	0	0	0	0	7	5	48	0	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae; g__Mortierella
+New.CleanUp.ReferenceOTU407	0	0	0	0	0	0	0	0	0	0	0	19	10	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU422	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Cordycipitaceae; g__Simplicillium
+New.CleanUp.ReferenceOTU440	0	0	0	0	0	0	0	0	0	0	0	27	0	0	78	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae; g__Mycosphaerella; s__Mycosphaerella_pseudocryptica
+New.CleanUp.ReferenceOTU441	0	0	0	0	0	0	0	0	0	0	0	6	39	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae
+New.CleanUp.ReferenceOTU444	0	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU18	0	0	0	0	0	0	0	0	0	0	0	0	4456	891	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU19	0	0	0	0	0	0	0	0	0	0	0	0	347	65	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Branch06; f__unidentified; g__unidentified; s__unidentified
+New.ReferenceOTU34	0	0	0	0	0	0	0	0	0	0	0	0	217	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU35	0	0	0	0	0	0	0	0	0	0	0	0	210	0	0	0	k__Fungi; p__Mortierellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.ReferenceOTU16	0	0	0	0	0	0	0	0	0	0	0	0	1219	887	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_cordanae
+New.ReferenceOTU17	0	0	0	0	0	0	0	0	0	0	0	0	1021	6457	0	0	Unclassified
+New.ReferenceOTU32	0	0	0	0	0	0	0	0	0	0	0	0	3724	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU28	0	0	0	0	0	0	0	0	0	0	0	0	321	1281	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Branch06; f__unidentified; g__unidentified; s__unidentified
+New.ReferenceOTU3	0	0	0	0	0	0	0	0	0	0	0	0	11	140	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Auriculariales
+New.ReferenceOTU13	0	0	0	0	0	0	0	0	0	0	0	0	36	5186	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__unidentified; s__unidentified
+New.ReferenceOTU30	0	0	0	0	0	0	0	0	0	0	0	0	17	901	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU31	0	0	0	0	0	0	0	0	0	0	0	0	2238	124	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.ReferenceOTU23	0	0	0	0	0	0	0	0	0	0	0	0	8510	51	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.ReferenceOTU22	0	0	0	0	0	0	0	0	0	0	0	0	256	156	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_guyanensis
+New.ReferenceOTU21	0	0	0	0	0	0	0	0	0	0	0	0	31	48799	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU20	0	0	0	0	0	0	0	0	0	0	0	0	2619	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.ReferenceOTU27	0	0	0	0	0	0	0	0	0	0	0	0	355	7116	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Dactylonectria; s__Dactylonectria_anthuriicola
+New.ReferenceOTU14	0	0	0	0	0	0	0	0	0	0	0	0	98	1557	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporales_fam_Incertae_sedis; g__Neooccultibambusa; s__Neooccultibambusa_pandanicola
+New.ReferenceOTU25	0	0	0	0	0	0	0	0	0	0	0	0	115	33	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.ReferenceOTU29	0	0	0	0	0	0	0	0	0	0	0	0	6	336	0	0	Unclassified
+New.ReferenceOTU15	0	0	0	0	0	0	0	0	0	0	0	0	79	1233	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Agaricaceae
+New.ReferenceOTU26	0	0	0	0	0	0	0	0	0	0	0	0	1563	1796	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Hannaella; s__Hannaella_luteola
+New.CleanUp.ReferenceOTU108	0	0	0	0	0	0	0	0	0	0	0	0	25	0	6	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Devriesia
+New.CleanUp.ReferenceOTU267	0	0	0	0	0	0	0	0	0	0	0	0	80	0	0	216	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU281	0	0	0	0	0	0	0	0	0	0	0	0	6	7	231	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales
+New.CleanUp.ReferenceOTU286	0	0	0	0	0	0	0	0	0	0	0	0	6	25	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU291	0	0	0	0	0	0	0	0	0	0	0	0	13	0	10	0	k__Fungi
+New.CleanUp.ReferenceOTU292	0	0	0	0	0	0	0	0	0	0	0	0	5	5	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU311	0	0	0	0	0	0	0	0	0	0	0	0	30	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae; g__Stachybotrys; s__Stachybotrys_longispora
+New.CleanUp.ReferenceOTU375	0	0	0	0	0	0	0	0	0	0	0	0	5	9	39	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Omphalotaceae; g__Gymnopus; s__Gymnopus_luxurians
+New.CleanUp.ReferenceOTU413	0	0	0	0	0	0	0	0	0	0	0	0	81	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Clavicipitaceae
+New.CleanUp.ReferenceOTU447	0	0	0	0	0	0	0	0	0	0	0	0	7	0	19	0	Unclassified
+New.CleanUp.ReferenceOTU455	0	0	0	0	0	0	0	0	0	0	0	0	12	15	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Ostropales; f__Stictidaceae; g__Cryptodiscus; s__Cryptodiscus_epicladonia
+New.CleanUp.ReferenceOTU456	0	0	0	0	0	0	0	0	0	0	0	0	53	0	109	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Ophiocordycipitaceae; g__Purpureocillium; s__Purpureocillium_lilacinum
+New.CleanUp.ReferenceOTU458	0	0	0	0	0	0	0	0	0	0	0	0	47	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae; g__Neodevriesia; s__Neodevriesia_pakbiae
+New.CleanUp.ReferenceOTU461	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Phaeosphaeriaceae; g__Leptospora
+New.CleanUp.ReferenceOTU472	0	0	0	0	0	0	0	0	0	0	0	0	5	7	0	0	Unclassified
+New.CleanUp.ReferenceOTU484	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Valsaceae
+New.CleanUp.ReferenceOTU497	0	0	0	0	0	0	0	0	0	0	0	0	13	0	13	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Pleosporaceae; g__Curvularia; s__Curvularia_lunata
+New.CleanUp.ReferenceOTU503	0	0	0	0	0	0	0	0	0	0	0	0	8	29	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+New.CleanUp.ReferenceOTU510	0	0	0	0	0	0	0	0	0	0	0	0	5	266	11	0	Unclassified
+New.CleanUp.ReferenceOTU517	0	0	0	0	0	0	0	0	0	0	0	0	673	9	70	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU521	0	0	0	0	0	0	0	0	0	0	0	0	7	0	33	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+New.CleanUp.ReferenceOTU528	0	0	0	0	0	0	0	0	0	0	0	0	8	36	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+New.CleanUp.ReferenceOTU537	0	0	0	0	0	0	0	0	0	0	0	0	35	9	154	0	k__Fungi
+New.CleanUp.ReferenceOTU546	0	0	0	0	0	0	0	0	0	0	0	0	517	0	8	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Trichocomaceae; g__Talaromyces
+New.CleanUp.ReferenceOTU548	0	0	0	0	0	0	0	0	0	0	0	0	20	30	31	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala
+New.CleanUp.ReferenceOTU557	0	0	0	0	0	0	0	0	0	0	0	0	5	98	17	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae
+New.CleanUp.ReferenceOTU560	0	0	0	0	0	0	0	0	0	0	0	0	5	21	20	0	k__Fungi; p__Mortierellomycota; c__Mortierellomycetes; o__Mortierellales; f__Mortierellaceae
+New.CleanUp.ReferenceOTU565	0	0	0	0	0	0	0	0	0	0	0	0	71	10	14	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+New.CleanUp.ReferenceOTU568	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU569	0	0	0	0	0	0	0	0	0	0	0	0	31	0	73	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU571	0	0	0	0	0	0	0	0	0	0	0	0	32	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae; g__Capitofimbria; s__Capitofimbria_compacta
+New.CleanUp.ReferenceOTU573	0	0	0	0	0	0	0	0	0	0	0	0	48	10	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__Rhizophagus
+New.CleanUp.ReferenceOTU576	0	0	0	0	0	0	0	0	0	0	0	0	943	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Xylariales_fam_Incertae_sedis; g__Fusidium; s__unidentified
+New.CleanUp.ReferenceOTU583	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Cucurbitariaceae; g__Pyrenochaetopsis
+New.CleanUp.ReferenceOTU584	0	0	0	0	0	0	0	0	0	0	0	0	27	6	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleraceae; g__Bullera; s__Bullera_penniseticola
+New.CleanUp.ReferenceOTU586	0	0	0	0	0	0	0	0	0	0	0	0	46	9	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_musae
+New.CleanUp.ReferenceOTU595	0	0	0	0	0	0	0	0	0	0	0	0	6	7	0	0	k__Fungi; p__Basidiomycota; c__Agaricostilbomycetes
+New.CleanUp.ReferenceOTU596	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	k__Fungi; p__Chytridiomycota; c__Rhizophlyctidomycetes; o__Rhizophlyctidales; f__Rhizophlyctidaceae; g__Rhizophlyctis; s__Rhizophlyctis_rosea
+New.CleanUp.ReferenceOTU604	0	0	0	0	0	0	0	0	0	0	0	0	53	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora
+New.CleanUp.ReferenceOTU608	0	0	0	0	0	0	0	0	0	0	0	0	114	8	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU609	0	0	0	0	0	0	0	0	0	0	0	0	40	11	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+New.CleanUp.ReferenceOTU610	0	0	0	0	0	0	0	0	0	0	0	0	165	9	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU614	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU617	0	0	0	0	0	0	0	0	0	0	0	0	10	20	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__Rhizophagus; s__Rhizophagus_custos
+New.CleanUp.ReferenceOTU640	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Neodevriesiaceae
+New.CleanUp.ReferenceOTU642	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	k__Fungi; p__Kickxellomycota; c__Kickxellomycetes; o__Kickxellales; f__Kickxellaceae; g__Ramicandelaber
+New.CleanUp.ReferenceOTU645	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	k__Fungi; p__Basidiomycota; c__Agaricostilbomycetes; o__Agaricostilbales; f__Chionosphaeraceae
+New.CleanUp.ReferenceOTU650	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Pleurotheciales; f__Pleurotheciaceae; g__Phaeoisaria
+New.CleanUp.ReferenceOTU651	0	0	0	0	0	0	0	0	0	0	0	0	7	9	0	0	Unclassified
+New.CleanUp.ReferenceOTU657	0	0	0	0	0	0	0	0	0	0	0	0	17	5	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU658	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU659	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	k__Fungi; p__Glomeromycota; c__Glomeromycetes; o__Glomerales; f__Glomeraceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU666	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Idriella
+New.CleanUp.ReferenceOTU673	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU694	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_oxyspora
+New.CleanUp.ReferenceOTU708	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.CleanUp.ReferenceOTU709	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	Unclassified
+New.CleanUp.ReferenceOTU711	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriaceae; g__Lasiodiplodia
+New.CleanUp.ReferenceOTU717	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella
+New.CleanUp.ReferenceOTU233	0	0	0	0	0	0	0	0	0	0	0	0	0	5	15	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU293	0	0	0	0	0	0	0	0	0	0	0	0	0	5	24	0	k__Fungi; p__Ascomycota; c__Dothideomycetes
+New.CleanUp.ReferenceOTU453	0	0	0	0	0	0	0	0	0	0	0	0	0	36	17	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU464	0	0	0	0	0	0	0	0	0	0	0	0	0	5	11	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU500	0	0	0	0	0	0	0	0	0	0	0	0	0	35	10	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales; f__Diaporthaceae; g__Diaporthe
+New.CleanUp.ReferenceOTU574	0	0	0	0	0	0	0	0	0	0	0	0	0	5	25	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU579	0	0	0	0	0	0	0	0	0	0	0	0	0	13	5	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Trechisporales; f__Hydnodontaceae; g__Trechispora
+New.CleanUp.ReferenceOTU582	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	k__Fungi; p__Ascomycota; c__Lecanoromycetes; o__Lecanorales; f__Parmeliaceae; g__Parmotrema; s__Parmotrema_tinctorum
+New.CleanUp.ReferenceOTU603	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	Unclassified
+New.CleanUp.ReferenceOTU653	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	Unclassified
+New.CleanUp.ReferenceOTU664	0	0	0	0	0	0	0	0	0	0	0	0	0	147	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae
+New.CleanUp.ReferenceOTU667	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU670	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU674	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU728	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU760	0	0	0	0	0	0	0	0	0	0	0	0	0	254	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Stephanonectria; s__Stephanonectria_keithii
+New.CleanUp.ReferenceOTU763	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Fusariella; s__unidentified
+New.CleanUp.ReferenceOTU775	0	0	0	0	0	0	0	0	0	0	0	0	0	168	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Exophiala; s__Exophiala_oligosperma
+New.CleanUp.ReferenceOTU781	0	0	0	0	0	0	0	0	0	0	0	0	0	290	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreales_fam_Incertae_sedis; g__Sarocladium
+New.CleanUp.ReferenceOTU782	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Botryosphaeriales; f__Botryosphaeriaceae; g__Lasiodiplodia
+New.CleanUp.ReferenceOTU785	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae; g__Devriesia; s__unidentified
+New.CleanUp.ReferenceOTU789	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Branch06; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU795	0	0	0	0	0	0	0	0	0	0	0	0	0	176	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU799	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU802	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU804	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU808	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU816	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	k__Fungi; p__Ascomycota; c__Leotiomycetes; o__Helotiales
+New.CleanUp.ReferenceOTU818	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU820	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU831	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales
+New.CleanUp.ReferenceOTU833	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Didymellaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU839	0	0	0	0	0	0	0	0	0	0	0	0	0	57	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU841	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales; f__Psathyrellaceae; g__Psathyrella; s__Psathyrella_candolleana
+New.CleanUp.ReferenceOTU842	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	Unclassified
+New.CleanUp.ReferenceOTU843	0	0	0	0	0	0	0	0	0	0	0	0	0	92	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Glomerellaceae; g__Colletotrichum; s__Colletotrichum_gloeosporioides
+New.CleanUp.ReferenceOTU844	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU849	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU852	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU863	0	0	0	0	0	0	0	0	0	0	0	0	0	65	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU872	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae
+New.CleanUp.ReferenceOTU874	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Bulleribasidiaceae; g__Hannaella; s__Hannaella_kunmingensis
+New.CleanUp.ReferenceOTU877	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Glomerellales; f__Reticulascaceae; g__Pseudoacrodictys
+New.CleanUp.ReferenceOTU879	0	0	0	0	0	0	0	0	0	0	0	0	0	271	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Chaetothyriales_fam_Incertae_sedis; g__Hyalocladosporiella; s__Hyalocladosporiella_tectonae
+New.CleanUp.ReferenceOTU893	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU900	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU909	0	0	0	0	0	0	0	0	0	0	0	0	0	82	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales
+New.CleanUp.ReferenceOTU915	0	0	0	0	0	0	0	0	0	0	0	0	0	151	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Acrospermales; f__Acrospermales_fam_Incertae_sedis; g__Leptodiscella
+New.CleanUp.ReferenceOTU927	0	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
+New.CleanUp.ReferenceOTU928	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Mortierellomycota; c__unidentified; o__unidentified; f__unidentified; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU930	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes
+New.CleanUp.ReferenceOTU933	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Herpotrichiellaceae; g__Cladophialophora
+New.CleanUp.ReferenceOTU935	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Teratosphaeriaceae
+New.CleanUp.ReferenceOTU937	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Tetraplosphaeriaceae; g__unidentified; s__unidentified
+New.CleanUp.ReferenceOTU942	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi
+New.CleanUp.ReferenceOTU944	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis
+New.CleanUp.ReferenceOTU945	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU948	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae
+New.CleanUp.ReferenceOTU949	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales
+New.CleanUp.ReferenceOTU951	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	k__Fungi; p__Basidiomycota; c__Agaricomycetes; o__Agaricales
+New.CleanUp.ReferenceOTU952	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Hypocreaceae; g__Trichoderma
+New.CleanUp.ReferenceOTU959	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Nectriaceae; g__Fusarium; s__Fusarium_solani
+New.CleanUp.ReferenceOTU966	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU967	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Tremellales_fam_Incertae_sedis; g__Mingxiaea; s__Mingxiaea_panici
+New.CleanUp.ReferenceOTU972	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Diaporthales
+New.CleanUp.ReferenceOTU979	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	Unclassified
+New.CleanUp.ReferenceOTU981	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU982	0	0	0	0	0	0	0	0	0	0	0	0	0	121	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Capnodiales; f__Mycosphaerellaceae
+New.CleanUp.ReferenceOTU986	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Basidiomycota
+New.CleanUp.ReferenceOTU988	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	Unclassified
+New.CleanUp.ReferenceOTU993	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	Unclassified
+New.CleanUp.ReferenceOTU995	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora
+New.CleanUp.ReferenceOTU1004	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	k__Fungi; p__Basidiomycota; c__Tremellomycetes; o__Tremellales; f__Cuniculitremaceae; g__Kockovaella; s__Kockovaella_prillingeri
+New.CleanUp.ReferenceOTU1013	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	k__Fungi; p__Ascomycota; c__Orbiliomycetes; o__Orbiliales; f__Orbiliaceae; g__Arthrobotrys
+New.CleanUp.ReferenceOTU1017	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Kickxellomycota; c__Kickxellomycetes; o__Kickxellales; f__Kickxellaceae; g__Ramicandelaber
+New.CleanUp.ReferenceOTU1019	0	0	0	0	0	0	0	0	0	0	0	0	0	41	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU1028	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Magnaporthales; f__Magnaporthaceae; g__Arxiella; s__Arxiella_dolichandrae
+New.CleanUp.ReferenceOTU1033	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Trichosphaeriales; f__Trichosphaeriaceae; g__Nigrospora
+New.CleanUp.ReferenceOTU1034	0	0	0	0	0	0	0	0	0	0	0	0	0	67	0	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU1037	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Cyphellophoraceae; g__Cyphellophora; s__Cyphellophora_guyanensis
+New.CleanUp.ReferenceOTU1038	0	0	0	0	0	0	0	0	0	0	0	0	0	68	0	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Venturiales; f__Sympoventuriaceae; g__Ochroconis; s__Ochroconis_musae
+New.CleanUp.ReferenceOTU1040	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales; f__Microdochiaceae; g__Idriella
+New.CleanUp.ReferenceOTU1044	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Hypocreales; f__Stachybotryaceae
+New.CleanUp.ReferenceOTU392	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Ascomycota; c__Sordariomycetes; o__Xylariales
+New.CleanUp.ReferenceOTU417	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	k__Fungi; p__Ascomycota
+New.CleanUp.ReferenceOTU463	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU465	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Eurotiales; f__Aspergillaceae; g__Penicillium
+New.CleanUp.ReferenceOTU469	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	k__Fungi; p__Ascomycota; c__Eurotiomycetes; o__Chaetothyriales; f__Trichomeriaceae
+New.CleanUp.ReferenceOTU474	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales; f__Morosphaeriaceae; g__Acrocalymma
+New.CleanUp.ReferenceOTU525	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	k__Fungi; p__Ascomycota; c__Dothideomycetes; o__Pleosporales
+New.CleanUp.ReferenceOTU556	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	k__Fungi; p__Ascomycota; c__Sordariomycetes
