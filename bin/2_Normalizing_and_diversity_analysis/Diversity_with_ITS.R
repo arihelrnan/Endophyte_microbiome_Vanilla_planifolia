@@ -37,10 +37,6 @@ phyloseq.rel # check project
 any(taxa_sums(phyloseq.rel) < 1)
 ntaxa(phyloseq.rel)
 
-#check distribution of how many reads/OTU, reads/sample 
-
-sum(taxa_sums(phyloseq.rel))
-
 # Step 3. check distribution of how many reads/OTU, reads/sample: Plot number of reads per OTU / samples 
 
 
