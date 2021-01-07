@@ -1,0 +1,890 @@
+#OTU ID	V1	V2	V3	V4	V5	V6	V7	V8	V9	V10	V11	V12	V13	V14	V15	V16	Taxonomy
+OTU2	0	0	0	0	0	0	0	0	12376	66471	38020	628	21746	5372	0	14838	GSL|100.0|MG787462|SH1546322.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+OTU4	0	0	0	0	0	0	0	0	864	0	12222	23505	67110	18507	0	0	GSL|100.0|MH973234|SH1529400.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae,g:Simplicillium,s:Simplicillium chinense
+OTU5	0	0	0	0	0	0	74018	0	0	0	7260	0	0	2050	0	5955	GSL|100.0|MG839500|SH1610157.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU6	691	251	9501	0	333	231	38648	225	0	0	452	256	1250	1176	0	283	GSL|100.0|MG888624|SH1572816.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Cladosporium
+OTU7	0	0	0	0	0	0	36320	0	0	0	0	0	0	0	0	0	GS|100.0|MG571386|SH1525091.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Leptosphaeriaceae,g:Leptosphaeria
+OTU8	0	0	0	0	0	118	0	0	129	2023	28569	174	6592	4308	152	0	GSL|100.0|MG820082|SH1610157.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU9	18674	0	0	0	0	0	0	0	0	0	613	0	0	390	0	0	GSL|100.0|MG571432|SH1591179.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Corynesporascaceae,g:Corynespora
+OTU10	0	0	0	0	0	212	0	0	0	0	13190	652	3375	450	0	0	GS|100.0|AF502847|SH1198331.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU11	0	0	17244	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|MK584987|SH2712417.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Chalara
+OTU12	0	0	0	0	0	0	0	16283	0	0	0	0	0	0	0	0	GS|100.0|KT328829|SH1612879.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Morosphaeriaceae,g:Acrocalymma
+OTU14	0	9427	0	0	0	0	0	6950	0	0	463	0	0	0	0	0	SS|0.8200|KY607541|SH1185593.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae
+OTU15	0	0	0	0	0	12772	0	0	0	0	123	0	0	0	0	0	GSL|100.0|MH267909|SH1540622.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales
+OTU16	0	0	0	0	0	0	0	15204	0	0	0	0	0	0	0	0	SS|0.8600|MH864600|SH2591885.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU17	0	0	19751	0	0	0	2538	0	0	0	253	106	0	920	123	0	GSL|100.0|MN522537|SH1547057.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae
+OTU18	0	0	9482	0	0	0	135	0	0	0	0	0	0	0	0	0	GSL|100.0|MG755210|SH1526398.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria
+OTU19	0	0	0	0	0	0	0	0	7317	4308	0	519	0	0	0	0	GS|100.0|MG515368|SH1510176.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Cantharellales,f:Ceratobasidiaceae,g:Rhizoctonia,s:Rhizoctonia bicornis
+OTU20	0	0	0	0	0	0	0	0	3360	648	800	104	5870	237	0	1797	GSL|100.0|MN521513|SH1612873.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU21	0	0	0	0	0	47	0	0	1693	391	4249	2590	1290	497	0	1275	GS|100.0|KY574441|SH1585527.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU22	0	0	0	4966	0	0	84	359	1248	322	6195	1519	614	9616	0	6093	GSL|100.0|LT592899|SH1525086.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Cucurbitariaceae,g:Pyrenochaetopsis,s:Pyrenochaetopsis leptospora
+OTU23	0	0	0	0	0	0	0	0	0	0	0	0	0	7409	0	0	SS|0.9300|KY661628|SH1148993.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Ostropales,f:Stictidaceae,g:Cryptodiscus
+OTU24	0	0	0	0	0	0	0	0	52	496	1443	133	327	188	0	4557	GS|99.7|HQ607852|SH1228056.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala
+OTU25	0	0	0	0	0	0	0	0	0	992	0	0	0	0	175	6136	GS|97.4|KF156013|SH1156405.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+OTU26	0	0	6223	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.3|HE584934|SH1177192.08FU;k:Fungi
+OTU27	0	0	0	0	0	0	0	0	65	4262	0	439	4918	566	0	0	GSL|100.0|MN522981|SH1511100.08FU;k:Fungi,p:Ascomycota
+OTU28	0	0	0	0	0	171	0	0	77	143	1289	21	160	856	291	2952	GS|100.0|MN555429|SH1520732.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Edenia,s:Edenia gomezpompae
+OTU29	0	0	0	0	0	281	0	0	31	0	3753	29	1109	1447	55	0	GS|99.3|KP170619|SH1612892.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Morosphaeriaceae,g:Acrocalymma,s:Acrocalymma fici
+OTU30	0	0	0	0	0	0	5433	0	0	0	0	0	0	0	0	0	GSL|100.0|MN381104|SH1540062.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Apiosporaceae,g:Arthrinium
+OTU31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7560	0	GS|99.7|AF354084|SH1176945.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Cantharellales,f:Ceratobasidiaceae,g:Ceratobasidium
+OTU32	0	0	0	0	0	0	0	0	471	0	10319	0	111	123	585	0	GSL|100.0|MG751209|SH1546498.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU33	0	0	0	0	0	0	0	8491	0	0	0	0	0	0	0	0	SS|0.9000|KU255057|SH1573849.08FU;k:Fungi,p:Ascomycota
+OTU34	0	0	0	0	0	0	0	51	0	0	6932	0	0	102	0	209	GSL|100.0|LT220551|SH1522825.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Clonostachys
+OTU35	0	0	0	1749	1809	0	0	0	0	0	0	16	0	0	0	0	GS|100.0|FJ884093|SH1541124.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Entonaema,s:Entonaema pallida
+OTU36	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	6996	GS|99.3|JN541224|SH1551778.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Cantharellales,f:Ceratobasidiaceae,g:Ceratobasidium
+OTU37	0	0	11731	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8500|FJ917559|SH1613987.08FU;k:Fungi,p:Ascomycota
+OTU38	0	0	3161	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.7|MG434535|SH2705923.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Amarenomyces,s:Amarenomyces ammophilae
+OTU39	0	0	0	0	0	0	0	0	53	114	526	1406	3475	418	34	0	GS|100.0|DQ287230|SH1541933.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU40	0	0	0	0	0	0	0	0	0	0	3628	53	545	33	0	0	GS|100.0|JQ693169|SH1561520.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Volutella,s:Volutella lini
+OTU41	0	0	0	0	0	0	0	0	0	0	4790	0	0	0	0	0	GS|98.7|UDB016773|SH1650386.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Atheliales,f:Atheliaceae
+OTU42	0	0	0	0	0	0	0	9	0	0	24	29	19	22	740	2607	GSL|100.0|MK120575|SH1552672.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Sporocadaceae
+OTU44	0	0	0	0	0	0	0	0	0	0	0	2563	63	160	0	0	GSL|100.0|KX447685|SH1547257.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora europaea
+OTU45	0	0	0	0	0	0	0	0	0	18	23	0	0	165	29	2909	GS|100.0|JN890282|SH1585530.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Apiosporaceae
+OTU46	0	0	0	0	0	0	0	0	0	0	0	89	3248	0	0	0	GS|98.7|KX499247|SH1160362.08FU;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales
+OTU47	0	0	0	0	0	0	2612	0	0	0	0	720	0	180	0	0	GSL|100.0|MN523081|SH1644387.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Plectosphaerellaceae,g:Plectosphaerella
+OTU49	0	0	0	0	0	0	0	3280	0	0	27	0	0	0	0	0	SS|0.9900|HQ437657|SH1185588.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU50	0	0	0	0	0	127	0	29	107	0	863	679	2262	2236	123	387	GS|100.0|KF156023|SH1551238.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Ochroconis,s:Ochroconis cordanae
+OTU51	0	0	2326	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.5|AY546059|SH1525096.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU52	0	0	0	0	0	0	0	0	0	0	0	9	0	116	1812	0	GS|81.4|FJ904669|SH2587825.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Ostropales,f:Stictidaceae,g:Absconditella,s:Absconditella lignicola
+OTU53	0	0	0	0	0	0	0	0	0	0	0	0	46	2388	0	0	GS|100.0|KX343150|SH1540623.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe
+OTU54	0	0	0	0	8	0	0	13	0	0	0	0	1781	0	0	0	GSL|100.0|EF504325|SH1522797.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Hannaella
+OTU55	0	0	0	0	14	0	54	92	0	0	394	20	334	1191	0	0	GS|100.0|MN244420|SH1528213.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Vishniacozyma,s:Vishniacozyma taibaiensis
+OTU56	0	0	0	0	1007	186	0	643	25	0	346	120	158	3458	1954	37	GS|99.7|KU204526|SH1636085.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora guyanensis
+OTU57	0	0	0	0	0	0	0	0	0	0	0	0	0	2473	0	0	GS|100.0|KU512704|SH2589736.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Magnaporthales,f:Magnaporthaceae,g:Arxiella
+OTU58	0	0	0	0	32	1104	236	1193	0	0	0	70	219	96	0	0	GSL|100.0|KY513780|SH1543708.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Glomerellaceae,g:Colletotrichum
+OTU59	0	0	0	0	0	0	0	0	0	0	0	31	2111	236	0	0	GS|99.7|KF896888|SH1228070.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala
+OTU60	0	0	0	0	0	31	0	0	0	0	2919	0	16	0	0	0	GS|100.0|MF380827|SH1546341.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Gibberella,s:Gibberella baccata
+OTU61	0	49	0	30	620	1695	0	0	0	0	0	85	56	32	0	0	GS|100.0|EU436763|SH1549728.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Neodevriesiaceae,g:Neodevriesia,s:Neodevriesia strelitziae
+OTU63	0	0	0	0	0	0	0	0	0	0	1482	0	12	78	45	608	GS|100.0|AF502895|SH1585533.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU64	0	0	0	0	0	0	0	0	13	0	1981	92	87	1278	0	0	GS|100.0|EF694655|SH1569895.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium
+OTU65	0	0	0	0	0	1175	0	0	22	0	4627	132	205	175	179	241	GS|100.0|KU377469|SH1546326.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Albonectria,s:Albonectria rigidiuscula
+OTU66	0	0	0	0	0	0	0	1795	0	0	644	25	111	168	13	29	GS|100.0|MK247909|SH1612874.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Morosphaeriaceae,g:Acrocalymma,s:Acrocalymma medicaginis
+OTU67	0	0	0	0	0	0	0	0	0	0	1981	0	0	23	0	0	GS|72.4|EU686805|SH1185592.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Geosmithia
+OTU68	0	0	0	0	0	0	0	0	0	0	1836	13	60	48	0	15	GS|100.0|KP216980|SH1644900.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Clavicipitaceae,g:Metacordyceps,s:Metacordyceps chlamydosporia
+OTU69	0	0	0	0	0	18	0	0	44	0	514	282	448	511	0	0	GS|97.4|HE585021|SH1213845.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Morosphaeriaceae,g:Acrocalymma,s:Acrocalymma vagum
+OTU70	0	0	0	0	0	0	0	0	0	0	0	0	34	2329	0	0	GS|100.0|MG515379|SH1608943.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Cantharellales,f:Ceratobasidiaceae,g:Rhizoctonia,s:Rhizoctonia bicornis
+OTU71	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	1538	SS|0.9700|AF502895|SH1585533.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU72	0	0	0	0	0	0	0	0	110	541	728	11	0	0	0	0	GS|99.0|KX398763|SH1572434.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Sebacinales
+OTU73	0	0	0	0	370	124	16	19	0	0	129	49	832	109	0	0	GS|99.7|KM246227|SH1528215.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Tremellaceae,g:Cryptococcus
+OTU74	0	0	0	0	0	0	0	2224	0	0	131	128	78	505	94	24	GS|99.7|EU687071|SH1637047.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Thyridariaceae,g:Roussoella
+OTU75	0	0	0	0	0	0	0	0	0	25	0	0	642	1078	0	0	GS|100.0|GU361962|SH1614480.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Cucurbitariaceae,g:Pyrenochaeta,s:Pyrenochaeta inflorescentiae
+OTU76	0	0	0	0	72	0	0	1656	0	0	0	0	0	9	30	0	SS|0.8500|MG813221|SH1228291.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora
+OTU77	0	0	0	0	0	0	0	0	0	71	2227	0	48	0	0	108	GS|100.0|KU977858|SH1563286.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU78	0	0	0	0	35	0	0	51	0	0	16	0	1952	17	46	0	GS|98.0|JN116685|SH1645871.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU79	0	0	0	0	0	0	0	0	0	0	0	0	0	1333	0	0	GSL|97.3|KT215205|SH1507830.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Arthrobotrys,s:Arthrobotrys entomopaga
+OTU81	0	0	0	0	0	135	0	0	0	0	0	960	10	535	0	0	GSL|100.0|MN540238|SH1543709.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Glomerellaceae,g:Colletotrichum
+OTU82	0	0	1174	0	0	0	0	36	0	0	0	0	0	55	0	71	GSL|100.0|MG571394|SH1888874.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae,g:Pseudopithomyces
+OTU83	0	0	0	0	6	0	0	0	0	0	34	41	119	94	1303	408	GSL|100.0|MG878122|SH1507501.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Botryosphaeriales,f:Botryosphaeriaceae,g:Lasiodiplodia
+OTU84	0	0	0	0	0	0	0	0	0	0	1875	0	0	0	0	0	GS|100.0|AF210670|SH1522837.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Bionectria,s:Bionectria setosa
+OTU85	0	0	1371	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|KU500565|SH1573987.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Torulaceae,g:Dendryphion
+OTU86	0	0	0	0	0	0	0	0	0	0	0	53	25	1587	0	0	GS|98.3|KU574716|SH1574084.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Cucurbitariaceae,g:Pyrenochaetopsis
+OTU87	268	0	0	0	0	0	0	473	0	0	170	208	23	1249	11	19	GS|100.0|HQ262498|SH1556685.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Coniosporium
+OTU88	390	0	0	0	0	0	1438	0	0	0	0	0	20	0	0	0	GS|99.7|JX135972|SH1651046.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU89	0	0	0	0	0	0	0	0	0	0	100	0	0	921	0	0	GS|88.0|JX363377|SH1245499.08FU;k:Fungi
+OTU90	13	0	0	0	50	42	0	336	9	0	1553	71	75	735	46	16	SS|1.0000|KY038650|SH1636081.08FU;k:Fungi
+OTU91	0	0	0	0	0	0	0	0	0	892	23	15	829	0	0	0	GS|100.0|KY318474|SH1546329.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Dactylonectria,s:Dactylonectria anthuriicola
+OTU92	0	0	0	0	0	0	0	2063	0	0	0	0	0	0	0	0	GS|85.8|LT547783|SH1170661.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Capnodiaceae
+OTU93	0	0	0	0	0	0	0	0	0	0	0	0	0	0	992	0	SS|0.9900|KU144596|SH1189394.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU94	0	0	0	0	0	0	0	68	0	0	97	0	0	866	63	119	GS|100.0|MH063036|SH1636101.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora fusarioides
+OTU95	0	675	0	0	6	0	0	87	0	0	324	0	0	0	0	0	SS|0.9700|KY607541|SH1185593.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU97	0	0	0	0	0	0	0	0	43	0	327	715	295	46	0	11	GS|100.0|KX953444|SH1546336.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+OTU98	0	0	259	0	6	362	0	0	18	5	213	5	102	31	17	14	GSL|100.0|MG434530|SH1543716.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Glomerellaceae
+OTU99	0	0	0	0	0	0	0	0	0	0	995	0	0	0	0	0	GS|100.0|EF029211|SH1561524.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Volutella
+OTU100	0	229	0	0	19	0	0	0	0	0	0	26	555	35	0	0	GS|100.0|MG251413|SH1522801.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Hannaella,s:Hannaella siamensis
+OTU101	0	0	0	0	0	0	0	0	82	26	0	10	78	1395	0	0	GS|100.0|KC222693|SH1160354.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Cladophialophora
+OTU103	0	0	0	0	0	28	0	1049	0	0	0	0	0	10	0	0	SS|0.8300|KC978025|SH1223130.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU104	0	0	0	0	0	0	0	0	36	99	0	130	891	5	0	91	GSL|100.0|LC406460|SH1516144.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Trichocomaceae,g:Talaromyces,s:Talaromyces sayulitensis
+OTU105	0	0	0	0	0	0	0	5	14	0	701	149	184	60	506	6	SS|1.0000|MF976674|SH1149751.08FU;k:Fungi
+OTU106	0	0	0	0	0	876	0	32	0	0	0	0	0	0	0	0	SS|0.8100|LT547793|SH1156853.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae
+OTU107	0	0	0	0	640	63	0	101	36	0	469	200	104	135	62	13	GDL|100.0|HQ012965|SH1645871.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU108	0	0	0	0	0	0	0	0	13	441	221	110	265	18	174	0	GS|99.7|EU541485|SH1647019.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,g:Xenobotrytis,s:Xenobotrytis acaducospora
+OTU109	0	0	0	0	0	0	0	0	0	0	0	82	168	979	0	0	GS|100.0|KU846294|SH1561007.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Paramyrothecium,s:Paramyrothecium foliicola
+OTU110	0	0	0	0	0	0	0	0	0	0	1146	0	0	6	0	0	GS|100.0|JQ081587|SH1561518.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Volutella,s:Volutella consors
+OTU111	0	69	125	0	14	1780	338	123	0	0	29	18	291	143	0	0	GSL|100.0|MK101018|SH1543887.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Glomerellaceae,g:Colletotrichum
+OTU112	0	0	0	0	0	0	0	866	0	0	0	0	0	0	0	0	SS|0.8000|DQ018095|SH1150058.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU113	0	0	0	0	0	1003	0	12	0	10	15	0	27	27	16	0	GSL|100.0|AF001025|SH1540607.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe
+OTU114	0	0	1030	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|87.7|KT215247|SH1151470.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Orbilia
+OTU115	0	181	0	0	0	0	771	12	0	0	0	15	0	35	0	11	GSL|100.0|MH397134|SH1573185.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU116	0	0	0	0	0	10	0	0	82	0	1112	0	130	57	0	160	GS|97.0|HG936115|SH1585524.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Fusidium
+OTU118	0	36	3	10	98	489	0	3	0	0	11	0	238	128	0	0	GSL|100.0|MN306004|SH1572792.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Cladosporium
+OTU119	0	0	0	0	0	0	0	0	0	0	0	741	0	0	0	0	SS|0.9700|UDB025119|SH1158531.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU120	0	0	0	0	0	0	0	199	0	0	0	0	0	13	819	0	SS|0.9500|KF359644|SH1627172.08FU;k:Fungi,p:Ascomycota
+OTU121	0	0	0	0	0	0	0	0	0	0	0	0	6	833	0	0	GS|99.0|MF495447|SH1529623.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala,s:Exophiala moniliae
+OTU123	0	0	0	0	0	0	0	0	0	0	1120	0	0	0	0	9	GS|80.9|HE584946|SH1551238.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Ochroconis
+OTU125	0	7	0	20	460	320	0	0	0	0	0	11	62	18	0	0	SS|0.9900|JX294932|SH1549747.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU126	0	0	0	0	0	0	0	0	0	0	0	759	0	0	0	0	GS|100.0|KX499243|SH1241440.08FU;k:Fungi,p:Ascomycota
+OTU127	0	0	0	0	0	0	0	0	0	0	116	0	0	0	637	0	SS|1.0000|KX434722|SH1547257.08FU;k:Fungi
+OTU128	16	0	0	0	0	3	618	17	0	0	0	26	97	247	0	0	GSL|100.0|MG571086|SH1644388.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Plectosphaerellaceae
+OTU129	0	0	0	0	0	0	0	0	0	46	981	0	0	0	25	0	GSL|100.0|FJ868792|SH1610162.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Calonectria
+OTU130	0	0	6	59	24	519	0	4	0	0	12	0	53	0	0	0	GSL|100.0|MK120117|SH1604735.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Botryosphaeriales,f:Phyllostictaceae,g:Phyllosticta
+OTU131	0	0	0	0	0	0	106	144	0	0	108	56	169	778	11	0	GS|100.0|KX385856|SH1644390.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Plectosphaerellaceae,g:Chordomyces,s:Chordomyces antarcticus
+OTU132	0	0	0	0	0	0	0	0	0	0	0	0	0	0	622	0	SS|0.8000|MF976674|SH1149751.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes
+OTU133	0	0	0	0	0	546	0	0	9	0	174	7	58	748	44	9	GS|100.0|MG748668|SH1522830.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Stephanonectria,s:Stephanonectria keithii
+OTU134	0	0	864	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9100|AY843041|SH1506898.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,g:Neophaeococcomyces
+OTU135	0	0	0	0	175	68	0	0	7	0	724	145	456	470	7	0	GS|99.7|KT328802|SH1636096.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Cladophialophora
+OTU136	0	0	0	0	37	8	0	1431	0	0	32	239	122	37	0	0	GS|100.0|KU204651|SH1636853.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Sporocadaceae,g:Pestalotiopsis,s:Pestalotiopsis mangifolia
+OTU137	0	0	0	0	764	0	0	0	0	0	38	0	0	0	0	0	SS|0.9400|KU747936|SH1151671.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU138	0	39	0	0	0	0	0	245	0	0	378	35	34	37	10	0	GS|100.0|KF436393|SH1576416.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Halosphaeriaceae
+OTU139	0	0	638	0	0	0	0	0	0	0	0	0	0	3	0	0	GS|100.0|GU722054|SH1648811.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Helotiaceae,g:Articulospora
+OTU140	0	0	0	0	0	0	0	817	0	0	0	0	0	0	29	10	GS|98.7|JX076941|SH1555968.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium polychromum
+OTU141	0	0	661	0	0	0	0	0	0	0	124	0	0	0	6	0	GSL|100.0|MN429231|SH1524347.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU142	0	0	0	0	12	0	0	0	8	0	270	52	94	617	9	0	GS|98.0|AB540570|SH1560659.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium brachypenium
+OTU143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	508	0	GS|87.4|MF976722|SH1245746.08FU;k:Fungi
+OTU145	0	0	0	0	0	0	0	0	2	147	0	54	253	0	0	206	SS|0.9900|MG018068|SH1553544.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+OTU146	0	0	0	0	0	0	347	0	0	0	0	0	9	172	0	0	GS|100.0|JQ753969|SH1522796.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Hannaella,s:Hannaella oryzae
+OTU147	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	544	SS|0.8600|MG386064|SH1648730.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU148	0	0	0	0	0	0	0	0	17	0	432	361	0	287	0	0	GS|99.3|KT581860|SH1546039.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Trechisporales,f:Hydnodontaceae,g:Subulicystidium
+OTU149	0	0	0	0	0	0	0	0	23	0	577	123	7	334	6	0	GS|98.1|JX319873|SH1567825.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU150	0	0	0	0	0	36	0	0	0	0	966	0	0	0	0	14	GS|98.7|HQ607854|SH1567810.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Cucurbitariaceae,g:Pyrenochaeta
+OTU151	0	0	613	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|KT462538|SH1646220.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Dictyosporiaceae,g:Dictyosporium,s:Dictyosporium heptasporum
+OTU152	0	0	0	0	0	0	0	0	0	0	0	3	567	0	0	0	SS|1.0000|KU977894|SH1238639.08FU;k:Fungi
+OTU153	0	0	0	0	0	0	0	0	0	0	652	0	0	0	0	90	GS|99.0|EU563602|SH1198324.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU154	0	31	0	254	328	0	0	3	0	0	0	19	169	3	18	0	GSL|100.0|MF380737|SH1549605.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Trichosphaeriales,f:Trichosphaeriaceae,g:Nigrospora
+OTU155	0	0	0	0	0	0	0	0	0	3	493	37	22	56	181	4	SS|0.9900|HM161962|SH1155499.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes
+OTU156	0	0	0	0	0	0	0	15	0	0	689	0	0	170	75	11	GSL|100.0|MN548435|SH1546415.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusicolla
+OTU157	0	0	643	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9600|KT215273|SH1157202.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Orbilia
+OTU158	0	0	0	0	0	0	0	67	22	0	0	27	49	378	66	10	GS|97.7|JN890259|SH1142991.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU159	0	0	0	0	0	0	0	0	0	0	557	0	0	4	0	0	GSL|99.3|KC775746|SH1560157.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Microdochiaceae
+OTU160	0	0	0	0	0	0	0	16	25	0	490	19	54	426	6	0	SS|0.8000|MF285234|SH1228287.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora jingdongensis
+OTU161	77	0	0	0	54	0	0	9	0	0	0	9	817	36	0	0	SS|0.9100|KU977913|SH1560636.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU162	0	0	0	0	0	0	0	645	0	0	0	0	0	0	0	0	GS|91.9|UDB0748955|SH2750635.08FU;k:Fungi
+OTU163	0	0	0	0	0	0	0	15	15	0	1051	64	16	0	76	0	SS|1.0000|UDB0750946|SH2728516.08FU;k:Fungi
+OTU164	0	0	0	0	0	293	3	163	0	0	31	2	23	4	0	0	SS|1.0000|MH327818|SH2707359.08FU;k:Fungi
+OTU165	0	0	0	0	0	469	0	0	0	0	11	0	13	9	0	0	GS|99.7|HQ008912|SH1214486.08FU;k:Fungi,p:Ascomycota
+OTU166	0	0	0	0	0	0	0	0	0	0	0	0	521	0	0	0	GS|100.0|KT428157|SH1213457.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Matsushimamyces,s:Matsushimamyces venustum
+OTU167	0	0	0	0	0	0	0	0	0	0	25	0	0	609	0	0	SS|0.8400|JQ070513|SH1541938.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium
+OTU168	0	0	0	0	0	0	0	0	0	451	0	0	0	0	0	0	SS|0.9900|MH861336|SH2705410.08FU;k:Fungi,p:Ascomycota,c:Laboulbeniomycetes,o:Pyxidiophorales,f:Pyxidiophoraceae,g:Pyxidiophora,s:Pyxidiophora arvernensis
+OTU169	0	0	0	0	0	0	0	0	8	3	226	68	102	104	45	0	GSL|100.0|MK955464|SH1561005.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Ophiocordycipitaceae,g:Purpureocillium
+OTU170	0	0	470	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.0|EF159449|SH1170502.08FU;k:Fungi,p:Ascomycota
+OTU172	0	0	0	0	0	0	0	0	0	0	0	28	294	227	0	0	GS|86.7|KC427045|SH1648654.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Acrospermales,g:Leptodiscella
+OTU173	0	0	0	0	0	0	0	0	17	268	0	0	462	72	0	5	GS|98.0|UDB0750203|SH2619564.08FU;k:Fungi
+OTU174	0	0	0	0	0	0	0	0	0	4	9	0	0	409	97	0	SS|1.0000|HM161962|SH1155499.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes
+OTU175	0	0	0	0	57	0	0	15	0	11	130	0	66	0	183	0	GS|100.0|MG214562|SH1560583.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU176	0	0	429	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9700|KY548838|SH1539921.08FU;k:Fungi,p:Basidiomycota,c:Classiculomycetes,o:Classiculales,f:Classiculaceae
+OTU177	0	0	547	0	0	0	0	0	10	0	132	0	0	0	7	0	GS|100.0|KM265622|SH1581101.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Togniniales,f:Togniniaceae,g:Phaeoacremonium
+OTU178	0	0	370	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|AM262325|SH1576895.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Rhynchogastremataceae,g:Papiliotrema,s:Papiliotrema rajasthanensis
+OTU179	0	0	0	0	0	0	0	319	0	35	243	70	18	36	3	0	SS|1.0000|KU204581|SH1237398.08FU;k:Fungi
+OTU180	0	0	0	0	0	0	0	0	0	0	470	0	0	11	0	0	SS|0.8000|MF142367|SH1157551.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU181	0	0	0	0	0	0	0	2	0	0	0	0	378	0	0	0	GS|97.5|AJ427409|SH1183226.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Auriculariales,f:Exidiaceae,g:Exidiopsis
+OTU182	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	397	GS|100.0|MK506342|SH1561416.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Clavicipitaceae,g:Metarhizium,s:Metarhizium marquandii
+OTU183	0	0	0	0	0	0	0	0	75	258	0	1	0	7	0	0	SS|1.0000|DQ494356|SH1511060.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae
+OTU184	0	0	0	0	0	0	55	12	10	0	347	9	0	44	0	5	GSL|100.0|MK017846|SH1541921.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium
+OTU185	0	0	0	0	0	0	0	0	0	0	0	369	72	26	0	0	GS|98.7|FJ439575|SH1209364.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU187	0	0	0	0	0	0	0	337	0	0	0	17	10	0	0	0	SS|0.9300|MF971343|SH1557860.08FU;k:Fungi
+OTU189	0	0	0	0	0	0	0	0	12	1	0	0	380	78	0	184	GS|99.7|FN397382|SH1648822.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Helotiaceae,g:Tetracladium
+OTU190	0	0	0	0	6	0	0	0	58	16	105	45	196	15	46	16	GS|100.0|EU266591|SH1552445.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Clavicipitaceae,g:Pochonia
+OTU191	0	0	0	0	75	55	1	50	9	0	59	30	155	37	0	0	GS|99.7|KJ740815|SH1175696.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Devriesia
+OTU193	0	0	0	0	374	73	7	77	0	0	0	5	39	90	98	0	GS|97.0|KT328883|SH1142993.08FU;k:Fungi
+OTU195	0	0	0	0	0	0	0	0	0	0	336	0	0	0	0	0	GS|99.7|FJ362153|SH1578224.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+OTU196	0	0	0	0	0	0	0	0	37	0	22	47	15	304	7	0	GS|99.3|KF827448|SH1579765.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Pseudorobillarda,s:Pseudorobillarda siamensis
+OTU197	0	0	0	0	0	0	0	328	0	0	0	0	0	0	0	0	SS|0.9900|AF502784|SH1645874.08FU;k:Fungi
+OTU198	0	0	0	0	0	0	0	0	0	0	0	0	410	11	0	0	GS|100.0|MG649295|SH1517648.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Pseudochaetosphaeronema,s:Pseudochaetosphaeronema martinelli
+OTU199	0	0	0	0	0	494	0	0	0	0	32	0	0	0	0	0	GS|79.7|LT547793|SH1156853.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae
+OTU200	0	0	0	0	0	0	0	0	15	0	525	6	0	54	107	20	SS|0.9000|HM208715|SH1527189.08FU;k:Fungi,p:Ascomycota
+OTU201	0	0	0	0	0	0	1	2	0	0	3	14	383	34	0	0	GS|100.0|FJ612684|SH1540603.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe
+OTU202	0	0	0	0	0	0	0	65	0	0	0	0	16	470	0	0	GS|99.7|GU054168|SH1556684.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Coniosporium
+OTU204	0	0	300	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9700|KT215273|SH1157202.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Orbilia,s:Orbilia corculispora
+OTU205	0	0	0	0	0	0	0	4	0	0	0	19	135	157	0	0	GS|100.0|KU204480|SH1645418.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Septoria,s:Septoria escalloniae
+OTU206	0	0	0	0	2	108	4	286	0	0	0	13	87	63	49	0	SS|0.8400|LT547797|SH1627146.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Devriesia
+OTU207	0	0	0	0	0	0	0	0	0	0	0	0	276	6	0	0	SS|1.0000|GQ921817|SH1571598.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae,g:Mortierella
+OTU210	0	0	0	0	0	0	5	18	0	0	6	32	28	310	6	12	GS|100.0|MK681736|SH1644392.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Plectosphaerellaceae,g:Plectosphaerella,s:Plectosphaerella cucumerina
+OTU212	290	0	1	0	0	0	0	0	0	0	0	0	0	20	0	0	GS|99.7|KM246274|SH1648806.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Helotiaceae,g:Tetracladium
+OTU213	0	0	0	0	0	0	0	270	0	0	0	0	0	0	0	0	SS|0.9300|DQ494362|SH1146570.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Dactylella
+OTU215	0	0	0	0	0	0	0	0	15	466	6	0	18	0	0	0	GS|100.0|KM247712|SH1156404.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+OTU216	0	0	2	0	0	0	0	0	48	0	4	97	56	125	0	0	GS|98.7|FJ708606|SH1539591.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU217	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	237	SS|0.8600|KP991340|SH1585564.08FU;k:Fungi,p:Ascomycota
+OTU218	0	0	0	0	0	0	0	0	0	0	11	0	6	257	0	0	GSL|100.0|EF551458|SH1575243.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala
+OTU219	0	0	0	0	0	5	0	0	99	0	251	4	7	84	0	0	GS|98.0|FR751089|SH1648651.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Acrospermales,g:Leptodiscella,s:Leptodiscella africana
+OTU220	0	0	397	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|85.7|GQ921756|SH1655420.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU221	0	0	0	0	0	0	0	0	0	0	335	0	0	0	0	0	SS|1.0000|UDB0749816|SH2721242.08FU;k:Fungi
+OTU222	0	0	0	0	0	0	0	0	0	0	0	31	26	298	0	0	SS|0.8500|KM265985|SH1228309.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora
+OTU223	0	0	0	0	0	0	0	0	10	4	233	0	0	0	0	0	GS|100.0|KF436392|SH1511103.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU224	0	0	0	0	173	0	0	167	0	0	0	0	0	0	0	0	GS|84.5|MK607610|SH1567260.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Pleurotheciales,f:Pleurotheciaceae,g:Phaeoisaria
+OTU226	0	0	263	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9400|JX313652|SH1597909.08FU;k:Fungi,p:Ascomycota
+OTU227	0	0	0	0	0	0	0	3	0	0	174	28	187	127	3	0	GS|100.0|MK442605|SH1549555.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Ochroconis,s:Ochroconis musae
+OTU228	0	0	0	0	0	0	0	0	0	1	10	5	0	236	4	0	GS|100.0|EU041816|SH1560863.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Veronaea,s:Veronaea botryosa
+OTU229	0	0	0	0	297	94	0	0	29	0	188	8	74	104	76	29	GS|100.0|KU846670|SH1557972.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Sirastachys,s:Sirastachys phaeospora
+OTU230	0	0	0	0	0	0	0	0	41	0	0	0	199	0	0	0	GS|100.0|FJ752619|SH1555932.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Botryosphaeriales,f:Botryosphaeriaceae,g:Microdiplodia
+OTU231	0	0	3	0	0	2	0	0	0	14	193	0	9	31	1	13	GS|99.7|EF672297|SH1179479.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	251	0	SS|0.9500|KT184775|SH1238997.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Tetraplosphaeriaceae
+OTU233	0	0	0	0	0	0	15	90	0	0	27	0	129	4	94	30	GS|99.7|MG298941|SH1569197.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Neooccultibambusa,s:Neooccultibambusa pandanicola
+OTU234	0	0	0	0	0	0	0	0	0	3	286	0	0	0	0	0	SS|1.0000|MK421951|SH1213656.08FU;k:Fungi,p:Ascomycota
+OTU235	0	0	0	0	0	0	0	35	0	0	0	0	5	391	0	0	GS|99.7|KF800468|SH1156858.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU237	0	0	0	0	0	0	6	231	0	0	0	0	0	0	0	0	GS|98.7|KU747841|SH1174628.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Mycosphaerella
+OTU238	0	0	0	0	0	0	0	0	0	0	231	0	0	0	0	0	GS|81.8|KP335617|SH1156845.08FU;k:Fungi
+OTU239	0	0	0	0	0	0	0	0	0	0	370	0	0	0	0	0	GS|100.0|MH213123|SH1542057.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Campylocarpon,s:Campylocarpon pseudofasciculare
+OTU240	0	0	0	0	0	0	0	0	0	0	365	0	0	0	0	3	GS|100.0|MH854917|SH1517982.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Chaetosphaeriales,f:Chaetosphaeriaceae,g:Mesobotrys,s:Mesobotrys simplex
+OTU242	0	0	0	0	0	0	0	0	0	0	237	0	17	0	0	0	GS|91.1|JX374989|SH1567823.08FU;k:Fungi
+OTU244	0	0	0	0	0	0	0	0	0	5	0	0	46	212	2	0	GS|98.7|KJ572115|SH1561007.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Paramyrothecium,s:Paramyrothecium roridum
+OTU245	0	0	0	0	0	0	0	0	0	0	0	0	0	251	0	0	GS|100.0|DQ421291|SH1648813.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+OTU246	0	0	247	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|MH809377|SH1573200.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Periconiaceae,g:Periconia,s:Periconia macrospinosa
+OTU247	0	0	0	0	0	0	0	0	0	0	239	0	0	0	0	0	GS|99.7|GQ996096|SH2699906.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+OTU248	0	0	0	0	0	0	3	6	0	0	98	103	42	73	7	0	GSL|100.0|MG203933|SH1563547.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae,g:Letendraea
+OTU249	0	0	208	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|HQ008925|SH1552804.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Bartaliniaceae,g:Truncatella
+OTU252	0	0	0	0	288	0	0	0	0	0	0	0	0	0	0	0	SS|0.9500|KX710148|SH1652658.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sporidesmium,s:Sporidesmium pyriformatum
+OTU253	0	0	0	0	0	0	0	0	0	0	218	43	4	13	0	0	SS|1.0000|DQ421194|SH1515222.08FU;k:Fungi
+OTU254	0	0	0	0	0	0	0	0	0	0	0	0	270	15	0	0	GS|78.3|MF971381|SH1146027.08FU;k:Fungi
+OTU257	0	0	0	0	0	0	0	0	5	135	0	0	40	0	0	38	SS|0.9100|AF373061|SH1524203.08FU;k:Fungi,p:Ascomycota
+OTU258	0	0	348	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.0|KR093876|SH1546729.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Setophoma,s:Setophoma chromolaenae
+OTU259	0	0	229	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.2|JX313651|SH1597909.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Trichomeriaceae,g:Trichomerium,s:Trichomerium foliicola
+OTU260	0	0	0	0	0	0	0	0	0	23	0	0	230	17	0	0	GS|99.0|AF502866|SH1183428.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Volutella,s:Volutella consors
+OTU261	0	0	0	0	233	0	0	0	0	0	0	0	0	1	0	0	GS|95.7|LC015701|SH1572554.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Pleurotheciales,f:Pleurotheciaceae
+OTU262	0	0	0	0	0	0	0	385	0	0	0	0	0	0	0	0	GS|99.3|KT328760|SH1222433.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU263	0	0	0	0	0	0	0	0	0	0	0	0	0	261	0	0	SS|1.0000|KY038650|SH1636081.08FU;k:Fungi
+OTU264	0	0	0	0	0	0	0	0	160	0	4	0	0	50	0	0	SS|0.9700|JN802307|SH1191767.08FU;k:Fungi,p:Ascomycota
+OTU265	0	0	0	168	26	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|JQ814313|SH1541132.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Xylaria,s:Xylaria multiplex
+OTU266	0	0	211	0	0	0	0	0	0	0	0	0	0	0	6	0	GS|99.6|AY546017|SH1178705.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU267	0	0	0	0	0	0	0	17	0	0	5	0	0	1	179	0	GS|100.0|MH859707|SH1522828.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sesquicillium,s:Sesquicillium microsporum
+OTU268	0	0	0	0	0	0	0	0	33	0	5	0	0	0	203	0	SS|0.8800|JX332090|SH2702668.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Sebacinales
+OTU269	0	0	0	0	0	0	0	103	0	0	0	0	0	0	61	30	GS|100.0|KT328739|SH1245613.08FU;k:Fungi
+OTU270	0	0	0	0	0	47	0	8	0	0	906	7	0	313	704	20	GS|99.7|MG572381|SH1546344.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Gibberella,s:Gibberella baccata
+OTU271	0	0	0	0	0	0	0	0	0	0	0	8	105	110	0	0	SS|0.9700|MF372138|SH2590893.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Phallales,f:Phallaceae,g:Phallus
+OTU272	0	0	0	0	0	0	0	0	0	0	295	0	0	0	0	0	GS|100.0|MF196849|SH1539487.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Cylindrocarpon
+OTU273	0	0	0	0	0	0	0	0	0	0	0	0	2	130	41	0	GS|97.0|FJ752614|SH1565456.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae,g:Phoma
+OTU275	0	0	0	0	0	0	0	0	0	5	226	0	0	0	0	0	GS|100.0|KT751015|SH1506681.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Monocillium
+OTU276	0	0	0	0	0	0	0	3	0	0	0	0	0	0	188	0	SS|1.0000|KM265985|SH1228309.08FU;k:Fungi
+OTU277	0	0	0	0	0	0	0	0	209	0	0	0	0	0	0	0	GS|99.0|GU053799|SH1566172.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis
+OTU278	0	0	0	0	0	0	0	0	0	0	0	0	0	234	0	0	GS|98.6|MF971434|SH1187683.08FU;k:Fungi,p:Ascomycota
+OTU279	0	0	0	0	0	29	1	5	0	0	49	0	257	45	0	0	GS|100.0|HQ623586|SH1576896.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Rhynchogastremataceae,g:Papiliotrema,s:Papiliotrema leoncinii
+OTU280	0	0	0	0	0	0	319	17	0	0	0	0	0	0	5	0	GS|99.7|MH864520|SH1561516.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Volutella,s:Volutella ciliata
+OTU281	0	0	0	0	0	0	0	0	1	208	0	0	19	0	0	0	GS|100.0|MK952377|SH1635781.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala,s:Exophiala pisciphila
+OTU282	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	143	SS|1.0000|FR751089|SH1648651.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Acrospermales,g:Leptodiscella
+OTU285	0	0	0	0	108	0	0	0	0	0	123	0	9	0	0	0	SS|1.0000|KF614767|SH1242300.08FU;k:Fungi
+OTU286	0	0	0	0	0	0	0	0	0	0	0	0	0	0	113	0	GS|84.9|MF976722|SH1245746.08FU;k:Fungi
+OTU287	94	0	0	0	0	0	0	1	0	0	0	0	0	0	0	41	GSL|100.0|EU008878|SH1543706.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Glomerellaceae,g:Colletotrichum
+OTU288	0	0	0	0	9	27	0	7	0	0	24	11	57	50	0	0	GS|97.3|KX098083|SH1175726.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Neodevriesiaceae
+OTU289	0	0	0	0	0	0	0	50	0	0	0	4	0	272	1	0	GS|99.7|KT328815|SH1191742.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+OTU290	0	0	0	0	0	0	0	8	0	0	0	20	0	167	0	0	SS|0.8100|JX998689|SH1645915.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU294	0	0	0	0	0	0	0	0	0	0	0	0	0	0	129	0	GS|70.3|MF971799|SH1563573.08FU;k:Fungi
+OTU295	0	0	0	0	0	0	0	0	0	0	0	0	0	0	139	0	GS|84.3|MF976722|SH1245746.08FU;k:Fungi
+OTU296	0	0	0	0	0	143	0	0	0	0	0	0	0	0	7	0	SS|0.8000|KF227877|SH1247549.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Bambusicolaceae
+OTU297	0	0	0	0	0	0	0	0	0	0	0	40	112	0	0	0	GS|97.6|MH016866|SH1572776.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae,g:Leucocoprinus,s:Leucocoprinus fragilissimus
+OTU298	0	0	0	0	187	0	0	0	0	0	0	0	0	0	0	0	GS|76.4|AF177148|SH1239630.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Savoryellales,f:Savoryellaceae,g:Ascotaiwania,s:Ascotaiwania sawadae
+OTU299	0	0	0	0	0	0	0	0	0	0	0	0	284	0	0	0	GS|98.9|JX319551|SH1556735.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae
+OTU300	0	0	0	0	0	0	4	13	0	0	17	0	27	53	69	21	SS|1.0000|LT547797|SH1627146.08FU;k:Fungi
+OTU301	0	0	0	0	0	0	0	0	0	0	0	0	164	0	0	0	GSL|99.7|MN540316|SH1610161.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU302	0	0	19	0	0	0	0	0	0	0	0	0	33	183	0	0	GS|100.0|KX246912|SH1614491.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pyrenochaetopsidaceae,g:Neopyrenochaeta
+OTU303	0	0	0	0	0	0	0	0	0	0	169	0	0	0	0	0	GS|78.6|KJ471554|SH1246475.08FU;k:Fungi,p:Ascomycota
+OTU305	0	0	0	0	0	0	0	0	0	0	0	0	0	16	95	0	SS|0.9300|MG649248|SH1569892.08FU;k:Fungi,p:Ascomycota
+OTU307	0	0	0	0	0	0	0	0	0	0	0	0	0	0	162	0	SS|1.0000|KU579879|SH1547822.08FU;k:Fungi,p:Ascomycota
+OTU308	0	0	0	0	0	0	0	3	0	0	128	0	16	0	0	0	GS|78.1|JX375316|SH2589977.08FU;k:Fungi
+OTU309	0	13	0	0	10	17	22	22	0	0	73	0	29	91	46	14	GS|100.0|AF439469|SH1646320.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeoseptoria,s:Phaeoseptoria musae
+OTU310	0	0	309	0	0	0	0	28	0	0	0	0	23	0	0	0	GS|99.5|MK210538|SH1613988.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,g:Strelitziana,s:Strelitziana africana
+OTU311	0	0	0	0	0	0	0	0	0	0	29	0	136	0	0	0	SS|0.8900|MN304830|SH2595583.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Flabellascoma
+OTU312	0	0	0	0	0	0	0	0	0	0	10	0	0	249	0	0	SS|0.9900|KF934490|SH1547018.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU313	0	0	0	0	0	0	0	131	1	0	0	0	0	0	0	0	GS|98.7|UDB0747002|SH2713953.08FU;k:Fungi
+OTU315	0	0	0	0	0	0	0	0	0	0	336	25	73	36	7	0	GS|99.7|MK014809|SH1525595.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Nectria
+OTU316	0	0	0	0	0	0	0	170	0	0	40	0	0	23	0	0	GS|99.7|DQ656617|SH1146586.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Dactylella
+OTU318	0	0	0	0	0	0	0	32	0	0	102	0	0	0	46	0	SS|0.9100|AM999543|SH1515219.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes
+OTU319	0	41	28	0	0	0	0	0	16	0	74	0	0	5	5	0	GSL|100.0|AF439500|SH1614488.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Setophaeosphaeria
+OTU320	0	0	111	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.3|UDB0746607|SH2729868.08FU;k:Fungi
+OTU321	0	0	0	0	0	0	0	155	0	0	3	0	0	0	0	0	GS|97.0|MN061348|SH2711735.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Torulaceae
+OTU322	0	0	0	0	0	0	0	0	0	0	0	0	0	147	0	0	SS|1.0000|AJ875393|SH1539546.08FU;k:Fungi
+OTU323	0	0	0	0	0	0	1	80	0	0	0	12	0	58	0	0	SS|1.0000|KM265985|SH1228309.08FU;k:Fungi
+OTU324	0	0	0	0	0	0	0	0	0	12	0	5	143	0	0	0	GS|100.0|MF788193|SH1560637.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Geosmithia
+OTU325	0	0	0	0	0	0	0	0	0	0	27	181	48	28	1	0	GS|70.3|KC965949|SH1181259.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU326	0	0	0	0	0	0	0	0	0	0	0	0	0	107	0	0	GS|98.0|KP013031|SH1563450.08FU;k:Fungi,p:Basidiomycota,c:Dacrymycetes,o:Dacrymycetales,f:Dacrymycetaceae,g:Calocera
+OTU328	0	0	0	0	0	0	0	0	0	0	87	0	0	0	39	0	SS|1.0000|KM222034|SH1181216.08FU;k:Fungi
+OTU330	0	0	120	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.3|KT269133|SH1646368.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae,g:Ascochyta
+OTU331	0	0	0	0	0	0	0	0	15	1	0	2	23	147	0	0	SS|0.8400|MK450248|SH1529593.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	191	0	GS|70.7|GU366677|SH1243129.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Umbilicariales
+OTU334	0	0	0	0	0	0	0	0	0	0	0	0	112	0	0	0	GS|100.0|UDB0752865|SH1649806.08FU;k:Fungi
+OTU335	0	0	0	0	0	178	0	0	0	6	0	0	0	3	5	0	GSL|99.0|MN401746|SH1579763.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU336	0	0	0	0	0	6	1	76	0	0	23	0	14	94	0	0	GS|99.3|GU225942|SH1636088.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora fusarioides
+OTU337	0	0	117	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.0|KP004468|SH1597914.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Trichomeriaceae,g:Trichomerium,s:Trichomerium dioscoreae
+OTU338	0	0	0	0	0	0	0	0	0	0	3	0	0	0	128	0	SS|0.9100|KX387583|SH1231890.08FU;k:Fungi,p:Ascomycota
+OTU339	0	0	0	0	0	0	0	151	0	0	8	0	4	3	3	0	GS|100.0|EU686983|SH1576418.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Halosphaeriaceae
+OTU340	0	0	0	0	0	0	0	0	0	0	8	10	6	96	0	0	GSL|100.0|DQ450020|SH1542667.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Omphalotaceae,g:Gymnopus,s:Gymnopus gibbosus
+OTU341	0	0	0	0	0	0	0	0	0	0	83	0	0	0	9	7	GS|99.1|AF502677|SH1555463.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Microdochiaceae,g:Idriella
+OTU342	0	0	111	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9700|KT581725|SH1648846.08FU;k:Fungi,p:Ascomycota
+OTU343	0	0	0	0	0	0	0	0	115	0	0	0	0	5	0	0	GS|98.7|MG214566|SH1525258.08FU;k:Fungi,p:Ascomycota
+OTU344	0	0	0	0	0	22	0	36	0	0	0	0	15	61	0	0	GS|97.8|LT547797|SH1627146.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Devriesia
+OTU345	0	0	0	0	0	0	156	0	0	0	19	0	12	0	0	0	GS|100.0|KM979904|SH1595854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Leptospora,s:Leptospora rubella
+OTU347	0	0	0	0	0	0	0	0	0	0	26	7	0	114	0	0	GSL|100.0|MK607614|SH1518375.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Plectosphaerellaceae,g:Acrostalagmus
+OTU349	0	0	0	0	0	0	0	126	0	0	0	0	0	0	16	0	SS|0.9800|KU581784|SH1628171.08FU;k:Fungi
+OTU351	0	0	0	0	0	0	0	0	0	7	127	0	0	4	0	0	GS|100.0|JN546219|SH1563290.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Neonectria
+OTU352	0	0	0	0	0	0	0	0	0	0	21	0	0	18	52	0	SS|0.9700|AF042453|SH1552298.08FU;k:Fungi,p:Basidiomycota
+OTU354	0	0	0	0	0	0	0	107	0	0	0	0	0	4	0	0	SS|0.8200|KP143697|SH1561368.08FU;k:Fungi,p:Ascomycota
+OTU355	0	0	0	0	0	0	0	0	0	0	92	0	38	19	0	0	GS|99.7|KM246151|SH1613470.08FU;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Cystobasidiales,f:Cystobasidiaceae,g:Occultifur,s:Occultifur externus
+OTU356	0	0	0	0	0	0	3	174	0	0	0	0	0	0	0	0	SS|1.0000|KY038650|SH1636081.08FU;k:Fungi
+OTU357	0	0	0	0	0	0	0	9	0	0	36	0	0	27	0	65	GSL|100.0|MG664781|SH1526400.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+OTU358	0	0	0	0	0	133	0	0	0	0	0	0	0	0	0	0	GS|100.0|KU204415|SH1543707.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Glomerellaceae,g:Colletotrichum
+OTU359	0	0	0	0	0	0	2	260	0	0	9	0	0	0	0	0	SS|1.0000|KU747846|SH1151672.08FU;k:Fungi
+OTU361	0	0	0	0	0	0	7	40	40	0	13	1	0	5	0	3	SS|0.9600|KU314986|SH1188508.08FU;k:Fungi,p:Ascomycota
+OTU363	0	0	0	0	0	0	0	0	0	0	0	0	0	0	106	0	GS|98.0|EU490140|SH1156960.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU364	0	0	0	0	0	0	0	0	0	0	8	1	0	0	83	0	GS|100.0|HM992807|SH1569196.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Massarinaceae,g:Massarina
+OTU365	0	0	0	0	0	0	0	220	0	0	12	0	0	0	0	0	SS|1.0000|DQ421194|SH1515222.08FU;k:Fungi
+OTU366	0	0	0	0	0	0	0	0	0	1	93	1	16	31	7	4	GSL|100.0|MK120610|SH1529986.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Penicillium
+OTU367	0	0	0	0	0	0	0	0	4	0	0	0	109	9	0	0	GS|98.7|AF106528|SH1569920.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Arthrobotrys,s:Arthrobotrys eudermata
+OTU369	0	0	0	0	0	0	0	0	0	0	102	0	0	0	0	0	SS|0.8400|KR093936|SH1529630.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+OTU370	0	20	0	0	0	0	0	15	3	0	56	49	55	58	13	18	GS|99.6|LN626657|SH1188500.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Biatriosporaceae,g:Biatriospora
+OTU374	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	98	GS|79.3|KT581736|SH1242376.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes
+OTU375	0	0	0	0	0	0	0	0	0	2	117	0	0	0	0	0	GS|77.7|KU512672|SH2701898.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Magnaporthales,f:Magnaporthaceae,g:Mycoleptodiscus
+OTU376	0	0	0	0	0	0	0	0	0	0	73	0	0	18	26	16	GS|100.0|MK120566|SH1530004.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Penicillium,s:Penicillium paxilli
+OTU377	0	0	0	0	0	0	0	0	11	0	9	1	0	96	0	0	GS|100.0|KT328638|SH1191216.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU380	0	0	0	0	0	0	0	0	0	0	17	0	0	69	0	0	GS|99.7|MK370662|SH3234330.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Crepidotaceae,g:Crepidotus,s:Crepidotus indicus
+OTU381	0	0	0	0	0	0	0	0	0	0	0	0	0	0	75	0	GSL|98.3|KY511063|SH1645895.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU382	0	0	0	0	0	0	0	39	0	0	4	13	0	25	0	13	GS|100.0|KT328879|SH1142994.08FU;k:Fungi
+OTU383	0	0	0	0	0	0	0	0	0	0	0	0	0	98	0	0	SS|0.8800|KX034388|SH1237153.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+OTU384	0	0	0	0	0	0	0	13	0	0	67	0	8	17	47	0	GS|98.7|AF444463|SH1523568.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Cuniculitremaceae,g:Kockovaella,s:Kockovaella prillingeri
+OTU385	0	0	0	0	0	0	0	0	0	0	0	0	0	1	132	0	GS|100.0|KJ832031|SH1159290.08FU;k:Fungi,p:Basidiomycota,c:Pucciniomycetes,o:Septobasidiales,f:Septobasidiaceae,g:Septobasidium
+OTU387	0	0	0	0	0	0	0	9	14	0	27	8	0	1	84	0	GS|99.3|MH063041|SH1228298.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora pluriseptata
+OTU388	0	0	0	0	0	0	0	0	0	0	89	0	0	0	7	0	GSL|99.3|DQ999831|SH1507823.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae
+OTU389	0	0	0	0	0	0	0	7	33	0	83	178	9	6	0	0	GS|99.7|KU847452|SH1643606.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Psathyrella
+OTU390	0	0	0	0	0	0	0	0	0	0	106	1	0	0	0	0	GSL|100.0|MN516480|SH1567965.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Trichoderma
+OTU392	0	0	0	0	0	0	0	0	0	0	0	3	0	129	0	0	GSL|100.0|GQ152603|SH1561006.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Paramyrothecium
+OTU393	0	0	0	0	0	0	0	0	0	0	0	0	14	112	0	0	SS|1.0000|KF274231|SH1551162.08FU;k:Fungi
+OTU394	0	0	0	0	0	0	0	0	0	0	30	79	3	7	9	11	GSL|100.0|AF125944|SH1530019.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Penicillium
+OTU395	82	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	GSL|100.0|MG571378|SH1526409.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+OTU396	0	0	0	0	0	0	0	0	0	7	0	39	0	85	0	0	SS|0.8000|DQ497972|SH1564770.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Chaetosphaeriales,f:Chaetosphaeriaceae,g:Chaetosphaeria
+OTU397	0	0	0	0	0	0	0	0	0	0	76	0	0	0	0	0	SS|0.9300|HQ389454|SH1547482.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU399	0	0	0	0	0	0	0	64	0	0	0	0	0	10	14	0	SS|0.9700|KU314986|SH1188508.08FU;k:Fungi,p:Ascomycota
+OTU401	0	0	0	0	9	0	0	25	0	0	29	0	0	13	8	0	GS|100.0|MK843961|SH1566219.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis
+OTU403	0	0	0	0	0	0	0	0	0	2	83	27	0	0	0	0	GS|78.5|MF971162|SH2599405.08FU;k:Fungi
+OTU404	0	0	0	0	0	0	0	0	0	0	0	0	0	104	0	0	GS|80.4|MF971162|SH2599405.08FU;k:Fungi
+OTU405	0	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	GS|99.6|MH040227|SH1240522.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU406	0	0	0	0	0	0	0	37	0	0	0	0	0	0	90	0	GS|100.0|JQ905814|SH1552654.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Asteromella
+OTU407	0	0	0	0	0	19	0	0	0	0	14	5	11	34	11	0	GS|99.6|AF502855|SH1183258.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Pseudorobillarda
+OTU408	0	0	0	0	0	0	0	0	0	0	10	0	40	48	0	0	SS|0.8100|JX317980|SH1556735.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Flabellascoma
+OTU409	0	0	0	0	0	0	0	0	0	0	12	76	6	0	7	0	GS|100.0|HQ832978|SH1506117.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae,g:Lecanicillium,s:Lecanicillium kalimantanense
+OTU410	0	0	0	0	0	0	0	0	0	0	87	0	0	0	0	0	SS|0.9600|MF161278|SH1651480.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU411	0	0	23	0	0	0	0	57	0	0	6	0	0	16	0	0	GSL|100.0|MH258980|SH1560799.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU412	0	0	0	0	0	0	0	0	0	0	104	0	0	0	1	0	GS|99.7|AF178405|SH1546365.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+OTU414	0	0	0	0	0	0	0	0	0	0	17	155	0	8	11	31	GS|100.0|MH976713|SH1524437.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae,g:Lecanicillium,s:Lecanicillium saksenae
+OTU415	0	0	0	0	0	0	0	0	0	0	0	0	0	78	0	0	GS|100.0|JQ905788|SH1152180.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Devriesia
+OTU418	0	0	0	0	0	0	0	0	0	0	40	0	0	88	27	0	GS|98.3|MF971343|SH1557860.08FU;k:Fungi
+OTU420	0	0	0	0	0	0	0	0	0	0	0	0	0	0	79	0	GSL|100.0|MK369926|SH1507376.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Botryosphaeriales,f:Botryosphaeriaceae,g:Endomelanconiopsis,s:Endomelanconiopsis endophytica
+OTU421	0	0	0	0	0	0	0	133	0	0	0	0	0	0	33	0	GS|100.0|KT328721|SH1223140.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU423	0	0	100	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.0|KF128831|SH1151206.08FU;k:Fungi,p:Ascomycota,c:Arthoniomycetes,o:Lichenostigmatales,f:Phaeococcomycetaceae,g:Phaeococcomyces
+OTU424	0	0	0	0	0	0	0	51	0	0	15	0	0	0	0	0	SS|0.9800|KX381112|SH1612874.08FU;k:Fungi,p:Ascomycota
+OTU426	0	0	0	0	0	0	0	0	1	0	0	0	0	15	0	84	GSL|98.3|AB524805|SH1651180.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Tetraplosphaeriaceae
+OTU427	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	81	GSL|100.0|MN121538|SH1610166.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Cylindrocladiella
+OTU428	0	0	0	0	0	0	4	61	0	0	0	7	50	8	0	0	GS|99.6|FJ153176|SH1522795.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Hannaella
+OTU431	0	0	0	41	81	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|MH472977|SH1166909.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus,s:Aspergillus flavipes
+OTU432	0	0	0	0	0	0	0	0	0	0	107	0	0	0	0	0	GS|81.4|KP074987|SH1557809.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU433	0	0	0	0	0	0	0	0	0	0	0	0	0	37	25	0	SS|0.8700|MK050284|SH1186232.08FU;k:Fungi,p:Basidiomycota
+OTU434	0	0	70	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8500|UDB0749720|SH1178681.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU439	0	0	0	0	0	0	0	0	0	0	0	0	0	15	90	0	SS|0.9000|AF042453|SH1552298.08FU;k:Fungi,p:Basidiomycota
+OTU441	0	0	0	0	0	0	0	64	0	0	15	0	0	6	0	0	GS|99.3|MN515353|SH1569190.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Biatriosporaceae,g:Biatriospora
+OTU442	0	0	0	0	0	0	0	0	0	0	50	0	0	0	4	52	SS|0.8200|MN450617|SH1648785.08FU;k:Fungi,p:Ascomycota
+OTU443	0	0	0	0	0	0	0	4	0	0	19	16	44	61	0	0	GS|100.0|MG751262|SH1508478.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinellus,s:Coprinellus radians
+OTU444	0	0	0	0	0	0	0	0	0	0	0	0	73	0	0	0	GS|98.3|JN936299|SH1184227.08FU;k:Fungi,p:Glomeromycota,c:Glomeromycetes,o:Glomerales,f:Glomeraceae,g:Rhizophagus
+OTU445	0	0	0	0	0	0	0	38	0	0	0	0	37	44	0	0	GSL|100.0|MK027103|SH1645385.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Cercospora
+OTU446	0	0	0	0	0	0	0	1	8	0	106	11	0	1	0	22	GSL|100.0|FJ037741|SH1212068.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU453	0	0	0	0	0	0	0	0	0	0	73	0	0	0	0	0	GS|75.2|KF274442|SH3207248.08FU;k:Fungi
+OTU455	0	0	0	0	0	0	0	20	0	0	33	0	17	0	0	0	GS|100.0|FJ441661|SH1541595.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Cephalothecaceae,g:Phialemonium,s:Phialemonium dimorphosporum
+OTU456	0	0	0	0	0	0	0	0	0	0	54	0	0	0	0	0	SS|0.9000|KP859052|SH1237692.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU457	0	0	0	0	0	0	0	0	0	0	43	0	0	0	66	0	GS|81.0|MF976674|SH1149751.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales
+OTU459	0	0	0	0	0	0	0	0	0	0	64	0	7	4	0	0	GS|100.0|KT328838|SH1525363.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Corticiales,f:Corticiaceae
+OTU461	0	0	0	0	0	0	0	0	0	0	18	0	8	83	0	0	GS|100.0|AF191549|SH1525104.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Ophiosphaerella,s:Ophiosphaerella agrostidis
+OTU463	0	0	0	0	0	0	0	0	0	0	92	0	0	0	0	0	GSL|100.0|DQ135999|SH1546397.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae
+OTU464	0	0	0	0	0	0	0	0	0	0	64	8	2	7	7	0	GSL|100.0|MF164503|SH1524428.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Cordycipitaceae
+OTU465	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	0	GS|98.0|UDB004974|SH1502277.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Thelephorales,f:Thelephoraceae,g:Tomentella
+OTU466	0	0	0	0	25	10	0	0	0	0	0	0	26	27	10	0	GS|100.0|EU009994|SH1507866.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Zygosporium
+OTU468	0	0	0	0	0	56	0	0	0	0	0	9	0	0	0	0	SS|0.9200|JX489830|SH1529200.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae,g:Mortierella
+OTU469	0	0	0	0	0	0	0	0	0	0	0	0	0	0	73	0	GS|99.7|GU361940|SH1560595.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Lophiostoma,s:Lophiostoma corticola
+OTU471	0	0	64	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8500|MG434535|SH2705923.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU472	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	0	GS|100.0|KX781277|SH1193687.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Rhynchogastremataceae,g:Papiliotrema,s:Papiliotrema laurentii
+OTU473	0	0	0	0	0	0	85	0	0	0	0	0	0	0	0	0	GS|98.7|MG386047|SH1527332.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Ostropales,f:Stictidaceae,g:Fitzroyomyces,s:Fitzroyomyces cyperacearum
+OTU474	0	0	0	0	0	0	1	16	8	0	78	0	0	0	0	0	SS|0.8800|MG213738|SH1244730.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Boliniales,g:Junewangia
+OTU475	0	0	0	0	0	0	0	0	0	0	116	0	0	0	59	0	GS|75.8|KF296869|SH1237919.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae
+OTU477	0	0	0	0	0	0	0	0	0	0	95	0	0	0	0	0	SS|0.8000|KM052902|SH1610159.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU478	0	0	0	56	29	0	0	0	0	0	0	0	0	0	4	0	GSL|100.0|MG775225|SH1529984.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Penicillium
+OTU479	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	60	GS|98.9|KU314945|SH1560571.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU481	0	0	0	0	0	0	0	0	0	0	5	0	2	192	0	0	GS|76.8|EF619656|SH1242040.08FU;k:Fungi,p:Rozellomycota
+OTU482	0	0	0	0	0	0	0	0	0	0	9	6	35	18	3	0	SS|1.0000|KX098227|SH1182848.08FU;k:Fungi
+OTU483	0	0	0	0	0	0	0	0	0	0	0	59	0	0	0	0	GS|99.3|EU040235|SH1184896.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Parapleurotheciopsis,s:Parapleurotheciopsis inaequiseptata
+OTU484	0	0	0	0	0	0	0	72	0	0	14	0	0	0	0	0	SS|0.9900|KY607541|SH1185593.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU485	0	0	0	0	0	0	0	0	0	0	0	33	16	11	0	0	GS|100.0|AB073533|SH1546289.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Xylaria
+OTU486	0	0	0	0	0	0	0	0	0	0	0	6	59	2	0	0	GS|100.0|LC500899|SH1613469.08FU;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,f:Symmetrosporaceae,g:Symmetrospora
+OTU487	0	0	0	0	0	0	0	0	0	0	0	0	0	89	0	7	SS|0.8900|KR093936|SH1529630.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU488	0	0	0	0	47	0	0	0	0	0	0	0	4	0	0	0	GS|98.2|KR673433|SH1192119.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Entolomataceae,g:Clitopilus,s:Clitopilus kamaka
+OTU489	0	0	0	0	0	0	0	0	50	0	0	0	65	0	0	0	GS|98.3|HM162289|SH1570311.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae
+OTU493	0	0	0	0	0	0	0	0	0	0	36	0	0	12	0	0	GS|100.0|MN173213|SH1646323.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeosphaeria,s:Phaeosphaeria sinensis
+OTU495	0	0	0	0	0	0	0	0	0	0	0	0	44	19	0	0	GS|88.8|JX374954|SH1540016.08FU;k:Fungi
+OTU496	0	0	0	0	0	0	0	25	0	0	6	0	0	8	0	15	SS|0.9200|MN165503|SH1551385.08FU;k:Fungi,p:Ascomycota
+OTU497	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	SS|0.9700|MK050285|SH2712233.08FU;k:Fungi,p:Basidiomycota
+OTU498	0	0	0	0	0	0	0	0	0	0	0	0	2	73	0	0	SS|1.0000|KM265985|SH1228309.08FU;k:Fungi
+OTU500	0	0	56	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|MH259168|SH1643343.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Paraophiobolus,s:Paraophiobolus arundinis
+OTU502	0	0	0	0	0	0	0	0	0	0	0	0	0	0	49	0	GS|91.5|MF976722|SH1245746.08FU;k:Fungi
+OTU504	0	0	0	0	0	0	0	0	0	0	0	75	0	0	0	0	GS|99.7|EF527362|SH1503598.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae
+OTU507	0	0	0	0	0	0	0	0	0	0	22	0	35	0	14	0	GS|100.0|KT328768|SH1579780.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeodothis,s:Phaeodothis winteri
+OTU510	0	0	0	0	0	0	0	1	0	0	19	9	92	14	0	23	GS|100.0|KT966519|SH1549606.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Trichosphaeriales,f:Trichosphaeriaceae,g:Nigrospora,s:Nigrospora oryzae
+OTU511	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	SS|0.9700|KM220943|SH1562679.08FU;k:Fungi,p:Ascomycota
+OTU513	0	0	0	0	0	52	0	0	0	0	0	0	0	0	0	0	GS|99.0|AF081483|SH1557992.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Stachybotrys,s:Stachybotrys parvispora
+OTU514	0	0	0	0	0	0	0	61	0	0	0	0	0	3	0	0	SS|0.9900|MK347727|SH2592266.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU515	0	0	0	0	0	0	0	0	2	0	14	0	0	51	4	0	SS|1.0000|GU566290|SH1519341.08FU;k:Fungi,p:Ascomycota
+OTU516	0	0	0	0	0	0	0	0	4	0	41	3	72	33	10	0	GSL|100.0|HQ667538|SH1549545.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Ochroconis
+OTU517	0	0	0	0	1	0	0	142	0	0	12	0	0	0	0	0	GS|95.0|MF359724|SH1530086.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus,s:Aspergillus tamarii
+OTU519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	0	SS|0.8700|JF691143|SH1156345.08FU;k:Fungi,p:Ascomycota
+OTU520	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	GSL|100.0|MN533784|SH1536098.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus,s:Aspergillus westerdijkiae
+OTU521	0	0	0	0	0	0	0	0	0	0	12	0	36	34	0	0	GS|85.1|GQ996155|SH1244070.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU522	0	0	0	0	0	0	0	0	0	0	19	28	9	0	0	0	GS|98.3|KT328756|SH1157389.08FU;k:Fungi
+OTU523	0	0	0	0	0	0	0	0	0	0	0	0	0	7	79	0	GS|80.6|AF444409|SH1516432.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Sugitazyma,s:Sugitazyma miyagiana
+OTU524	0	0	0	0	8	0	0	6	1	0	3	22	8	10	0	0	SS|0.9800|LC496551|SH1528218.08FU;k:Fungi,p:Basidiomycota
+OTU525	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	18	GS|93.1|JX388611|SH1567837.08FU;k:Fungi
+OTU526	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.3|KT380077|SH1187385.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Orbilia
+OTU527	0	0	0	0	0	0	0	0	0	2	72	0	0	0	0	2	GS|100.0|GQ369959|SH1644902.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Clavicipitaceae,g:Metacordyceps,s:Metacordyceps chlamydosporia
+OTU529	0	0	0	0	0	0	0	0	0	0	0	0	0	0	48	0	SS|0.8600|AY649597|SH1552166.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU530	0	0	0	0	0	0	0	0	0	0	0	48	0	0	5	0	SS|0.8200|JX042892|SH1513373.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU531	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	SS|1.0000|KJ482676|SH1143951.08FU;k:Fungi
+OTU532	0	0	0	0	0	7	0	0	0	0	13	0	0	0	0	35	GS|99.3|KR822209|SH1558609.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Tubeufiales,f:Wiesneriomycetaceae,g:Wiesneriomyces,s:Wiesneriomyces laurinus
+OTU534	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	GS|98.0|JN116685|SH1645871.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU536	0	0	0	0	0	0	0	10	0	0	0	0	0	0	56	0	GS|85.7|EU516979|SH1627183.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU538	0	19	0	0	0	0	0	0	0	0	20	0	0	0	19	0	GSL|100.0|EU020031|SH1650591.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Hysteriales,f:Hysteriaceae,g:Rhytidhysteron,s:Rhytidhysteron rufulum
+OTU539	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.3|KJ410147|SH2589068.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Tremellaceae,g:Cryptococcus
+OTU541	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	50	GS|100.0|GU054064|SH1650904.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU542	0	0	0	0	0	0	0	0	0	0	0	0	0	0	50	0	SS|0.9700|MH864106|SH2591890.08FU;k:Fungi,p:Ascomycota
+OTU543	0	0	0	0	0	0	0	0	0	0	52	0	0	0	0	0	GS|99.0|KY212754|SH1520249.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Chaetosphaeriales,f:Chaetosphaeriaceae,g:Thozetella,s:Thozetella fabacearum
+OTU544	0	0	0	0	0	0	0	2	0	0	15	0	0	3	25	0	SS|0.9900|KF800308|SH1241234.08FU;k:Fungi,p:Ascomycota
+OTU546	0	0	79	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|KF036585|SH1574509.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleraceae,g:Genolevuria,s:Genolevuria amylolytica
+OTU547	0	0	0	0	0	0	0	27	0	0	0	0	8	5	0	0	SS|0.9400|KF800646|SH1146239.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU550	0	0	0	0	0	0	0	0	0	0	44	0	0	2	0	0	GS|98.1|GU062276|SH1645886.08FU;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Sarcosomataceae,g:Strumella
+OTU551	0	0	0	0	0	0	0	0	0	0	0	31	18	2	0	8	GS|98.8|KX376321|SH1505829.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Annulohypoxylon,s:Annulohypoxylon moriforme
+OTU552	0	0	0	0	0	0	0	0	0	0	46	0	0	0	0	0	GS|99.3|MF189050|SH1543543.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Marasmiaceae,g:Marasmius,s:Marasmius haematocephalus
+OTU553	0	0	0	0	0	0	0	0	0	0	33	0	0	17	0	0	GS|99.7|KX009101|SH1151656.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Carlosrosaea
+OTU554	0	0	0	0	0	0	0	13	0	0	68	0	0	0	6	0	GS|100.0|MK347760|SH1525446.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae,g:Cylindroaseptospora,s:Cylindroaseptospora siamensis
+OTU555	0	0	0	0	0	0	0	0	0	0	0	66	0	0	0	0	GS|99.0|HM008630|SH1506239.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU556	0	0	0	0	0	0	0	0	80	10	0	0	0	0	0	0	SS|0.9900|KM374409|SH1511039.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae
+OTU557	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	0	SS|0.8400|KJ654521|SH1563111.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+OTU560	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|KR909194|SH1573804.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Phaeomoniellales,f:Phaeomoniellaceae,g:Neophaeomoniella,s:Neophaeomoniella zymoides
+OTU561	0	0	0	0	0	0	0	0	0	0	0	0	50	0	0	0	GS|100.0|UDB0753199|SH1644391.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU563	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	49	GS|99.7|MH863949|SH2705235.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus
+OTU564	0	0	0	0	0	0	0	0	1	0	4	0	3	24	13	0	GS|97.7|MF971357|SH1527404.08FU;k:Fungi
+OTU565	0	0	0	0	0	0	0	0	0	0	0	0	79	10	0	0	SS|0.9400|KT581927|SH1517280.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU566	0	0	0	0	0	0	0	1	0	0	27	1	22	2	0	0	GS|100.0|AY158676|SH1649628.08FU;k:Fungi,p:Basidiomycota,c:Exobasidiomycetes,o:Exobasidiales,f:Brachybasidiaceae,g:Meira,s:Meira argovae
+OTU567	0	0	0	0	0	0	0	0	2	0	0	0	0	0	48	0	GS|98.4|KT995778|SH1637045.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU568	0	0	0	0	0	0	0	0	0	0	0	0	0	0	72	0	GS|97.3|KU847458|SH1175910.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Cantharellales,f:Ceratobasidiaceae
+OTU569	0	0	0	0	0	0	0	3	0	0	34	0	3	4	22	0	GS|100.0|KX009092|SH1569937.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Carlosrosaea
+OTU570	0	0	0	0	0	0	0	12	0	0	0	0	0	0	69	0	GS|98.0|MH857978|SH1610617.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Cantharellales,f:Ceratobasidiaceae,g:Rhizoctonia
+OTU571	0	0	0	0	0	0	0	0	0	2	0	14	22	0	0	0	GS|99.7|MF423627|SH1650289.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae,g:Mortierella
+OTU572	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	SS|0.9300|JN225910|SH1557592.08FU;k:Fungi,p:Ascomycota
+OTU573	0	0	0	0	0	0	0	0	0	0	0	0	9	59	0	0	GS|99.7|KF819608|SH1540662.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe
+OTU574	0	0	0	0	0	4	0	0	0	0	32	0	0	1	0	0	GS|85.5|MF971419|SH2590801.08FU;k:Fungi
+OTU575	0	0	0	0	0	0	5	12	0	0	35	0	10	108	14	6	GS|97.2|MF942505|SH1636085.08FU;k:Fungi,p:Ascomycota
+OTU576	0	0	0	0	0	0	0	0	0	0	53	0	0	0	0	0	GS|98.7|FJ380943|SH1157759.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Dactylellina,s:Dactylellina haptotyla
+OTU577	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	SS|0.9700|KF128831|SH1151206.08FU;k:Fungi,p:Ascomycota
+OTU578	0	0	0	0	0	0	22	24	0	0	4	0	0	0	10	0	GS|100.0|KT328705|SH1180664.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU579	0	0	0	0	0	0	0	5	0	0	5	0	28	5	0	56	GS|98.3|KC677912|SH1174638.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Zasmidium,s:Zasmidium aporusae
+OTU580	0	0	0	0	0	0	0	0	0	0	132	0	3	0	0	0	SS|1.0000|UDB0752742|SH2750945.08FU;k:Fungi
+OTU581	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	GS|97.0|HF947040|SH1547400.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Lasiosphaeriaceae,g:Podospora
+OTU582	0	0	0	0	3	0	0	0	0	0	60	0	0	0	0	0	SS|0.9800|MG827039|SH1191920.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU583	0	28	0	0	0	0	0	0	0	0	0	0	7	0	0	0	GSL|100.0|FJ623625|SH1548014.08FU;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,g:Candida,s:Candida blattae
+OTU584	0	0	0	0	0	0	0	21	0	0	0	0	0	26	45	0	SS|1.0000|AJ286799|SH1181213.08FU;k:Fungi
+OTU589	0	0	0	0	0	0	0	0	0	0	0	5	13	26	0	57	GSL|74.8|FJ860739|SH1568389.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Trichoderma
+OTU591	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	43	GS|100.0|LC206671|SH1167032.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Penicillium,s:Penicillium sclerotiorum
+OTU595	0	0	0	0	0	0	0	0	0	0	12	0	49	13	0	0	GS|100.0|MH003378|SH1549605.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Trichosphaeriales,f:Trichosphaeriaceae,g:Nigrospora,s:Nigrospora oryzae
+OTU596	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	0	GS|99.7|EU977255|SH1644176.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU598	0	0	52	0	0	0	0	21	0	0	0	0	0	0	0	0	GSL|100.0|KX274240|SH1506452.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU599	0	0	0	0	0	0	0	0	0	0	31	2	0	0	52	9	GSL|100.0|LC412112|SH1516968.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Sporocadaceae,g:Pestalotiopsis
+OTU600	0	0	0	0	33	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|MG554362|SH1542023.08FU;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,f:Debaryomycetaceae,g:Hyphopichia,s:Hyphopichia burtonii
+OTU601	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	GS|70.0|KU559752|SH1182433.08FU;k:Fungi
+OTU604	0	0	0	0	0	0	0	0	0	0	77	0	0	0	0	0	GSL|99.7|JN601150|SH1623683.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU605	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|EF505544|SH1244136.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales
+OTU606	0	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	GS|79.7|KU535743|SH1213655.08FU;k:Fungi,p:Ascomycota
+OTU607	0	0	0	0	0	0	0	0	0	0	0	0	41	16	0	0	GS|100.0|KU846287|SH1561035.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Capitofimbria,s:Capitofimbria compacta
+OTU608	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	34	GS|97.8|MH858544|SH1524170.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,g:Cordana,s:Cordana bisbyi
+OTU609	0	0	0	0	0	0	0	82	0	0	2	1	0	0	2	0	GS|97.7|JF691094|SH1222428.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU612	0	0	0	0	60	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|MG751204|SH1507868.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Daldinia,s:Daldinia eschscholtzii
+OTU614	0	0	0	0	0	0	7	66	0	0	0	0	0	0	0	0	GS|80.4|AM999590|SH1515219.08FU;k:Fungi,p:Ascomycota
+OTU615	0	0	49	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|JF495246|SH1565598.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+OTU616	0	0	0	0	0	0	0	0	0	0	87	0	0	0	8	0	SS|1.0000|MF971140|SH1241535.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Thelephorales,f:Thelephoraceae,g:Tomentella,s:Tomentella ellisii
+OTU618	0	0	0	0	0	0	0	0	0	1	0	0	0	0	31	2	GS|99.3|HQ389454|SH1547482.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU619	0	0	0	0	0	0	0	0	0	0	0	0	0	8	0	27	GSL|100.0|HQ608017|SH1648928.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Robillarda
+OTU620	0	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	SS|0.9900|KC965356|SH1156351.08FU;k:Fungi
+OTU623	0	0	0	0	11	0	0	0	4	0	3	27	0	0	3	0	GS|100.0|MG826959|SH1637046.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Niessliaceae,g:Niesslia
+OTU625	0	0	0	0	0	0	0	0	1	0	2	0	13	65	0	0	GS|100.0|MH860709|SH1560645.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium sordidulum
+OTU626	0	0	0	0	0	0	0	23	0	0	6	0	15	0	0	0	GS|82.7|KX009102|SH1172027.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Carlosrosaea
+OTU628	0	0	0	0	0	0	0	0	0	0	0	0	0	0	54	0	SS|0.8400|DQ307326|SH1151088.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Scolecobasidium,s:Scolecobasidium constrictum
+OTU631	0	0	0	0	0	0	0	16	0	0	0	0	0	0	15	0	GS|99.7|GU053925|SH1183198.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Auriculariales,f:Exidiaceae
+OTU632	0	0	0	0	0	0	0	0	0	56	0	0	0	0	0	0	GS|99.7|MH857309|SH1561517.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Helotiaceae,g:Dendrostilbella,s:Dendrostilbella mycophila
+OTU634	0	0	0	0	0	0	0	16	7	0	0	0	0	16	9	0	GS|100.0|EU686921|SH1576419.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Halosphaeriaceae
+OTU636	0	0	0	0	0	0	0	0	0	0	47	0	0	0	0	0	GS|72.5|KF675488|SH1655568.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales
+OTU637	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	GSL|100.0|MH048678|SH1575401.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Microascales,f:Microascaceae
+OTU638	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	0	GS|79.6|MH388369|SH3232108.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales
+OTU639	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	40	GSL|99.7|GU322026|SH1567966.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Trichoderma
+OTU640	0	0	0	0	7	0	0	0	0	0	0	0	28	0	0	0	GS|100.0|KY041796|SH2704033.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU641	0	0	0	0	0	0	0	0	0	0	18	0	7	6	36	0	SS|1.0000|KX434722|SH1547257.08FU;k:Fungi
+OTU643	0	0	0	0	0	0	0	0	0	0	0	0	0	28	16	0	GS|100.0|FJ612977|SH1546330.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Gliocladiopsis
+OTU644	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9500|MG434535|SH2705923.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU645	0	0	0	0	10	0	0	0	0	0	40	0	0	0	0	0	SS|0.8100|AY649597|SH1552166.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU647	0	0	0	0	0	0	0	0	0	0	0	0	0	0	55	0	GS|79.7|KX720575|SH1574597.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Verrucariales,f:Verrucariaceae,g:Verrucaria,s:Verrucaria oulankaensis
+OTU649	0	0	0	0	0	0	0	0	4	0	166	15	8	3	13	2	GS|100.0|JN617685|SH1530001.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Penicillium,s:Penicillium copticola
+OTU650	0	0	0	0	0	0	0	0	0	0	0	0	44	0	0	0	SS|1.0000|KM265985|SH1228309.08FU;k:Fungi
+OTU651	0	0	0	0	0	0	0	0	0	0	49	0	0	0	0	0	GS|98.0|HQ608055|SH1173715.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+OTU652	0	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	SS|0.9800|FJ820562|SH1507779.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU653	0	0	0	0	0	0	0	0	0	0	27	0	0	30	4	0	GS|100.0|JX326460|SH2590243.08FU;k:Fungi
+OTU655	0	0	0	0	0	0	0	0	0	0	38	0	0	0	0	0	GS|99.0|FR682348|SH1515989.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Hansfordia,s:Hansfordia pulvinata
+OTU656	0	0	0	0	0	0	0	0	0	0	0	43	0	0	2	0	GS|100.0|JQ905732|SH1209625.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Fusarium
+OTU657	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	SS|0.9700|KT715794|SH1649966.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+OTU658	0	0	0	0	0	0	0	0	0	0	12	0	17	0	8	0	GSL|100.0|MG572386|SH1579759.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU661	35	0	0	0	0	0	0	2	0	0	4	0	8	3	0	0	GSL|100.0|MH986178|SH1509407.08FU;k:Fungi,p:Basidiomycota,c:Ustilaginomycetes,o:Ustilaginales,f:Ustilaginaceae,g:Moesziomyces,s:Moesziomyces aphidis
+OTU662	0	0	0	0	35	32	0	0	0	0	0	0	10	0	0	0	GS|98.5|JN835203|SH1577471.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Zymoseptoria
+OTU663	0	0	0	0	0	0	0	0	0	0	13	21	4	3	30	0	GSL|100.0|MN337231|SH1507870.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU665	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	SS|0.9000|DQ494379|SH1516919.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,g:Vermispora,s:Vermispora fusarina
+OTU666	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	GS|98.0|MK050624|SH1572511.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Cucurbitariaceae,g:Pyrenochaeta
+OTU667	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	GS|99.3|AY969400|SH1177533.08FU;k:Fungi,p:Ascomycota
+OTU668	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	GS|99.3|AF444471|SH1570368.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleraceae,g:Bullera,s:Bullera penniseticola
+OTU670	0	0	0	0	0	0	0	57	0	0	15	0	0	5	6	0	SS|0.9800|KT328639|SH1188505.08FU;k:Fungi,p:Ascomycota
+OTU674	0	0	0	0	59	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|UDB0751023|SH2740131.08FU;k:Fungi
+OTU676	0	0	0	0	0	0	0	0	0	0	40	12	32	0	0	0	GS|100.0|AF444459|SH1539825.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Cuniculitremaceae,g:Fellomyces,s:Fellomyces borneensis
+OTU677	0	0	0	0	0	0	1	0	0	0	10	1	80	35	0	0	GS|100.0|UDB0752742|SH2750945.08FU;k:Fungi
+OTU679	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	GS|99.6|KT328770|SH1244517.08FU;k:Fungi
+OTU681	0	0	0	0	0	0	0	0	0	0	28	0	0	11	0	0	GS|70.2|KX679354|SH1558289.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Peltigerales,f:Lobariaceae,g:Lobaria,s:Lobaria isidiophora
+OTU682	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.7|KX216521|SH1552816.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Bartaliniaceae,g:Neotruncatella
+OTU684	0	0	0	0	0	0	0	11	0	0	0	0	0	0	36	0	SS|0.9900|AF444409|SH1516432.08FU;k:Fungi,p:Basidiomycota
+OTU687	0	0	0	0	0	0	0	0	0	0	27	0	0	37	0	0	SS|0.8500|KF614767|SH1242300.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU688	0	0	0	0	0	11	0	0	0	0	18	0	0	0	0	0	SS|0.8000|MH864602|SH1555475.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU690	0	0	0	0	0	0	0	43	0	0	0	0	0	0	0	0	GS|99.1|KF129414|SH1550272.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales,f:Parmeliaceae,g:Parmotrema,s:Parmotrema tinctorum
+OTU696	0	0	0	0	0	0	0	0	0	0	21	0	12	5	0	0	GS|75.1|UDB0753615|SH3312570.08FU;k:Fungi
+OTU697	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	GS|100.0|MG008513|SH1571281.08FU;k:Fungi,p:Glomeromycota,c:Glomeromycetes,o:Glomerales,f:Glomeraceae,g:Rhizophagus
+OTU699	0	0	0	0	153	6	0	38	6	9	137	0	43	154	15	0	GS|98.3|JX264157|SH1645871.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Biatriosporaceae,g:Biatriospora,s:Biatriospora mackinnonii
+OTU700	0	0	0	0	0	0	0	0	0	0	0	0	38	0	0	0	GS|99.7|KF019280|SH1558602.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Botryosphaeriales
+OTU701	0	0	0	0	0	0	0	0	0	0	0	0	64	0	4	0	GS|100.0|MF077551|SH1189082.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sporidesmium,s:Sporidesmium tropicale
+OTU703	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	GS|98.1|AF153728|SH1242066.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales
+OTU704	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	36	SS|1.0000|JQ666560|SH1180232.08FU;k:Fungi,p:Rozellomycota
+OTU705	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	GS|82.6|JN032520|SH1505516.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes
+OTU710	0	0	0	0	0	0	0	2	0	0	0	11	52	21	0	0	GS|87.5|EU714400|SH2587800.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Scolecobasidium
+OTU711	0	0	0	0	0	0	1	0	2	0	0	18	0	66	0	5	GS|100.0|FN908213|SH1636087.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora suttonii
+OTU712	0	0	0	0	10	0	0	0	0	0	0	20	0	0	0	0	GS|99.0|KT037020|SH2589682.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Xylaria,s:Xylaria schweinitzii
+OTU713	0	0	0	0	0	0	0	2	0	0	45	0	0	0	0	0	SS|1.0000|MF971140|SH1241535.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Thelephorales,f:Thelephoraceae,g:Tomentella,s:Tomentella ellisii
+OTU715	0	0	0	0	0	0	0	7	4	0	7	13	0	0	0	0	GS|100.0|JX156377|SH1546287.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae,g:Podosordaria,s:Podosordaria muli
+OTU716	0	0	0	0	24	16	0	0	0	0	0	0	4	3	0	0	GS|99.3|MN203096|SH1613464.08FU;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,f:Symmetrosporaceae,g:Symmetrospora,s:Symmetrospora marina
+OTU717	0	0	0	0	0	0	0	0	0	0	45	0	13	0	0	0	SS|0.9900|MH063795|SH1564741.08FU;k:Fungi,p:Ascomycota
+OTU718	0	0	0	0	0	0	0	0	0	0	0	51	0	11	0	0	GS|99.6|KF901534|SH1549753.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Mycosphaerella,s:Mycosphaerella pseudocryptica
+OTU719	0	0	0	0	0	0	1	0	0	0	0	46	0	0	0	0	GS|98.0|MH859486|SH1513382.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Gliomastix,s:Gliomastix luzulae
+OTU720	0	0	0	0	0	0	0	0	0	0	23	7	93	16	0	0	GS|99.6|JX559539|SH1636648.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Pseudocercospora,s:Pseudocercospora luzardii
+OTU722	0	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	SS|0.8800|AY699673|SH1185597.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU723	0	0	0	0	0	0	0	0	0	0	0	5	0	16	29	0	GS|99.7|KU702339|SH1594514.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU725	0	0	0	0	0	0	0	8	0	0	33	0	0	0	0	0	GS|77.8|KF274233|SH2588996.08FU;k:Fungi
+OTU726	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	17	GS|100.0|EF672301|SH1650929.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Ochroconis
+OTU727	0	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	SS|1.0000|UDB0753921|SH2619682.08FU;k:Fungi
+OTU729	0	0	0	0	0	0	0	0	0	0	0	0	48	0	0	0	GS|81.7|MF976674|SH1149751.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales
+OTU730	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0	0	SS|0.8200|FJ439575|SH1209364.08FU;k:Fungi,p:Ascomycota
+OTU734	0	0	0	0	0	0	0	0	0	0	0	0	14	19	0	0	GS|99.7|GU355668|SH1612876.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae,g:Ascochyta,s:Ascochyta medicaginicola
+OTU736	0	0	0	0	0	0	0	0	0	0	48	0	0	0	0	0	GSL|100.0|MH756173|SH1549157.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Capnodiaceae,g:Leptoxyphium,s:Leptoxyphium glochidion
+OTU737	0	0	0	0	0	0	0	0	5	0	32	0	0	0	1	0	GS|85.3|GQ921791|SH1572549.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+OTU739	0	0	0	0	0	0	0	38	0	0	0	0	0	0	0	0	SS|1.0000|UDB0750946|SH2728516.08FU;k:Fungi
+OTU740	0	0	0	0	0	0	0	0	0	0	45	8	0	0	0	0	SS|0.9300|EF619703|SH1173697.08FU;k:Fungi,p:Ascomycota
+OTU741	0	0	0	0	0	0	0	0	0	0	0	0	25	26	0	0	GSL|100.0|MK120546|SH1609287.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus
+OTU742	0	0	0	0	0	0	0	0	0	1	38	0	0	0	0	0	GS|83.5|MK377300|SH2592966.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,f:Sympoventuriaceae,g:Verruconis
+OTU743	0	0	0	0	0	0	0	0	0	0	0	0	25	14	0	0	GSL|100.0|MN398987|SH1579758.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU745	0	0	0	0	0	0	0	31	0	0	0	0	9	0	16	0	GS|97.4|GU054164|SH1193376.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU748	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	SS|0.8600|MH762898|SH1557299.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU750	0	0	0	0	0	0	0	0	0	0	8	0	0	0	16	0	GS|90.6|JX376251|SH1540016.08FU;k:Fungi
+OTU753	0	0	0	0	0	0	0	0	0	0	0	0	12	32	0	0	GS|74.7|AY969554|SH1240003.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU754	0	0	0	0	0	0	0	0	0	0	0	0	35	7	0	0	SS|1.0000|MN522103|SH2595074.08FU;k:Fungi,p:Kickxellomycota,c:Kickxellomycetes,o:Kickxellales,f:Kickxellaceae,g:Ramicandelaber
+OTU755	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|KT328856|SH1214599.08FU;k:Fungi
+OTU756	0	0	0	0	0	0	0	0	0	0	22	0	0	7	0	0	SS|0.8000|UDB016257|SH1542190.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Tricholomataceae,g:Mycena
+OTU757	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	SS|1.0000|KX009088|SH1189018.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Carlosrosaea
+OTU758	0	0	0	0	0	0	0	17	0	0	14	12	7	24	0	0	SS|0.8500|KU747881|SH1170583.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU759	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	SS|0.8600|MH262309|SH2712484.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU762	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	GS|98.3|KF836012|SH1140514.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Thelephorales,f:Thelephoraceae,g:Tomentella
+OTU763	0	0	0	1	0	0	0	0	5	0	49	0	5	30	0	0	GS|99.7|MG649248|SH1569892.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium citrinum
+OTU764	0	0	0	0	0	0	0	0	0	0	30	0	0	5	0	0	SS|0.9200|MK619298|SH2705888.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	SS|1.0000|MH859597|SH2705535.08FU;k:Fungi
+OTU767	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	16	GS|85.3|KT000175|SH1573803.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Phaeomoniellales,f:Phaeomoniellaceae,g:Phaeomoniella
+OTU768	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.0|KT581652|SH1180834.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU769	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.9500|KT215273|SH1157202.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Orbilia,s:Orbilia corculispora
+OTU771	0	0	0	0	0	0	1	0	0	0	0	0	0	0	65	0	SS|1.0000|KT328630|SH1222439.08FU;k:Fungi
+OTU772	0	0	0	0	0	0	0	0	0	0	13	0	0	0	12	0	SS|1.0000|KT351650|SH1240292.08FU;k:Fungi,p:Basidiomycota
+OTU775	0	0	0	0	0	0	0	0	0	0	0	0	13	0	9	0	GS|73.4|JF905967|SH1549191.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae
+OTU776	0	0	0	0	0	0	0	0	0	0	25	0	6	0	0	0	GSL|100.0|MH624147|SH1567969.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae,g:Trichoderma
+OTU778	0	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	GSL|100.0|MG214158|SH1526067.08FU;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,f:Dipodascaceae
+OTU779	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	GSL|100.0|MF490805|SH1526399.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Bipolaris
+OTU780	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	SS|1.0000|KU931498|SH1574545.08FU;k:Fungi
+OTU781	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	GS|98.3|DQ092510|SH1552169.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Phaeosphaeria
+OTU782	0	0	0	0	0	0	0	0	6	0	4	0	0	15	0	0	GS|99.3|JX974735|SH1150689.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Massarinaceae,g:Massarina
+OTU783	0	0	0	0	0	0	0	0	0	0	3	0	0	0	34	0	GS|99.0|GU054017|SH1546038.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Trechisporales,f:Hydnodontaceae,g:Subulicystidium
+OTU784	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	0	SS|0.8900|KX434724|SH1569858.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Rhinocladiella
+OTU788	0	0	0	0	0	0	0	21	0	0	34	0	0	0	0	0	GS|95.0|MF359724|SH1530086.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus,s:Aspergillus tamarii
+OTU790	0	0	0	0	0	23	0	0	0	0	0	0	0	0	0	0	SS|0.9500|HM595552|SH1149883.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU791	0	0	0	0	0	0	0	33	0	0	0	0	0	0	0	0	GS|99.0|KF435649|SH1540650.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe
+OTU792	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	GS|99.7|MH236576|SH1189961.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Sclerococcales,f:Dactylosporaceae
+OTU793	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|EF419966|SH1506901.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,g:Neophaeococcomyces
+OTU794	0	0	0	0	0	0	0	0	0	0	26	0	0	0	5	0	SS|0.8600|MH558763|SH1517083.08FU;k:Fungi,p:Ascomycota
+OTU795	0	0	0	0	0	0	0	20	0	0	0	0	2	0	0	0	GS|72.0|MF971096|SH3213986.08FU;k:Fungi
+OTU796	0	0	0	0	0	0	0	0	0	0	0	0	21	9	0	0	SS|0.9100|UDB035456|SH1213386.08FU;k:Fungi,p:Ascomycota
+OTU797	0	0	0	0	0	0	0	32	0	0	0	0	0	0	0	0	GS|81.1|KT328698|SH1242363.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU798	0	0	0	0	0	0	0	0	2	0	12	24	6	17	0	27	GS|100.0|HQ607947|SH1615600.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Chaetomiaceae,g:Chaetomium
+OTU801	0	0	0	0	0	0	0	0	0	0	0	4	10	11	0	0	GS|100.0|EF527356|SH1141256.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Agaricaceae
+OTU802	0	0	0	0	0	0	0	0	0	0	19	0	0	7	0	0	GSL|100.0|KP143700|SH1645874.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU803	0	0	0	0	0	0	0	0	0	0	0	0	0	31	0	0	SS|0.9600|AF042453|SH1552298.08FU;k:Fungi,p:Basidiomycota
+OTU804	12	8	4	0	7	0	0	0	0	0	0	0	0	3	0	0	GS|100.0|AY219839|SH1648320.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Atheliales,f:Atheliaceae,g:Amphinema,s:Amphinema byssoides
+OTU805	21	0	0	8	29	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|KC157750|SH1162942.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Ophiocordycipitaceae,g:Purpureocillium,s:Purpureocillium lilacinum
+OTU807	0	0	0	0	0	0	0	0	0	0	0	0	23	0	5	0	GS|99.0|FJ612632|SH1548082.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae
+OTU809	0	0	0	0	9	0	0	0	0	0	2	0	40	0	0	0	GS|98.3|UDB0750570|SH2750840.08FU;k:Fungi
+OTU810	0	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.3|UDB0747379|SH2729868.08FU;k:Fungi
+OTU811	0	0	0	0	0	0	0	0	0	0	33	0	9	5	0	0	SS|0.9100|AB118874|SH1521655.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,g:Mingxiaea,s:Mingxiaea panici
+OTU813	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|86.3|KX302078|SH1239373.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU814	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	SS|1.0000|UDB0746610|SH2750654.08FU;k:Fungi
+OTU816	0	0	0	0	0	0	0	0	0	0	24	0	0	0	0	0	GSL|100.0|LC494376|SH1566132.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae,g:Coprinopsis,s:Coprinopsis cinerea
+OTU818	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	GSL|100.0|EF669595|SH1164519.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus
+OTU820	0	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	GSL|77.3|MG593545|SH1574208.08FU;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Pyronemataceae,g:Boubovia
+OTU823	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	GS|99.0|JX042892|SH1513373.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU825	0	0	35	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|99.7|MH858565|SH1524842.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Magnaporthales,f:Magnaporthaceae,g:Arxiella
+OTU826	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	GS|88.3|MF359724|SH1530086.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Eurotiales,f:Aspergillaceae,g:Aspergillus,s:Aspergillus tamarii
+OTU829	0	0	0	0	0	0	0	0	0	0	0	0	0	0	28	0	SS|0.8100|KR476728|SH1184928.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Sporocadaceae
+OTU830	0	0	0	0	0	0	0	19	0	0	0	0	0	0	10	0	GS|97.3|HQ022508|SH1238704.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Stachybotrys
+OTU831	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	GS|98.0|EU563598|SH1182527.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Auriculariales
+OTU832	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	GS|81.9|FJ904669|SH2587825.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Ostropales,f:Stictidaceae,g:Absconditella,s:Absconditella lignicola
+OTU833	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	SS|1.0000|KX908745|SH1152171.08FU;k:Fungi
+OTU834	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	GS|97.0|KX009096|SH1569941.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Carlosrosaea
+OTU835	0	0	0	0	0	0	0	0	0	0	25	0	12	0	0	0	GS|100.0|MH748183|SH1573190.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Periconiaceae,g:Periconia,s:Periconia elaeidis
+OTU839	0	0	0	0	0	0	0	5	0	0	14	0	6	0	0	0	SS|1.0000|KT328761|SH1228297.08FU;k:Fungi
+OTU840	0	0	0	0	0	0	0	0	0	0	0	0	0	5	22	0	GS|100.0|MK347787|SH1565437.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Hysteriales,f:Hysteriaceae,g:Gloniopsis,s:Gloniopsis fluctiformis
+OTU841	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	SS|0.8500|KT006328|SH1144747.08FU;k:Fungi
+OTU842	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	GS|84.9|LT547769|SH1149610.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothioraceae
+OTU844	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	SS|0.8900|KU559667|SH1177202.08FU;k:Fungi,p:Ascomycota
+OTU845	0	0	0	0	0	0	0	0	0	0	0	0	0	58	0	0	SS|0.8000|HQ607908|SH1560642.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU846	0	0	0	0	0	0	0	0	0	0	0	0	0	33	0	0	GS|97.0|GU083025|SH1529602.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Cladophialophora
+OTU847	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	SS|1.0000|UDB0778529|SH2713539.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU849	0	0	0	0	0	0	0	36	0	0	0	0	0	0	1	0	SS|0.8300|MH864600|SH2591885.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Ijuhya,s:Ijuhya paraparilis
+OTU850	0	0	0	0	0	0	0	0	0	3	0	2	0	49	0	0	GS|97.5|JN205869|SH1557391.08FU;k:Fungi,p:Mucoromycota,c:Mucoromycetes,o:Mucorales,f:Cunninghamellaceae,g:Cunninghamella,s:Cunninghamella blakesleeana
+OTU851	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0	GS|100.0|MG931032|SH2707818.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Pseudolophiostoma,s:Pseudolophiostoma mangiferae
+OTU852	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	GS|99.1|KF129414|SH1550272.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales,f:Parmeliaceae,g:Parmotrema,s:Parmotrema tinctorum
+OTU854	0	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	GSL|100.0|MG009533|SH1569453.08FU;k:Fungi,p:Ascomycota,c:Saccharomycetes,o:Saccharomycetales,f:Metschnikowiaceae,g:Clavispora,s:Clavispora lusitaniae
+OTU855	0	0	0	0	0	27	0	0	0	0	0	0	0	0	0	0	SS|0.8300|LT547793|SH1156853.08FU;k:Fungi,p:Ascomycota
+OTU857	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	27	GSL|100.0|MK120119|SH1552673.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Sporocadaceae,g:Pseudopestalotiopsis
+OTU858	0	0	0	0	0	0	0	0	0	0	0	0	14	14	0	0	GS|99.0|KT328747|SH1155938.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Cuniculitremaceae,g:Kockovaella
+OTU859	0	0	0	0	0	0	0	6	0	0	0	9	0	7	0	0	SS|1.0000|KF675650|SH1246445.08FU;k:Fungi
+OTU861	0	0	0	0	0	0	0	0	0	0	0	0	8	18	0	0	SS|0.9000|DQ656617|SH1146586.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Dactylella
+OTU862	0	0	0	0	0	0	0	0	0	0	33	0	0	0	0	0	SS|0.8300|MF972069|SH1572660.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU865	0	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	GS|73.0|KP235715|SH1563175.08FU;k:Fungi
+OTU867	0	0	0	0	0	0	4	0	0	0	15	0	0	6	0	0	GS|100.0|JQ936271|SH1525475.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae,g:Paraconiothyrium,s:Paraconiothyrium variabile
+OTU868	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	0	GS|98.7|UDB039504|SH1517542.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Trechisporales,f:Hydnodontaceae,g:Trechispora,s:Trechispora stevensonii
+OTU872	0	0	0	0	0	0	0	0	0	0	0	0	3	21	0	0	SS|0.9700|KY305134|SH1155927.08FU;k:Fungi,p:Basidiomycota
+OTU874	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	GS|79.9|KT328698|SH1242363.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU875	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	SS|0.8500|UDB035328|SH1187545.08FU;k:Fungi,p:Ascomycota
+OTU876	0	0	0	0	0	0	0	24	0	0	0	0	0	2	0	0	GS|97.0|DQ656610|SH1189008.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Orbilia,s:Orbilia auricolor
+OTU878	0	0	0	0	0	0	0	26	0	0	0	0	0	6	0	0	SS|1.0000|MK952376|SH1191739.08FU;k:Fungi
+OTU879	0	0	0	0	0	0	0	0	15	0	0	24	0	0	0	0	GS|79.9|MF971162|SH2599405.08FU;k:Fungi
+OTU880	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	SS|1.0000|EU707900|SH1542089.08FU;k:Fungi
+OTU881	0	0	0	0	0	0	0	0	0	0	0	0	0	0	30	0	GS|83.3|KF467041|SH1562616.08FU;k:Fungi
+OTU882	0	0	0	0	0	0	0	0	0	2	0	0	5	16	0	0	GSL|100.0|EU851936|SH1577466.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Pseudocercospora
+OTU883	0	0	0	0	0	0	0	8	0	0	0	0	0	0	8	0	SS|0.9700|KF436235|SH1190742.08FU;k:Fungi,p:Ascomycota
+OTU885	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	SS|1.0000|MN055704|SH1517492.08FU;k:Fungi
+OTU886	0	0	0	0	0	0	0	0	0	0	0	7	9	14	0	0	SS|0.9300|GU083250|SH1520727.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU889	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	SS|1.0000|KF412387|SH1566773.08FU;k:Fungi,p:Rozellomycota
+OTU890	0	0	0	0	0	0	0	0	0	0	0	0	0	17	0	11	GDL|99.6|AF502890|SH1155236.08FU;k:Fungi,p:Ascomycota
+OTU891	0	0	0	0	0	0	0	11	0	0	0	0	20	2	0	0	GS|100.0|MN398988|SH2707713.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Torulaceae,g:Torula
+OTU892	0	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	GS|98.0|MF971357|SH1527404.08FU;k:Fungi
+OTU893	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	GS|77.0|KT328767|SH1240310.08FU;k:Fungi
+OTU894	0	0	0	0	0	0	0	0	0	0	25	2	0	0	0	0	SS|1.0000|KU747852|SH1187405.08FU;k:Fungi
+OTU895	0	0	0	0	0	0	0	0	2	0	0	0	0	0	21	0	GS|95.3|UDB0753343|SH2619660.08FU;k:Fungi
+OTU896	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	GS|99.3|KU977945|SH1570770.08FU;k:Fungi
+OTU897	0	0	0	0	0	0	0	0	0	4	0	14	10	0	0	0	GS|100.0|JX657347|SH1185504.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,f:Myxotrichaceae,g:Oidiodendron
+OTU898	0	0	0	0	0	0	0	3	0	0	0	0	0	18	0	0	SS|0.8600|KM507564|SH2589609.08FU;k:Fungi,p:Basidiomycota
+OTU899	0	0	23	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|JX394020|SH1650407.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Cryptococcaceae,g:Kwoniella,s:Kwoniella dendrophila
+OTU901	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	SS|0.8100|KY320528|SH1515279.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Tubeufiales,f:Tubeufiaceae
+OTU902	0	0	0	0	0	0	0	0	0	3	19	0	0	0	0	0	GS|79.9|MF971162|SH2599405.08FU;k:Fungi
+OTU903	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	25	GS|97.3|KF614768|SH1157568.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+OTU906	0	0	0	0	0	0	0	0	0	0	11	22	0	0	0	0	GS|99.7|UDB035375|SH1525832.08FU;k:Fungi,p:Ascomycota,c:Pezizomycetes,o:Pezizales,f:Sarcoscyphaceae,g:Phillipsia,s:Phillipsia crispata
+OTU908	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	SS|0.9800|KT161048|SH1142707.08FU;k:Fungi,p:Basidiomycota
+OTU910	0	0	0	0	49	0	0	1	0	0	0	0	6	3	0	0	GS|84.5|MK607610|SH1567260.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Pleurotheciales,f:Pleurotheciaceae,g:Phaeoisaria
+OTU913	0	0	0	0	0	0	0	0	0	0	0	6	22	11	0	0	SS|0.9200|KX098083|SH1175726.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU914	0	0	0	0	0	0	0	0	0	0	0	0	18	18	0	0	GS|99.7|KJ832018|SH1573708.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Polyporales
+OTU915	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	SS|0.8900|KX098083|SH1175726.08FU;k:Fungi,p:Ascomycota
+OTU916	0	0	0	0	0	0	0	0	0	0	0	0	36	0	0	0	SS|1.0000|HQ130682|SH3334946.08FU;k:Fungi
+OTU917	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	SS|0.9400|MH979272|SH2594008.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Hypocreaceae
+OTU918	0	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	SS|0.8200|MK100233|SH1614485.08FU;k:Fungi,p:Ascomycota
+OTU920	0	0	0	0	0	0	0	0	0	0	18	0	0	8	5	0	SS|0.8300|MF142367|SH1157551.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU921	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	GS|97.9|HQ634619|SH1175304.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU925	0	0	0	0	0	0	0	0	0	0	2	4	0	50	0	5	GS|83.9|MF971381|SH1146027.08FU;k:Fungi
+OTU926	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	SS|1.0000|KF128789|SH1244392.08FU;k:Fungi
+OTU927	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	26	GS|99.7|MK593967|SH1650283.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae,g:Mortierella,s:Mortierella alpina
+OTU928	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	GS|97.3|GU055977|SH1549174.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU929	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	SS|1.0000|KF274231|SH1551162.08FU;k:Fungi
+OTU930	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	GS|72.2|MH862542|SH3217407.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae,g:Brachyphoris
+OTU931	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	GS|98.7|KM246182|SH1517557.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Tremellaceae,g:Cryptococcus,s:Cryptococcus dimennae
+OTU934	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	14	GS|98.7|GQ996155|SH1244070.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU935	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	GS|82.3|KP889635|SH1245633.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Cyphellaceae,g:Rectipilus
+OTU936	0	0	0	0	0	11	0	0	0	0	27	0	0	0	0	0	GS|100.0|MN268538|SH1650135.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae,g:Deniquelata,s:Deniquelata barringtoniae
+OTU937	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	SS|0.9100|JF691143|SH1156345.08FU;k:Fungi,p:Ascomycota
+OTU938	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	GS|82.9|MF971096|SH3213986.08FU;k:Fungi
+OTU939	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	GS|100.0|JQ754047|SH1522793.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleribasidiaceae,g:Hannaella,s:Hannaella oryzae
+OTU940	0	0	0	0	0	0	0	6	0	0	0	0	0	2	20	0	GS|100.0|MH388367|SH1506765.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae,g:Volutella,s:Volutella krabiensis
+OTU941	0	0	0	0	0	0	0	27	0	0	0	0	0	0	0	0	SS|1.0000|KT215271|SH1650657.08FU;k:Fungi
+OTU942	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	SS|1.0000|DQ273328|SH1566026.08FU;k:Fungi
+OTU943	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	GS|97.0|MG214566|SH1525258.08FU;k:Fungi,p:Ascomycota
+OTU945	0	0	0	0	0	0	0	23	0	0	0	0	0	22	0	0	GS|98.5|MK304223|SH1188505.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Neooccultibambusa
+OTU946	0	0	0	0	0	0	0	0	0	0	7	0	28	1	0	0	SS|1.0000|KC978047|SH1231050.08FU;k:Fungi
+OTU947	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	GS|98.8|KF675693|SH1566772.08FU;k:Fungi,p:Rozellomycota
+OTU948	0	0	0	0	0	0	0	2	0	0	26	0	4	14	0	0	SS|1.0000|JN972442|SH1524352.08FU;k:Fungi
+OTU949	0	0	0	0	0	0	0	34	5	0	16	16	0	6	3	0	GS|100.0|KU747584|SH1576417.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Boliniales,g:Paramicrothyrium
+OTU950	0	0	0	0	0	0	0	0	0	0	17	0	22	0	0	0	GS|100.0|KP229361|SH1574477.08FU;k:Fungi,p:Basidiomycota,c:Exobasidiomycetes,o:Exobasidiales
+OTU951	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	GS|100.0|EU177576|SH1565596.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Trimorphomycetaceae,g:Saitozyma,s:Saitozyma flava
+OTU952	0	0	27	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|97.7|KP791767|SH1570629.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Trichomeriaceae,g:Lithophila,s:Lithophila guttulata
+OTU953	0	0	0	0	0	0	0	0	0	0	0	23	0	0	1	0	GS|99.5|KF302517|SH1513983.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Ophiocordycipitaceae,g:Hirsutella,s:Hirsutella minnesotensis
+OTU954	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	SS|0.9300|LT548264|SH1522646.08FU;k:Fungi,p:Basidiomycota,c:Microbotryomycetes
+OTU955	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	GS|81.1|KX499243|SH1241440.08FU;k:Fungi,p:Ascomycota
+OTU956	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	SS|1.0000|HF675337|SH1552966.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU957	0	0	0	0	0	0	0	0	0	0	41	16	3	11	0	0	GS|99.0|JF747062|SH1560864.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala,s:Exophiala brunnea
+OTU958	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	SS|1.0000|KT328705|SH1180664.08FU;k:Fungi
+OTU960	0	0	0	0	0	0	0	0	0	0	8	0	9	0	0	0	GS|100.0|MG831569|SH1242562.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lentitheciaceae,g:Poaceascoma,s:Poaceascoma taiwanense
+OTU962	0	0	0	0	0	0	0	0	0	0	32	0	10	0	2	0	GS|100.0|EF612466|SH1522831.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Bionectriaceae,g:Bionectria,s:Bionectria pityrodes
+OTU964	0	0	0	0	0	0	0	0	0	0	0	0	0	37	0	0	SS|1.0000|EU759982|SH1560863.08FU;k:Fungi
+OTU965	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	GS|100.0|KU204602|SH1178083.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,g:Asteromella,s:Asteromella pistaciarum
+OTU966	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|98.8|JX136032|SH1574016.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae
+OTU968	0	0	0	0	0	0	0	11	0	0	0	0	0	0	11	0	GS|84.4|MF976722|SH1245746.08FU;k:Fungi
+OTU969	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	SS|1.0000|DQ421194|SH1515222.08FU;k:Fungi
+OTU971	0	0	0	0	0	0	0	0	10	0	5	0	0	3	0	0	GS|75.2|MF971757|SH1655854.08FU;k:Fungi
+OTU972	0	0	0	0	0	0	10	2	0	0	12	0	0	0	0	0	SS|0.9200|KT328705|SH1180664.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU973	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	SS|1.0000|LC228648|SH1174088.08FU;k:Fungi
+OTU975	0	0	0	0	0	0	0	0	16	0	0	0	0	0	0	0	GS|99.7|KY965431|SH1565538.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU976	0	0	0	0	0	0	0	0	0	0	0	0	9	12	0	0	GS|100.0|MF196866|SH1573966.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Cyphellophoraceae,g:Cyphellophora,s:Cyphellophora oxyspora
+OTU977	0	0	0	0	0	0	0	0	0	12	16	0	30	0	0	0	GS|97.3|JF432994|SH1564401.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Exophiala
+OTU980	0	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	SS|0.8700|JQ081696|SH1553519.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales
+OTU981	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	0	GS|97.0|KT581831|SH1636136.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae
+OTU983	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	GS|98.8|MH165218|SH1183107.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Striaticonidium,s:Striaticonidium cinctum
+OTU984	0	0	0	0	0	0	0	0	0	0	0	0	0	0	38	0	SS|1.0000|EU517068|SH1646486.08FU;k:Fungi,p:Basidiomycota
+OTU986	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	GSL|100.0|U31847|SH1529588.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Phialophora
+OTU987	0	0	0	0	0	0	4	0	0	0	5	0	0	106	0	0	GS|97.0|AB975299|SH1541938.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium
+OTU988	0	0	0	0	0	0	0	28	0	0	0	0	0	0	0	0	SS|0.9500|KT328721|SH1223140.08FU;k:Fungi
+OTU990	0	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	SS|1.0000|KU505110|SH1550121.08FU;k:Fungi
+OTU991	0	0	0	0	0	0	0	0	0	0	9	0	0	22	0	0	SS|1.0000|MH558755|SH1517081.08FU;k:Fungi
+OTU992	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	SS|1.0000|AY916486|SH1649261.08FU;k:Fungi
+OTU993	0	0	0	0	0	0	0	0	0	0	0	4	0	36	0	0	SS|0.9900|KU580748|SH1560524.08FU;k:Fungi
+OTU994	0	0	0	0	0	0	0	3	0	0	0	0	20	8	0	0	GS|99.0|KF466233|SH1168507.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU995	0	0	0	0	0	0	0	0	6	16	0	0	0	0	0	0	GS|98.8|JX319873|SH1567825.08FU;k:Fungi
+OTU997	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	GSL|98.3|HQ115677|SH1644388.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Glomerellales,f:Plectosphaerellaceae,g:Gibellulopsis
+OTU999	0	0	0	0	0	0	0	0	0	0	17	0	0	5	34	0	GS|99.7|KT328763|SH1549156.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Capnodiaceae,g:Capnodium
+OTU1000	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	GS|78.1|DQ273328|SH1566026.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales
+OTU1001	0	0	0	0	0	0	0	46	0	0	0	0	0	0	0	0	SS|0.8500|KF359644|SH1627172.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU1003	0	0	0	0	0	0	0	0	0	0	0	12	0	13	0	0	SS|0.8600|LT547797|SH1627146.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU1005	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	SS|0.8900|FJ553835|SH1648255.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Clavariaceae
+OTU1006	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	GS|100.0|LC001725|SH1556692.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Sigarispora,s:Sigarispora caulium
+OTU1008	0	0	0	0	8	0	0	0	11	0	0	0	0	0	0	0	GSL|97.3|MH179313|SH1508480.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Psathyrellaceae
+OTU1009	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	SS|0.9400|MK814008|SH1558613.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU1010	0	0	0	0	0	0	0	0	0	0	0	0	17	7	0	0	GS|98.3|JX042828|SH1144191.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Togniniales,f:Togniniaceae,g:Phaeoacremonium
+OTU1012	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	SS|1.0000|KC966046|SH2588917.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU1013	0	0	0	0	0	0	0	0	0	2	15	0	19	0	0	0	SS|1.0000|GQ921821|SH1155498.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes
+OTU1014	0	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	SS|0.8900|JX318713|SH1563564.08FU;k:Fungi,p:Ascomycota
+OTU1015	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|KM246229|SH1648406.08FU;k:Fungi
+OTU1016	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	SS|1.0000|HQ895839|SH1187532.08FU;k:Fungi
+OTU1017	0	0	0	0	0	0	0	0	0	0	16	0	0	31	4	0	GS|100.0|LR026718|SH1644389.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Gliocladium,s:Gliocladium cibotii
+OTU1018	0	0	0	0	0	0	0	0	0	0	22	0	0	0	0	0	GS|97.7|MF399241|SH1572559.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Pleurotheciales,f:Pleurotheciaceae,g:Pleurotheciella
+OTU1019	0	0	0	0	0	0	0	13	0	0	0	0	0	0	0	0	SS|0.8500|JQ388940|SH1146962.08FU;k:Fungi,p:Ascomycota
+OTU1020	0	0	0	0	0	0	0	0	0	1	0	0	0	16	0	0	GS|100.0|JX976120|SH1573330.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae,g:Mortierella,s:Mortierella ambigua
+OTU1023	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|MG925038|SH2592602.08FU;k:Fungi
+OTU1024	0	0	0	0	0	0	0	0	0	0	0	1	0	26	0	0	SS|1.0000|KT004582|SH1636083.08FU;k:Fungi
+OTU1027	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0	GS|76.9|FJ235950|SH3233146.08FU;k:Fungi,p:Ascomycota
+OTU1028	0	0	0	0	0	0	0	0	0	0	19	0	6	0	0	0	SS|1.0000|KM246238|SH1238394.08FU;k:Fungi
+OTU1029	0	0	0	0	0	0	0	9	0	0	0	0	0	14	0	0	SS|0.8800|JQ905803|SH1240115.08FU;k:Fungi,p:Ascomycota
+OTU1030	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	GS|100.0|LT906660|SH1514401.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Dictyosporiaceae,g:Neodendryphiella,s:Neodendryphiella michoacanensis
+OTU1033	0	0	0	0	0	0	0	0	0	0	23	0	0	0	0	0	SS|0.8900|JN890054|SH1244292.08FU;k:Fungi,p:Ascomycota
+OTU1034	0	0	0	0	0	0	0	3	0	0	0	0	0	10	6	0	GS|99.7|KU535732|SH1188491.08FU;k:Fungi,p:Ascomycota
+OTU1035	0	0	0	0	0	0	0	0	0	0	0	1	5	39	0	0	SS|0.9600|FN392297|SH1574179.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales
+OTU1036	0	0	0	0	0	0	0	30	0	0	0	0	0	0	2	0	SS|1.0000|KT328780|SH1180660.08FU;k:Fungi
+OTU1037	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	GS|81.3|KM062108|SH1245647.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Botryosphaeriales,f:Botryosphaeriaceae
+OTU1038	0	0	0	0	0	0	0	23	0	0	0	0	0	0	0	0	SS|0.8600|AB847072|SH1505212.08FU;k:Fungi,p:Ascomycota
+OTU1044	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|1.0000|KU948755|SH1214294.08FU;k:Fungi
+OTU1045	0	0	0	0	0	0	0	0	0	0	10	0	0	0	19	0	SS|0.9800|JF691143|SH1156345.08FU;k:Fungi
+OTU1046	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	GS|85.4|JX136190|SH1246502.08FU;k:Fungi
+OTU1049	0	0	0	0	0	0	0	0	9	0	0	0	11	0	0	0	GS|100.0|KM265591|SH1637050.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU1051	0	0	0	0	0	0	0	7	0	0	10	0	0	0	0	0	GS|100.0|HE584881|SH1650617.08FU;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,o:Erythrobasidiales,f:Erythrobasidiaceae,g:Erythrobasidium
+OTU1052	0	0	0	0	0	0	0	1	2	0	41	1	0	6	0	0	GSL|99.7|KX953470|SH1540603.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe,s:Diaporthe phaseolorum
+OTU1053	0	0	0	0	8	0	0	0	0	0	27	4	0	0	0	0	SS|0.9500|UDB037991|SH1185928.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales
+OTU1054	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	SS|0.9000|MK050335|SH2700854.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+OTU1055	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	SS|1.0000|KU747854|SH1529974.08FU;k:Fungi
+OTU1057	0	0	0	0	0	0	0	0	0	1	0	0	0	22	0	0	SS|0.8000|HE584920|SH1579759.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU1060	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	GS|100.0|FN424112|SH1650805.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Rhynchogastremataceae,g:Papiliotrema
+OTU1061	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	GSL|100.0|MG669169|SH1525455.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU1062	0	0	0	0	0	0	0	0	0	0	0	0	9	8	0	0	GS|80.1|AY969554|SH1240003.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU1063	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	SS|1.0000|MF976619|SH1190247.08FU;k:Fungi
+OTU1064	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	SS|0.8900|KR259883|SH1244559.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales,g:Mycosisymbrium,s:Mycosisymbrium cirrhosum
+OTU1065	0	0	0	0	0	0	0	0	0	0	14	0	0	1	0	0	SS|0.9200|KR093936|SH1529630.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales
+OTU1066	0	0	0	0	0	0	0	11	0	0	7	0	0	0	0	0	GS|99.7|KU194317|SH1572311.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Polyporales,f:Polyporaceae,g:Lopharia,s:Lopharia ayresii
+OTU1067	0	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	GS|73.8|MF971475|SH1171496.08FU;k:Fungi
+OTU1070	0	0	0	0	0	0	0	0	0	0	0	0	0	0	13	0	GS|71.3|MF380877|SH1540767.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Valsaceae,g:Phomopsis,s:Phomopsis vaccinii
+OTU1072	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	GS|97.7|JN972443|SH1156527.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales,f:Ramalinaceae,g:Bacidina,s:Bacidina flavoleprosa
+OTU1073	0	0	0	0	0	0	0	0	0	0	0	0	0	24	0	0	SS|0.9600|HM559719|SH1515398.08FU;k:Fungi,p:Basidiomycota,c:Cystobasidiomycetes,f:Microsporomycetaceae,g:Microsporomyces,s:Microsporomyces orientalis
+OTU1074	0	0	0	0	0	0	0	0	0	0	0	0	0	0	33	6	GS|82.5|MF976734|SH1172808.08FU;k:Fungi
+OTU1075	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	SS|1.0000|FJ265748|SH1237040.08FU;k:Fungi
+OTU1076	0	0	0	0	0	0	0	0	0	0	3	0	0	0	18	7	GS|97.3|HM570020|SH1182692.08FU;k:Fungi,p:Glomeromycota,c:Glomeromycetes,o:Glomerales,f:Glomeraceae
+OTU1077	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	GS|98.7|MG008514|SH2591106.08FU;k:Fungi,p:Glomeromycota,c:Glomeromycetes,o:Glomerales,f:Glomeraceae,g:Rhizophagus
+OTU1079	15	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	GSL|100.0|JQ814308|SH1526431.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria,s:Alternaria euphorbiicola
+OTU1080	0	0	0	0	0	0	0	0	0	0	7	3	0	0	7	0	GS|100.0|MN193004|SH1628473.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Diatrypaceae,g:Peroneutypa,s:Peroneutypa scoparia
+OTU1082	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	GS|99.0|KF800481|SH1555969.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Fusariella
+OTU1084	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	SS|0.9300|LC228648|SH1174088.08FU;k:Fungi,p:Ascomycota
+OTU1086	0	0	0	0	0	0	0	0	0	0	15	0	9	12	0	0	GS|86.4|MF971804|SH1243589.08FU;k:Fungi
+OTU1090	0	0	0	0	0	0	0	0	1	0	32	0	0	3	0	3	GS|83.5|MF971381|SH1146027.08FU;k:Fungi
+OTU1092	0	0	0	0	0	1	0	5	1	0	22	0	0	10	0	0	GS|93.1|MF971357|SH1527404.08FU;k:Fungi
+OTU1093	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	GS|79.8|KR909177|SH1156844.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU1094	0	0	0	0	0	0	0	0	0	0	0	0	7	11	0	0	GS|100.0|KX766633|SH1548078.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Zasmidium,s:Zasmidium queenslandicum
+OTU1095	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	SS|0.9600|AF502870|SH1509612.08FU;k:Fungi,p:Ascomycota
+OTU1097	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	SS|0.8200|MH860776|SH2592078.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Acremonium,s:Acremonium exiguum
+OTU1098	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	SS|0.9000|KY320528|SH1515279.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU1102	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	GS|100.0|MN227478|SH1561051.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Gregatothecium,s:Gregatothecium humicola
+OTU1104	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	GSL|81.7|MF948424|SH1655677.08FU;k:Fungi,p:Ascomycota,c:Orbiliomycetes,o:Orbiliales,f:Orbiliaceae
+OTU1108	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	SS|1.0000|KM108770|SH1150916.08FU;k:Fungi
+OTU1109	0	0	0	0	0	0	0	0	0	0	3	0	19	1	0	0	GS|78.9|KT328680|SH1243401.08FU;k:Fungi
+OTU1110	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	SS|1.0000|KY101702|SH1538823.08FU;k:Fungi
+OTU1111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	12	0	GS|78.4|MF459003|SH1245848.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Delitschiaceae,g:Delitschia
+OTU1113	0	0	0	0	0	0	0	0	0	2	36	0	5	3	12	0	GS|100.0|JN559401|SH1541591.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,f:Cephalothecaceae,g:Phialemonium,s:Phialemonium dimorphosporum
+OTU1114	0	0	0	0	0	0	0	0	3	0	0	0	6	11	0	3	GSL|100.0|MH397144|SH1526400.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Curvularia
+OTU1115	0	0	0	0	0	0	0	0	0	0	0	5	84	0	0	0	GS|100.0|DQ632684|SH1548073.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Zasmidium,s:Zasmidium citrigriseum
+OTU1116	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	SS|0.8800|JF300754|SH1557054.08FU;k:Fungi,p:Mortierellomycota,c:Mortierellomycetes,o:Mortierellales,f:Mortierellaceae,g:Mortierella
+OTU1117	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	GS|97.7|KF988389|SH1218088.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Geastrales,f:Geastraceae,g:Geastrum
+OTU1118	0	0	0	0	0	0	0	0	0	0	6	0	0	8	0	0	SS|1.0000|LC271242|SH1613816.08FU;k:Fungi
+OTU1119	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	0	SS|0.9200|EU054407|SH1542819.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae
+OTU1121	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	SS|0.9900|MK889359|SH1538640.08FU;k:Fungi
+OTU1122	0	0	0	0	0	0	0	0	0	0	5	0	14	9	0	0	GSL|100.0|KX510122|SH1526405.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Curvularia,s:Curvularia lunata
+OTU1123	0	0	0	0	0	0	0	13	0	0	0	0	0	9	5	0	SS|0.9400|KU999955|SH1176729.08FU;k:Fungi,p:Ascomycota
+OTU1124	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	SS|1.0000|KR063531|SH1547486.08FU;k:Fungi
+OTU1125	0	0	0	0	0	0	0	0	0	0	17	0	0	0	0	0	GS|99.3|MK808268|SH1171569.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Marasmiaceae,g:Marasmius
+OTU1126	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8100|AB847028|SH1155217.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU1127	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	GS|97.5|KY320526|SH1517114.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Tubeufiales,f:Tubeufiaceae,g:Helicomyces,s:Helicomyces roseus
+OTU1128	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	GS|99.3|KY379665|SH1564454.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales,g:Xylogone
+OTU1129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	0	SS|0.9700|JQ666391|SH1556484.08FU;k:Fungi,p:Rozellomycota
+OTU1130	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	GS|99.0|JN116685|SH1645871.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU1134	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	SS|0.8000|KM246231|SH1560581.08FU;k:Fungi,p:Ascomycota
+OTU1135	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0	SS|1.0000|KF800308|SH1241234.08FU;k:Fungi,p:Ascomycota
+OTU1136	0	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	GS|99.0|KY548838|SH1539921.08FU;k:Fungi,p:Basidiomycota,c:Classiculomycetes,o:Classiculales,f:Classiculaceae
+OTU1137	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	GSL|100.0|MG726832|SH1631616.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Filobasidiales,f:Filobasidiaceae,g:Filobasidium
+OTU1139	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	GS|97.3|FJ528717|SH1176733.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae,g:Preussia
+OTU1140	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	SS|0.9100|KU712447|SH1243486.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes
+OTU1143	0	0	0	0	0	0	0	0	0	0	26	0	0	0	0	0	SS|0.9600|KF766177|SH1560920.08FU;k:Fungi,p:Ascomycota
+OTU1144	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	GS|73.7|JN943808|SH1552543.08FU;k:Fungi,p:Chytridiomycota,c:Spizellomycetes,o:Spizellomycetales,f:Spizellomycetaceae,g:Spizellomyces,s:Spizellomyces plurigibbosus
+OTU1145	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	3	GS|71.7|KC966046|SH2588917.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes
+OTU1146	0	0	0	0	0	2	0	0	0	0	0	1	16	17	0	0	GS|99.0|KU204646|SH1209924.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Mycosphaerellaceae,g:Lecanosticta,s:Lecanosticta acicola
+OTU1148	0	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	GS|100.0|MN340314|SH1562717.08FU;k:Fungi,p:Basidiomycota,c:Exobasidiomycetes,o:Exobasidiales,f:Cryptobasidiaceae,g:Acaromyces,s:Acaromyces ingoldii
+OTU1149	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	GS|98.2|AB512339|SH1516064.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Tricholomataceae,g:Mycena
+OTU1150	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	SS|0.8900|GQ921743|SH1187594.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales
+OTU1151	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	0	GS|84.5|AM999593|SH1172026.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+OTU1152	0	0	0	0	0	0	0	2	0	0	26	0	0	0	0	0	GSL|99.7|HM054160|SH1546328.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Nectriaceae
+OTU1153	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0	SS|0.9900|AM262441|SH1613468.08FU;k:Fungi,p:Basidiomycota
+OTU1154	0	0	0	0	0	0	0	19	0	0	0	0	0	0	0	0	SS|1.0000|KT328807|SH1239237.08FU;k:Fungi
+OTU1155	0	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	GS|100.0|MN545598|SH1615670.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Sordariales,g:Madurella
+OTU1156	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	0	SS|0.8100|DQ198781|SH2588042.08FU;k:Fungi,p:Basidiomycota,c:Atractiellomycetes,o:Atractiellales
+OTU1157	0	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	SS|0.9000|KP013031|SH1563450.08FU;k:Fungi,p:Basidiomycota,c:Dacrymycetes,o:Dacrymycetales,f:Dacrymycetaceae,g:Calocera
+OTU1160	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0	GS|71.2|UDB031563|SH1190615.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Tricholomataceae,g:Resupinatus,s:Resupinatus applicatus
+OTU1161	0	0	0	0	0	0	0	0	0	0	14	0	0	0	0	0	GS|99.3|KF436235|SH1190742.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+OTU1162	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	GS|83.9|MH388369|SH3232108.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Venturiales
+OTU1163	0	0	0	0	0	0	0	8	0	0	0	0	0	18	0	0	GSL|100.0|MK025549|SH1563660.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Beltraniaceae,g:Beltrania,s:Beltrania pseudorhombica
+OTU1164	0	0	0	0	0	0	0	0	0	0	27	0	0	0	0	0	GS|98.0|AF145704|SH1576716.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Massarinaceae,g:Helminthosporium,s:Helminthosporium velutinum
+OTU1165	0	0	0	0	0	0	0	0	0	0	18	0	0	0	0	0	SS|0.9800|JN859337|SH1560572.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+OTU1168	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	15	SS|0.9700|KF675517|SH1576910.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales
+OTU1169	0	0	0	0	0	0	0	0	0	0	0	0	5	25	0	0	GS|98.7|UDB039708|SH2597039.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Trechisporales,f:Hydnodontaceae,g:Trechispora
+OTU1170	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	GS|87.7|HQ650650|SH1524351.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Lecanorales,f:Ramalinaceae,g:Bacidina,s:Bacidina sulphurella
+OTU1171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	GS|100.0|JF773597|SH1541120.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Xylariales,f:Xylariaceae
+OTU1172	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	SS|0.8000|MK269108|SH1544170.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Hymenochaetales
+OTU1173	0	0	0	0	0	0	0	0	0	2	0	0	14	0	0	0	GS|100.0|KJ138621|SH1187397.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Savoryellales,f:Savoryellaceae
+OTU1174	0	0	0	0	0	0	0	0	3	3	16	0	8	2	0	0	SS|1.0000|UDB0753301|SH2730871.08FU;k:Fungi
+OTU1175	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	SS|0.8100|MK811798|SH1594768.08FU;k:Fungi,p:Ascomycota,c:Lecanoromycetes,o:Caliciales,f:Physciaceae,g:Physcia
+OTU1176	0	0	0	0	0	0	0	0	0	0	0	0	14	13	0	0	GS|73.8|KF297075|SH1181258.08FU;k:Fungi,p:Ascomycota,c:Leotiomycetes,o:Helotiales
+OTU1177	0	0	0	0	0	0	0	0	0	0	3	17	0	0	0	0	GS|99.0|HG965015|SH1170566.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,g:Sarocladium,s:Sarocladium gamsii
+OTU1180	0	0	0	0	0	0	0	0	0	0	15	0	0	0	9	0	GS|98.7|MK762709|SH1569216.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Nigrograna
+OTU1181	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	GS|99.3|MH267904|SH1169961.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Diaporthales,f:Diaporthaceae,g:Diaporthe
+OTU1183	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	SS|0.8600|AY571041|SH1235953.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes,o:Agaricales,f:Tricholomataceae,g:Flagelloscypha
+OTU1184	0	0	0	0	0	0	0	0	0	0	0	0	22	0	0	0	SS|0.9900|MG757511|SH2594307.08FU;k:Fungi,p:Basidiomycota,c:Agaricomycetes
+OTU1185	0	0	0	0	0	0	0	0	0	0	0	0	0	27	0	0	SS|0.9400|EU516743|SH1517149.08FU;k:Fungi,p:Ascomycota
+OTU1186	0	0	0	0	0	0	0	0	0	0	11	0	0	0	0	13	GS|86.0|KU940121|SH1566070.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Bambusicolaceae,g:Bambusicola
+OTU1187	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0	GS|99.3|AY313035|SH1515724.08FU;k:Fungi,p:Basidiomycota,c:Tremellomycetes,o:Tremellales,f:Bulleraceae,g:Bullera
+OTU1188	0	0	0	0	0	0	0	0	0	0	13	0	0	0	0	0	GS|80.5|KP889925|SH1244539.08FU;k:Fungi,p:Rozellomycota
+OTU1189	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	SS|0.8900|KX387583|SH1231890.08FU;k:Fungi,p:Ascomycota
+OTU1193	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	0	SS|1.0000|KC753529|SH1518611.08FU;k:Fungi
+OTU1194	0	0	0	0	0	0	0	0	0	0	0	0	14	10	0	0	SS|1.0000|KM265656|SH1211594.08FU;k:Fungi
+OTU1195	0	0	0	0	0	0	0	0	0	0	0	4	0	15	0	0	GSL|81.5|AF081476|SH1557975.08FU;k:Fungi,p:Ascomycota,c:Sordariomycetes,o:Hypocreales,f:Stachybotryaceae,g:Stachybotrys
+OTU1196	0	0	0	0	0	0	0	5	0	0	9	0	0	0	0	0	SS|0.9900|JQ754017|SH1522793.08FU;k:Fungi,p:Basidiomycota
+OTU1197	0	0	0	0	0	0	0	0	0	0	19	0	0	0	0	0	GS|100.0|LC077702|SH1529584.08FU;k:Fungi,p:Ascomycota,c:Eurotiomycetes,o:Chaetothyriales,f:Herpotrichiellaceae,g:Cladophialophora,s:Cladophialophora chaetospira
