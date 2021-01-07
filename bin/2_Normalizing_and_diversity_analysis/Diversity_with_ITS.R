@@ -56,7 +56,7 @@ p + ggtitle(title) + scale_y_log10() + facet_wrap(~type, 1, scales = "free")
 hist(log10(taxa_sums(phyloseq.rel)))
 
 
-#################FOR BETA DIVERSITY:  Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
+#Make Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
 
 binary_table = transform_sample_counts(phyloseq.rel, function(x, minthreshold=0){
   x[x > minthreshold] <- 1
