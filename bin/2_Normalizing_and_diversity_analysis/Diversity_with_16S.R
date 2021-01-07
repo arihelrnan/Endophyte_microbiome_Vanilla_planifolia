@@ -55,7 +55,7 @@ p = ggplot(readsumsdf, aes(x = sorted, y = no.reads)) + geom_bar(stat = "identit
 p + ggtitle(title) + scale_y_log10() + facet_wrap(~type, 1, scales = "free")
 
 
-#################FOR BETA DIVERSITY:  Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
+#Make Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
 
 binary_table = transform_sample_counts(phyloseq.rel, function(x, minthreshold=0){
   x[x > minthreshold] <- 1
