@@ -54,9 +54,6 @@ title = ""
 p = ggplot(readsumsdf, aes(x = sorted, y = no.reads)) + geom_bar(stat = "identity")
 p + ggtitle(title) + scale_y_log10() + facet_wrap(~type, 1, scales = "free")
 
-#Check for distribution of OTUs
-hist(log10(taxa_sums(phyloseq.rel)))
-
 
 #################FOR BETA DIVERSITY:  Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
 
