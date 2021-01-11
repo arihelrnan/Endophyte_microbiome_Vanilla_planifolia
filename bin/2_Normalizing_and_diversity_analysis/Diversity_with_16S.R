@@ -83,16 +83,17 @@ beta.ps3 <- plot_ordination(phyloseq.rel,
                             color="Organ",
                             scale_colour_manual(values=c("Stem"="green", "Root"="red")),
                             shape ="Variables",
+                            title="NDMS using Bray-Curtis Dissimilarity with 16SrRNA data",
                             label = "Sites"),
   geom_point(size= 4) +
   theme(plot.title = element_text(hjust = 0, size = 12))
 beta.ps3 <- beta.ps3 + theme_bw(base_size = 14) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-beta.ps3 + scale_color_brewer(palette = "Dark2") + stat_ellipse()
-beta.ps3
-beta.ps3 + stat_ellipse()
-beta.ps3 +  theme_bw() +
-  stat_ellipse()
+beta.raup <- beta.raup +  theme_bw() +
+  stat_ellipse() + scale_color_manual(values = c("orange2", "green4"))
+pdf("../../Figures/beta_bc_16S.pdf") 
+print(beta.raup)
+dev.off()
 
 #Make Raup-Crick plot
 bx.ord_pcoa_raup <- ordinate(binary_table, "NMDS", "raup")
@@ -101,7 +102,7 @@ beta.raup <- plot_ordination(binary_table,
                              bx.ord_pcoa_raup,
                              color="Organ",
                              shape ="Variables", 
-                             title="NDMS using Raup-Crick with 16SrRNA data",
+                             title="NDMS using Raup-Crick Dissimilarity with 16SrRNA data",
                              label = "Sites") +
   geom_point(size= 4) +
   theme(plot.title = element_text(hjust = 0, size = 12))
@@ -109,7 +110,7 @@ beta.raup <- beta.raup + theme_bw(base_size = 14) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 beta.raup <- beta.raup +  theme_bw() +
   stat_ellipse() + scale_color_manual(values = c("orange2", "green4"))
-pdf("../../Figures/beta_raup_16S") 
+pdf("../../Figures/beta_raup_16S.pdf") 
 print(beta.raup)
 dev.off()
 
@@ -124,14 +125,6 @@ metadf.rp <- data.frame(sample_data(binary_table))
 raup_ps.bxn <- phyloseq::distance(physeq = binary_table, method = "raup")
 adonis.test_2 <- adonis(raup_ps.bxn ~ Organ*Variables, data = metadf.rp)
 adonis.test_2
-
-#Make heatmap with dendogram  
-distancia_organo=as.matrix(raup_ps.bxn)
-heatmap.2(distancia_organo, key=T, trace="none", ColSideColors = c(rep("aquamarine",2),rep("maroon1",2),rep("blue",2),rep("red",3),rep("green",3),rep("darkgoldenrod3",2)), RowSideColors = c(rep("aquamarine",2),rep("maroon1",2),rep("blue",2),rep("red",3),rep("green",3),rep("darkgoldenrod3",2)))
-
-#Make heatmap with dendogram  
-distancia_organo=as.matrix(bray_ps.bxn)
-heatmap.2(distancia_organo, key=T, trace="none")
 
 #Calculate alpha diversity for relative abundance data
 MetaFile$Richness <- estimate_richness(phyloseq.rel, split = TRUE, measures = "Observed")
