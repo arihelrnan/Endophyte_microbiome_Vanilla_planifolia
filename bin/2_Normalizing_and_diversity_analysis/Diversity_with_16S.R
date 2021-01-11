@@ -1,10 +1,10 @@
 #Make phyloseq object
 packages <-c("ape","dplyr","ggplot2","gplots","lme4","miLineage","phangorn","plotly","tidyr","vegan","VennDiagram","metacoder","phyloseq")
 lib <- lapply(packages, require, character.only = TRUE)
-MetaFile <- "mapping_file.txt"
+MetaFile <- "../../Data/mapping_file.txt"
 MetaFile <- read.table(file=MetaFile,header=TRUE,sep="\t",comment.char = "",row.names = 1,check.names = F)
 MetaFile <- MetaFile[!apply(is.na(MetaFile) | MetaFile=="",1,all),]
-otu_file<-"16S.otu_table.taxonomy.txt"
+otu_file<-"../../Data/16S.otu_table.taxonomy.txt"
 otu_table_2 <-  read.table (otu_file,
                             check.names = FALSE,
                             header = TRUE,
@@ -101,16 +101,17 @@ beta.raup <- plot_ordination(binary_table,
                              bx.ord_pcoa_raup,
                              color="Organ",
                              shape ="Variables", 
+                             title="NDMS using Raup-Crick with 16SrRNA data",
                              label = "Sites") +
   geom_point(size= 4) +
   theme(plot.title = element_text(hjust = 0, size = 12))
 beta.raup <- beta.raup + theme_bw(base_size = 14) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-beta.raup + scale_color_brewer(palette = "Dark2") + stat_ellipse()
-beta.raup
-beta.raup + stat_ellipse()
-beta.raup +  theme_bw() +
-  stat_ellipse()
+beta.raup <- beta.raup +  theme_bw() +
+  stat_ellipse() + scale_color_manual(values = c("orange2", "green4"))
+pdf("../../Figures/beta_raup_16S") 
+print(beta.raup)
+dev.off()
 
 #Make PERMANOVA test
 library(vegan)
