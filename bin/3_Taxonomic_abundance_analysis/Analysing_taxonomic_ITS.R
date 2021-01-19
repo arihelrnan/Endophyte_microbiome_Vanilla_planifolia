@@ -3,7 +3,7 @@ packages <-c("ape","dplyr","ggplot2","gplots","lme4","miLineage","phangorn","plo
 lib <- lapply(packages, require, character.only = TRUE)
 
 #Load tab delimited file with OTU table information
-otu_table <-  read.table ("ITS_taxonomy.otu_table.taxonomy.txt",
+otu_table <-  read.table ("../../Data/ITS_taxonomy.otu_table.taxonomy.txt",
                           check.names = FALSE,
                           header = TRUE,
                           dec = ".",
@@ -12,7 +12,7 @@ otu_table <-  read.table ("ITS_taxonomy.otu_table.taxonomy.txt",
                           comment.char = "")
 
 #Load tab delimited file with information of each sample
-sample_table <-  read.table ("mapping_file.txt",
+sample_table <-  read.table ("../../Data/mapping_file.txt",
                              check.names = FALSE,
                              header = TRUE,
                              dec = ".",
@@ -66,7 +66,7 @@ heat_tree(metamapa,
           title = "Asymtomatic",
           node_color_axis_label = "Number of reads",
           node_size_axis_label = "Number of OTUs",
-          output_file = "Asymtomatic_samples.pdf")
+          output_file = "../../Figures/Asymtomatic_samples_ITS.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
@@ -77,7 +77,7 @@ heat_tree(metamapa,
           title = "Symtomatic",
           node_color_axis_label = "Number of reads",
           node_size_axis_label = "Number of OTUs",
-          output_file = "Symptomatic_samples.pdf")
+          output_file = "../../Figures/Symptomatic_samples_ITS.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
@@ -88,7 +88,7 @@ heat_tree(metamapa,
           title = "Wild",
           node_color_axis_label = "Number of reads",
           node_size_axis_label = "Number of OTUs",
-          output_file = "Wild_samples.pdf")
+          output_file = "../../Figures/Wild_samples_ITS.png")
 
 #Comparing taxon abundance in variables groups
 metamapa$data$diff_table <- compare_groups(metamapa, data = "tax_abund",
@@ -109,4 +109,4 @@ heat_tree_matrix(metamapa,
                  node_color_axis_label = "Log2 ratio median proportions",
                  layout = "davidson-harel", # The primary layout algorithm
                  initial_layout = "reingold-tilford", # The layout algorithm that initializes node locations
-                 output_file = "differential_heat_tree.pdf") # Saves the plot as a pdf file
+                 output_file = "../../Figures/differential_heat_tree_ITS.png") # Saves the plot as a pdf file

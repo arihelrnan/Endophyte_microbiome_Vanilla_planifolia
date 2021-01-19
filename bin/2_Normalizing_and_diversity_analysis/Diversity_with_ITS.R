@@ -1,10 +1,10 @@
 #Make phyloseq object
 packages <-c("ape","dplyr","ggplot2","gplots","lme4","miLineage","phangorn","plotly","tidyr","vegan","VennDiagram","metacoder","phyloseq")
 lib <- lapply(packages, require, character.only = TRUE)
-MetaFile <- "mapping_file.txt"
+MetaFile <- "../../Data/mapping_file.txt"
 MetaFile <- read.table(file=MetaFile,header=TRUE,sep="\t",comment.char = "",row.names = 1,check.names = F)
 MetaFile <- MetaFile[!apply(is.na(MetaFile) | MetaFile=="",1,all),]
-otu_file<-"ITS_taxonomy.otu_table.taxonomy.txt"
+otu_file<-"../../Data/ITS_taxonomy.otu_table.taxonomy.txt"
 otu_table_2 <-  read.table (otu_file,
                           check.names = FALSE,
                           header = TRUE,
@@ -37,10 +37,6 @@ phyloseq.rel # check project
 any(taxa_sums(phyloseq.rel) < 1)
 ntaxa(phyloseq.rel)
 
-#check distribution of how many reads/OTU, reads/sample 
-
-sum(taxa_sums(phyloseq.rel))
-
 # Step 3. check distribution of how many reads/OTU, reads/sample: Plot number of reads per OTU / samples 
 
 
@@ -60,7 +56,7 @@ p + ggtitle(title) + scale_y_log10() + facet_wrap(~type, 1, scales = "free")
 hist(log10(taxa_sums(phyloseq.rel)))
 
 
-#################FOR BETA DIVERSITY:  Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
+#Make Binomial table: how many OTUS per samples. Filter OTUs from only one sample 
 
 binary_table = transform_sample_counts(phyloseq.rel, function(x, minthreshold=0){
   x[x > minthreshold] <- 1
@@ -79,6 +75,7 @@ binary_table
 binary_table_OTU2
 phyloseq.rel
 
+#######################Beta diversity###############################
 
 #Make bray curtis plot
 
@@ -95,16 +92,20 @@ beta.ps3 <- plot_ordination(phyloseq.rel,
                             bx.ord_pcoa_bray,
                             color="Organ",
                             shape ="Variables", 
+                            title="NDMS using Bray-Curtis Dissimilarity with ITS data",
                             label = "Sites") +
   geom_point(size= 4) +
   theme(plot.title = element_text(hjust = 0, size = 12))
 beta.ps3 <- beta.ps3 + theme_bw(base_size = 14) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-beta.ps3 + scale_color_brewer(palette = "Dark2") + stat_ellipse()
-beta.ps3
-beta.ps3 + stat_ellipse()
-beta.ps3 +  theme_bw() +
-  stat_ellipse()
+beta.ps3 <- beta.ps3 +  theme_bw() +
+  stat_ellipse() + scale_color_manual(values = c("orange2", "green4"))
+pdf("../../Figures/beta_bc_ITS.pdf") 
+print(beta.ps3)
+dev.off()
+png("../../Figures/beta_bc_ITS.png") 
+print(beta.ps3)
+dev.off()
 
 #Make Raup-Crick plot
 bx.ord_pcoa_raup <- ordinate(binary_table, "NMDS", "raup")
@@ -113,16 +114,20 @@ beta.raup <- plot_ordination(binary_table,
                             bx.ord_pcoa_raup,
                             color="Organ",
                             shape ="Variables", 
-                            label = "Sites") +
+                             title="NDMS using Raup-Crick Dissimilarity with ITS data",
+                             label = "Sites") +
   geom_point(size= 4) +
   theme(plot.title = element_text(hjust = 0, size = 12))
 beta.raup <- beta.raup + theme_bw(base_size = 14) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
-beta.raup + scale_color_brewer(palette = "Dark2") + stat_ellipse()
-beta.raup
-beta.raup + stat_ellipse()
-beta.raup +  theme_bw() +
-  stat_ellipse()
+beta.raup <- beta.raup +  theme_bw() +
+  stat_ellipse() + scale_color_manual(values = c("orange2", "green4"))
+pdf("../../Figures/beta_raup_ITS.pdf") 
+print(beta.raup)
+dev.off()
+png("../../Figures/beta_raup_ITS.png") 
+print(beta.raup)
+dev.off()
 
 #Make PERMANOVA test
 library(vegan)
@@ -135,16 +140,16 @@ metadf.rp <- data.frame(sample_data(binary_table))
 raup_ps.bxn <- phyloseq::distance(physeq = binary_table, method = "raup")
 adonis.test_2 <- adonis(raup_ps.bxn ~ Organ*Variables, data = metadf.rp)
 adonis.test_2
+##adonis_test_rp <- data.frame(adonis.test_2)
+##write.table(adonis.test_2, "../../Data/adonis_test_rp.txt", sep = "\t",col.names = NA, quote = FALSE)
 
-#Make dendogram and heat plot
-View(metadf.bx)
-distancia_organo=as.matrix(bray_ps.bxn)
-heatmap.2(distancia_organo, key=T, trace="none", ColSideColors = c(rep("aquamarine",2),rep("maroon1",2),rep("blue",2),rep("red",3),rep("green",3),rep("darkgoldenrod3",2)), RowSideColors = c(rep("aquamarine",2),rep("maroon1",2),rep("blue",2),rep("red",3),rep("green",3),rep("darkgoldenrod3",2)))
+##########################Alpha diversity###############################
 
 #Calculate alpha diversity for relative abundance data
 MetaFile$Richness <- estimate_richness(phyloseq.rel, split = TRUE, measures = "Observed")
 MetaFile$Alpha <- estimate_richness(phyloseq.rel, split = TRUE, measures = "Shannon")
 Alpha_diversity <- estimate_richness(phyloseq.rel, split = TRUE, measures = c("Observed","Chao1","Shannon","InvSimpson"))
+write.table(Alpha_diversity, "../../Data/Alpha_ITS_Relative_data.tab", sep = "\t")
 
 #Use Kruskal-Wallis test for evaluate diference diversity between symptomatic, asymptomatic and wild samples groups
 kruskal_rel_variables_obs <- kruskal.test(Alpha_diversity$Observed~Variables, MetaFile)
@@ -157,6 +162,7 @@ kruskal_rel_organ_shan <- kruskal.test(Alpha_diversity$Shannon~Organ, MetaFile)
 MetaFile$Richness.bin <- estimate_richness(binary_table, split = TRUE, measures = "Observed")
 MetaFile$Alpha.bin <- estimate_richness(binary_table, split = TRUE, measures = "Shannon")
 Alpha_diversity.bin <- estimate_richness(binary_table, split = TRUE, measures = c("Observed","Chao1","Shannon","InvSimpson"))
+write.table(Alpha_diversity.bin, "../../Data/Alpha_ITS_Binary_data.tab", sep = "\t")
 
 #Use Kruskal-Wallis test for evaluate diference diversity between symptomatic, asymptomatic and wild samples groups
 kruskal_bin_variables_obs <- kruskal.test(Alpha_diversity.bin$Observed~Variables, MetaFile)
@@ -166,3 +172,21 @@ kruskal_bin_organ_obs <- kruskal.test(Alpha_diversity.bin$Observed~Organ, MetaFi
 kruskal_bin_organ_shan <- kruskal.test(Alpha_diversity.bin$Shannon~Organ, MetaFile)
 
 shapiro.test(Alpha_diversity.bin)
+
+########################Taxonomic analysis##################
+
+
+plot_bar(binary_table_OTU2, x=sample_names(binary_table_OTU2), fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
+
+ggplot(binary_table, aes(x = reorder(Sample, dpw), y = Abundance, fill = Class)) + 
+  facet_grid(time~.) +
+  geom_bar(stat = "identity") +
+  scale_fill_manual(values = class_colors) +
+  # Remove x axis title, and rotate sample labels
+  theme(axis.title.x = element_blank(),
+        axis.text.x=element_text(angle=90,hjust=1,vjust=0.5)) + 
+  
+  # additional stuff
+  guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
+  ylab("Relative Abundance (Class > 1%) \n") +
+  ggtitle("Class Composition of Mothur MiSeq SOP data per individual") 
