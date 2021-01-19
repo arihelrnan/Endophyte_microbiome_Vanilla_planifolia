@@ -1,7 +1,43 @@
-Using a metabarcoding analysis of 16SrRNA and ITS sequence, it was calculated the diversity of the endophytic microbiome (fungi and bacteria) in 3 groups if plants: a) symptomatic, b) asymptomatic and c) wild plants of Vanilla planifolia, and make their characterization taxonomic. We sequenced the bacterial 16S rRNA region V3-V4 with primers Bakt_341F (CCTACGGGNGGCWGCAG) and Bakt_805R (GACTACHVGGGTATCTAATCC), and the fungal region ITS2 with primers 3F (GCATCGATGAAGAACGCAGC) and 4R (TCCTCCGCTTATTGATATGC). Sequencing was performed using an Illumina MiSeq 2 × 300 bp platform. 
-# Organization
-This repository is divided in 4 directories: 
-1.	**bin.** This directory has scripts necessary to bioinformatics processing and diversity analysis. It is divided in two subdirectories: a) Sequence processing, with necessary scripts in Shell for merge pairs sequences and their quality filter, identify chimeras sequence, OTU assignment and their taxonomy assignment and make OTU table; b) Diversity analysis, with scripts in R for normalization of data set, calculate alpha diversity and beta diversity and their visualizations and statistical analysis, and graphics of binning taxonomic. 
-2.	**Data.** This directory has reference data base and parameters files necessary for sequence processing scripts. 
-3.	**Meta.** It contains the OTU table of 16SrRNA data and other of ITS data.  It also contains the meta file with information of each sample and groups. 
-4.	**Figures.** Graphics and visualizations that are files out of scripts in Diversity analysis directory. It aslo contained visualizations of exploratory analysis of sequence.
+# Introduction
+The susceptibility of _Vanilla planifolia_ to certain fungal agents may be mediated by the interaction of the plant with its microbiomes. One of these fungi, Fusarium oxysporum, causes stem and root rot disease, which is particularly devastating in vanilla plantations. It has been observed that the diversity of microbiomes in the cultivation soil and the presence of certain microorganisms in the microbiomes influence the development of this disease. However, the role that the endophyte microbiome may be playing in the development of the disease has not been fully explored. Using a metabarcoding analysis of 16SrRNA and ITS sequence, it was calculated the diversity of the endophytic microbiome (fungi and bacteria) in 3 groups if plants: a) symptomatic, b) asymptomatic and c) wild plants of _Vanilla planifolia._ Sequencing was performed using an Illumina MiSeq 2 × 300 bp platform. Analysing of the microbiomes of wild plants is a strategy to understand the role of the microbiome of wild plants in disease tolerance. In this repository, the procedure by which the bioinformatic analysis of the data was carried out is detailed. First step consist in quality control of the reads, OTU Clustering and Taxonomic Annotation. Second step consist in analysis of alpha diversity and beta diversity, with their respective visualizations and hypothesis tests. Third step consisted of visualizing taxonomic diversity and comparing the abundance of taxa between groups. 
+# Description
+## Organization
+This repository is divided in 3 directories: 
+1.	**bin.** This directory is subdivided in three directories: "1_Sequence_processing", "2_Normalizing_and_diversity_analysis", "3_Taxonomic_abundance_analysis". Inside each repositories, there are two scripts. one to 16S data and another to ITS data. The number of the directories correspond to order of the scripts in the process. 
+2.	**Data.** It contains the OTU table of 16SrRNA data and other of ITS data. They are output file in the script "1_Sequence_processing", and they are input files in the another scripts. Also, here are contined a "mapping_file.txt", that describe the sample groups.  
+3.	**Figures.** Graphics and visualizations that are output files of scripts of Diversity analysis.
+## Process structure
+### Quality filter, OTU clustering and assign taxonomy
+The initial sequencing data processing step is filtering based on read quality scores and the presence of the expected primer and adapter sequences, and the removal of these non-biological sequences. The next step is OTU clustering. After, its necessary assign a taxonomic classification to OTUs. For all these steps, we use the AMPtk pipeline(https://amptk.readthedocs.io/en/latest/index.html). Its scripts are conteined in the directory "1_Sequence_processing", and content four comands:  
+1. `amptk illumina` Demultiplexing Illumina data that has been delivered from sequencing center in a folder of FASTQ files, one set for each sample.
+2. `amptk cluster` OTU picking using UPARSE algorithm and chimera filtering with reference based.  
+3. `amptk filter` Removing index-bleed or sample cross-over from datasets. 
+4. `amptk taxonomy` Assign taxonomy information to OTUs. 
+### Estimating Alpha-diversity and Beta-diversity
+In the scripts content in the directory "2_Normalizing_and_diversity_analysis", we calculate alpha-diversity and beta-diversity. 
+Unequal sampling depth between samples makes necessary normalization. These normalization was made transform read counts into  % relative abundances. Next, was calculated to presence-absence of OTU in samples(binary tables) and we use this data for diversity analysis. 
+The species richness was calculated in based number of OTU(observed), and we calculated Shannon’s Diversity Index. We aplicated Kruskall-Wallis test for evaluated distribution of these index. 
+For Beta-diversity we use Bray-Curtis distance and Raup-Crick similarity index. For Visualization of this metrics, we use a NMDS plot. By hypothesis testing for this data, we use a PERMANOVA test.  
+### Plotting taxonomic data and comparissons tax abund
+For this visualizations, we use `metacoder` library. It's necessary to convert our data to dataset that they can use for this library. This dataset consist in an abundance matrix called `hmp_otus`, and a sample data table called `hmp_samples`. This library offers its own data transformation (for more information visit [here](https://grunwaldlab.github.io/metacoder_documentation/index.html)), which consists in filter OTUs with low count reads and divide each sample’s counts by the total number of counts observed for each sample, resulting in a proportion.
+Taxonomic plot of the sample set its made with `heat_tree` command.
+For comparisson of taxonomic abund between groups we use `compare_grops` funtion and this data its visualated with plot using `heat_tree_matrix` funtion.
+## Installation 
+For information on the requirements for installing AMPtk dependencies, please visit their webside [here](https://amptk.readthedocs.io/en/latest/index.html).
+
+The libraries use in R you can install with this command: 
+```
+packages <-c("ape","dplyr","ggplot2","gplots","lme4","miLineage","phangorn","plotly","tidyr","vegan","VennDiagram","metacoder")
+InsPack <- function(pack)
+{
+  if ((pack %in% installed.packages()) == FALSE) {
+    install.packages(pack,repos ="http://cloud.r-project.org/")
+  } 
+}
+lapply(packages, InsPack)
+```
+For installation of `phyloseq` library you can use the next form: 
+```
+source("https://bioconductor.org/biocLite.R")
+biocLite("phyloseq")
+```
