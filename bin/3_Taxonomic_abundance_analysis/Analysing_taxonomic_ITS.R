@@ -1,9 +1,17 @@
 #Load programs
-packages <-c("ape","dplyr","ggplot2","gplots","lme4","miLineage","phangorn","plotly","tidyr","vegan","VennDiagram","metacoder")
+packages <-c("metacoder")
 lib <- lapply(packages, require, character.only = TRUE)
 
 #Load tab delimited file with OTU table information
-otu_table <-  read.table ("../../Data/ITS_taxonomy.otu_table.taxonomy.txt",
+#otu_table <-  read.table ("../../Data/ITS_taxonomy.otu_table.taxonomy.txt",
+                          check.names = FALSE,
+                          header = TRUE,
+                          dec = ".",
+                          sep = "\t",
+                          row.names = 1,
+                          comment.char = "")
+
+otu_table <-  read.table ("../../Data/binary_table_ITS.txt",
                           check.names = FALSE,
                           header = TRUE,
                           dec = ".",
@@ -34,6 +42,13 @@ print(metamapa)
 #Filter taxa with less 2 OTU
 metamapa=filter_taxa(metamapa, n_obs> 2)
 
+#
+metamapa$data$tax_abund <- calc_taxon_abund(metamapa, "tax_data")
+
+metamapa$data$type_abund <- calc_group_mean(metamapa, "tax_abund",
+                                            cols = sample_table$`#SampleID`,
+                                            groups = sample_table$State)
+
 #Removing low-abundance counts
 metamapa$data$tax_data <- zero_low_counts(metamapa, dataset = "tax_data", min_count = 10)
 
@@ -54,40 +69,40 @@ metamapa$data$tax_abund <- calc_taxon_abund(metamapa, "tax_data",
                                        cols = sample_table$`#SampleID`)
 
 #Calculate number of samples for each taxon
-metamapa$data$tax_occ <- calc_n_samples(metamapa, "tax_abund", groups = sample_table$Variables, cols = sample_table$`#SampleID`)
+metamapa$data$tax_occ <- calc_n_samples(metamapa, "tax_abund", groups = sample_table$State, cols = sample_table$`#SampleID`)
 
 #Plot taxonomic data in three groups
 heat_tree(metamapa, 
           node_label = taxon_names,
-          node_size = n_obs,
-          node_color = Asymptomatic , 
-          edge_label = n_obs,
+          node_size = metamapa$data$tax_occ[['Asymptomatic']],
+          node_color = Asymptomatic, 
           initial_layout = "re", layout = "da",
-          title = "Asymtomatic",
-          node_color_axis_label = "Number of reads",
-          node_size_axis_label = "Number of OTUs",
+          title = "Asymptomatic",
+          node_label_size_range = c(0.01, 0.025),
+          node_color_axis_label = "Mean of OTUs",
+          node_size_axis_label = "Number of samples",
           output_file = "../../Figures/Asymtomatic_samples_ITS.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
-          node_size = n_obs,
-          node_color = Symptomatic , 
-          edge_label = n_obs,
+          node_size = metamapa$data$tax_occ[['Symptomatic']],
+          node_color =  Symptomatic, 
           initial_layout = "re", layout = "da",
-          title = "Symtomatic",
-          node_color_axis_label = "Number of reads",
-          node_size_axis_label = "Number of OTUs",
+          title = "Symptomatic",
+          node_label_size_range = c(0.01, 0.025),
+          node_color_axis_label = "Mean of OTUs",
+          node_size_axis_label = "Number of samples",
           output_file = "../../Figures/Symptomatic_samples_ITS.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
-          node_size = n_obs,
-          node_color = Wild , 
-          edge_label = n_obs,
+          node_size = metamapa$data$tax_occ[['Wild']],
+          node_color =  Wild, 
           initial_layout = "re", layout = "da",
           title = "Wild",
-          node_color_axis_label = "Number of reads",
-          node_size_axis_label = "Number of OTUs",
+          node_label_size_range = c(0.01, 0.025),
+          node_color_axis_label = "Mean of OTUs",
+          node_size_axis_label = "Number of samples",
           output_file = "../../Figures/Wild_samples_ITS.png")
 
 #Comparing taxon abundance in variables groups

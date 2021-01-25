@@ -1,4 +1,4 @@
-#SampleID	Variables	Organ
+#SampleID	State	Organ
 V1	Asymptomatic	Stem
 V2	Asymptomatic	Stem
 V3	Asymptomatic	Stem

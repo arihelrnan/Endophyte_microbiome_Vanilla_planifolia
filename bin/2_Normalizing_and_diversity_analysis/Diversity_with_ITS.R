@@ -14,9 +14,10 @@ otu_table_2 <-  read.table (otu_file,
                           comment.char = "")
 taxonomy=otu_table_2[,c(1,17)]
 taxonomy$V1=NULL
-taxonomy = separate(taxonomy, Taxonomy, into = c("Details", "Clasification"), sep=";")
+taxonomy = separate(taxonomy, Taxonomy, into = c("Details", "taxonomy"), sep=";")
 taxonomy$Details=NULL
-taxonomy = separate(taxonomy, Clasification, into = c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus","Specie"), sep=",")
+taxonomy_2 <- taxonomy
+taxonomy = separate(taxonomy, taxonomy, into = c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus","Specie"), sep=",")
 otu_table_2$Taxonomy=NULL
 otu_mat=as.matrix(otu_table_2)
 tax_mat=as.matrix(taxonomy)
@@ -75,6 +76,11 @@ binary_table
 binary_table_OTU2
 phyloseq.rel
 
+#Save tables as data frame
+binary_table_ITS <- as.data.frame(otu_table(binary_table))
+binary_table_ITS <- cbind(binary_table_ITS, taxonomy_2)
+write.table(binary_table_ITS, "../../Data/binary_table_ITS.txt", sep = "\t")
+
 #######################Beta diversity###############################
 
 #Make bray curtis plot
@@ -91,7 +97,7 @@ plot_scree(bx.ord_pcoa_bray) + theme_bw()
 beta.ps3 <- plot_ordination(phyloseq.rel,
                             bx.ord_pcoa_bray,
                             color="Organ",
-                            shape ="Variables", 
+                            shape ="State", 
                             title="NDMS using Bray-Curtis Dissimilarity with ITS data",
                             label = "Sites") +
   geom_point(size= 4) +
@@ -113,7 +119,7 @@ plot_scree(bx.ord_pcoa_raup) + theme_bw()
 beta.raup <- plot_ordination(binary_table,
                             bx.ord_pcoa_raup,
                             color="Organ",
-                            shape ="Variables", 
+                            shape ="State", 
                              title="NDMS using Raup-Crick Dissimilarity with ITS data",
                              label = "Sites") +
   geom_point(size= 4) +
@@ -133,15 +139,17 @@ dev.off()
 library(vegan)
 metadf.bx <- data.frame(sample_data(phyloseq.rel))
 bray_ps.bxn <- phyloseq::distance(physeq = phyloseq.rel, method = "bray")
-adonis.test <- adonis(bray_ps.bxn ~ Organ*Variables, data = metadf.bx)
+adonis.test <- adonis(bray_ps.bxn ~ Organ*State, data = metadf.bx)
 adonis.test
+write.table(as.data.frame(adonis.test[[1]]), "../../Data/PERMANOVA_Relative_data_ITS.tab", sep = "\t")
+
 
 metadf.rp <- data.frame(sample_data(binary_table))
 raup_ps.bxn <- phyloseq::distance(physeq = binary_table, method = "raup")
-adonis.test_2 <- adonis(raup_ps.bxn ~ Organ*Variables, data = metadf.rp)
+adonis.test_2 <- adonis(raup_ps.bxn ~ Organ*State, data = metadf.rp)
 adonis.test_2
-##adonis_test_rp <- data.frame(adonis.test_2)
-##write.table(adonis.test_2, "../../Data/adonis_test_rp.txt", sep = "\t",col.names = NA, quote = FALSE)
+write.table(as.data.frame(adonis.test_2[[1]]), "../../Data/PERMANOVA_Binary_data_ITS.tab", sep = "\t")
+
 
 ##########################Alpha diversity###############################
 
@@ -152,7 +160,7 @@ Alpha_diversity <- estimate_richness(phyloseq.rel, split = TRUE, measures = c("O
 write.table(Alpha_diversity, "../../Data/Alpha_ITS_Relative_data.tab", sep = "\t")
 
 #Use Kruskal-Wallis test for evaluate diference diversity between symptomatic, asymptomatic and wild samples groups
-kruskal_rel_variables_obs <- kruskal.test(Alpha_diversity$Observed~Variables, MetaFile)
+kruskal_rel_State_obs <- kruskal.test(Alpha_diversity$Observed~Variables, MetaFile)
 kruskal_rel_variables.shan <- kruskal.test(Alpha_diversity$Shannon~Variables, MetaFile)
 #Use Kruskal-Wallis test for evaluate diference diversity between organ groups (stem and root)
 kruskal_rel_organ_obs <- kruskal.test(Alpha_diversity$Observed~Organ, MetaFile)
@@ -164,18 +172,33 @@ MetaFile$Alpha.bin <- estimate_richness(binary_table, split = TRUE, measures = "
 Alpha_diversity.bin <- estimate_richness(binary_table, split = TRUE, measures = c("Observed","Chao1","Shannon","InvSimpson"))
 write.table(Alpha_diversity.bin, "../../Data/Alpha_ITS_Binary_data.tab", sep = "\t")
 
+#Merge alpha diversity by samples groups (organ and state)
+diversity((otu_table(binary_table))[, MetaFile$Organ],
+          MARGIN = 2,
+          index = "observed")
+
 #Use Kruskal-Wallis test for evaluate diference diversity between symptomatic, asymptomatic and wild samples groups
-kruskal_bin_variables_obs <- kruskal.test(Alpha_diversity.bin$Observed~Variables, MetaFile)
-kruskal_bin_variables_shan <- kruskal.test(Alpha_diversity.bin$Shannon~Variables, MetaFile)
+kruskal_bin_variables_obs <- kruskal.test(Alpha_diversity.bin$Observed~State, MetaFile)
+kruskal_bin_variables_shan <- kruskal.test(Alpha_diversity.bin$Shannon~State, MetaFile)
 #Use Kruskal-Wallis test for evaluate diference diversity between organ groups (stem and root)
 kruskal_bin_organ_obs <- kruskal.test(Alpha_diversity.bin$Observed~Organ, MetaFile)
 kruskal_bin_organ_shan <- kruskal.test(Alpha_diversity.bin$Shannon~Organ, MetaFile)
 
-shapiro.test(Alpha_diversity.bin)
+#Male plot with  alpha diversity (Shannon?s diversity and Observed Richness)
+alpha_meas = c("Observed", "Shannon")
+Alpha_diversity_plot <- plot_richness(binary_table, color = "State", measures=alpha_meas, x = "Organ", title = "Alpha diversity with ITS data")
+Alpha_diversity_plot <- Alpha_diversity_plot + geom_point(size=3, alpha=0.7)
+Alpha_diversity_plot <- Alpha_diversity_plot + theme_light()
 
-########################Taxonomic analysis##################
+Alpha_diversity_plot
+
+png("../../Figures/Alpha_diversity_with_ITS.png") 
+print(Alpha_diversity_plot)
+dev.off()
 
 
+#############################################################################################################################################################################
+############################################################################Revisar##########################################################################################
 plot_bar(binary_table_OTU2, x=sample_names(binary_table_OTU2), fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
 
 ggplot(binary_table, aes(x = reorder(Sample, dpw), y = Abundance, fill = Class)) + 
@@ -190,3 +213,40 @@ ggplot(binary_table, aes(x = reorder(Sample, dpw), y = Abundance, fill = Class))
   guides(fill = guide_legend(reverse = TRUE, keywidth = 1, keyheight = 1)) +
   ylab("Relative Abundance (Class > 1%) \n") +
   ggtitle("Class Composition of Mothur MiSeq SOP data per individual") 
+########################################################################################################################################################
+
+#Analize the number of OTU across samples groups
+ntaxa(sample_variables(binary_table))
+sample_variables(binary_table)
+rowSums(binary_table)
+Stem_OTUs <- subset_samples(binary_table, Organ == "Stem")
+Root_OTUs <- subset_samples(binary_table, Organ == "Root")
+Stem_OTUs
+Root_OTUs
+head(otu_table(Stem_OTUs))
+head(otu_table(Root_OTUs))
+Asymptomatic_OTUs <- subset_samples(binary_table, Variables == "Asymptomatic")
+Symptomatic_OTUs <- subset_samples(binary_table, Variables == "Symptomatic")
+Wild_OTUs <- subset_samples(binary_table, Variables == "Wild")
+head(otu_table(Asymptomatic_OTUs))
+head(otu_table(Symptomatic_OTUs))
+head(otu_table(Wild_OTUs))
+
+#Taxonomic analysis
+
+plot_bar(Asymptomatic_OTUs, x="Variables", fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
+plot_bar(Symptomatic_OTUs, x="Variables", fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
+plot_bar(Wild_OTUs, x="Variables", fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
+
+plot_bar(Stem_OTUs, x="Variables", fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
+plot_bar(Root_OTUs, x="Variables", fill="Phylum") + geom_bar(aes(color=Phylum, fill=Phylum), stat="identity", position="stack")
+
+subset_taxa(binary_table, Family == "f:Nectriaceae")
+subset_taxa(binary_table, Family == "f:Herpotrichiellaceae")
+subset_taxa(binary_table, Family == "f:Cyphellophoraceae")
+subset_taxa(binary_table, Family == "f:Aspergillaceae")
+subset_taxa(binary_table, Family == "f:Glomerellaceae")
+
+
+top5P.family = sort(tapply(taxa_sums(binary_table), tax_table(binary_table)[, "Phylum"], sum), TRUE)[1:8]
+top5P.family
