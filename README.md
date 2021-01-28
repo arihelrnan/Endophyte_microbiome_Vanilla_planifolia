@@ -1,13 +1,29 @@
 # Introduction
 The susceptibility of _Vanilla planifolia_ to certain fungal agents may be mediated by the interaction of the plant with its microbiomes (Ramirez-Mosqueda J. *et al.* 2018). One of these fungi, *Fusarium oxysporum*, causes stem and root rot disease, which is particularly devastating in vanilla plantations (Hernández-Hernández, J. *et al.* 2011; Loredo, 1990). It has been observed that the diversity of microbiomes in the cultivation soil and the presence of certain microorganisms in the microbiomes influence the development of this disease (Xiong *et al.* 2017). However, the role that the endophyte microbiome may be playing in the development of the disease has not been fully explored. Using a metabarcoding analysis of 16SrRNA (V3-V4 region, primers Bakt_341F (CCTACGGGNGGCWGCAG) and Bakt_805R (GACTACHVGGGTATCTAATCC)), and ITS sequence (ITS2 region, primers ITS3 (GCATCGATGAAGAACGCAGC) and ITS4 (TCCTCCGCTTATTGATATGC)). It was calculated the diversity of the endophytic microbiome (fungi and bacteria) in 3 groups if plants: a) symptomatic, b) asymptomatic and c) wild plants of _Vanilla planifolia._ Sequencing was performed using an Illumina MiSeq 2 × 300 bp platform. Analysing of the microbiomes of wild plants is a strategy to understand the role of the microbiome of wild plants in disease tolerance. In this repository, the procedure by which the bioinformatic analysis of the data was carried out is detailed. First step consist in quality control of the reads, OTU Clustering and Taxonomic Annotation. Second step consist in analysis of alpha diversity and beta diversity, with their respective visualizations and hypothesis tests. Third step consisted of visualizing taxonomic diversity and comparing the abundance of taxa between groups. 
-## Results
+## Summary report
 Our results show a high species diversity, with 889 OTUs for ITS data, and for 16SrRNA data we have obtained 1670 OTUs in dataset. In ITS data, we obtained 8 phylum inside Fungal kingdom. In all sample groups, the principal phylum present was Ascomycota, with 607 OTU representing 68.27% of the total in dataset. In 16SrRNA data, we obtained 20 bacterial phylums, where 5 phylums represented >80% of total OTU in dataset. This phylums were Proteobacteria, with 573 OTU (34.3%), Actinobacteria with 277 OTU (16.6%), Bacteroidetes with 245 OTU (14.7%), Acidobacteria with 125 OTU (7.5%) and Planctomycetes with 124 OTU (7.4%). We find a higher diversity in root samples than stems in both of them amplicons. In Bacterial data, for root samples, symptomatic values are the highest values(R′=1009.00, H′=6.91), followed by asymptomatic samples (R′=915.00, H′=6.82) and wild samples (R′=494.50, H′=6.14). In stem samples, wild samples are the highest values (R′=442.00, H′=6.08). In Fungi data, symptomatic samples have higher values (R′=292.33, H′=5.64), followed by wild samples (R′=187.67, H′=4.98) and asymptomatic samples (R′=178.00, H′=5.13) in root samples. We don't observe the same effect in stem samples. Beta diversity values shows a important difference between sample groups (roots and stem; symptomatic, asymptomatic ans wild plants), accourding PERMANOVA test (p = 0.002 for fungi) and (p = 0.001 for bacteria). These results suggest an important difference in community structure relationed with groups, being the most important between stems and roots. In stems group, we observed a lower clustering into samples when compared with roots. 
 # Description
 ## Organization
-This repository is divided in 3 directories: 
-1.	**bin.** This directory is subdivided in three directories: "1_Sequence_processing", "2_Normalizing_and_diversity_analysis", "3_Taxonomic_abundance_analysis". Inside each repositories, there are two scripts. one to 16S data and another to ITS data. The number of the directories correspond to order of the scripts in the process. 
-2.	**Data.** It contains the OTU table of 16SrRNA data and other of ITS data. They are output file in the script "1_Sequence_processing", and they are input files in the another scripts. Also, here are contined a "mapping_file.txt", that describe the sample groups.  
-3.	**Figures.** Graphics and visualizations that are output files of scripts of Diversity analysis.
+This repository is divided in 3 directories, and these are organized in subdirectories: 
+
+```
+###########################################*DIRECTORY STRUCTURE*######################################################
+|
+├── Data <- It contains the OTU table of 16SrRNA data and other of ITS data, and with results of diversity analysis.
+|    ├── Alpha_diversity <- Output tables with values of Alpha divsersity.
+|    ├── Beta_diversity <- Output tables with values of PERMANOVA test applied to dissimilarity matrices.
+|    ├── Data_transformation <- Output OTU Tables of the scripts Data_transformation with relative abundance and presence-absence values. 
+|
+├── Figures <- Graphics and visualizations that are output files of scripts of Diversity analysis.
+|      ├── Abundance_comparation <- Output plots of scripts of Abundance_comparison.
+|      ├── Alpha_diversity <- Output plots with Alpha diversity values.
+|      ├── Beta_diversity <- Output plots with Beta diversity values.
+|      ├── Taxonomic_plots <- Output plots of Taxonomic anotation between sample groups. 
+|
+├── bin <- It contains scripts to run analysis 
+     ├── 16S_analysis <- Pipeline of flow process using 16SrRNA amplicons.
+     ├── ITS_analysis <- Pipeline of flow process using ITS amplicons.
+```
 ## Process structure
 ### Quality filter, OTU clustering and assign taxonomy
 The initial sequencing data processing step is filtering based on read quality scores and the presence of the expected primer and adapter sequences, and the removal of these non-biological sequences. The next step is OTU clustering. After, its necessary assign a taxonomic classification to OTUs. For all these steps, we use the [AMPtk pipeline](https://amptk.readthedocs.io/en/latest/index.html). Its scripts are conteined in the directory "1_Sequence_processing", and content four comands:  
