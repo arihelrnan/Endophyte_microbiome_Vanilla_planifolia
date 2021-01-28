@@ -27,9 +27,11 @@ For comparisson of taxonomic abund between groups we use `compare_grops` funtion
 ## Installation 
 For information on the requirements for installing AMPtk dependencies, please visit their webside [here](https://amptk.readthedocs.io/en/latest/index.html).
 
+We use the 
+
 The libraries use in R you can install with this command: 
 ```
-packages <-c("ape","dplyr","ggplot2","gplots","lme4","miLineage","phangorn","plotly","tidyr","vegan","VennDiagram","metacoder")
+packages <-c("dplyr","ggplot2","taxa","miLineage","tidyr","vegan","metacoder")
 InsPack <- function(pack)
 {
   if ((pack %in% installed.packages()) == FALSE) {
@@ -43,3 +45,23 @@ For installation of `phyloseq` library you can use the next form:
 source("https://bioconductor.org/biocLite.R")
 biocLite("phyloseq")
 ```
+Package versions in R that we use are next: 
+
+- `dplyr` 1.02
+
+- `ggplot2` 3.3.2
+
+- `taxa` 0.3.4
+
+- `miLineage` 2.1
+
+- `tidyr` 1.1.2
+
+- `vegan` 2.5.6
+
+- `phyloseq` 1.30.0
+
+- `metacoder` 0.3.4
+
+# References 
+
