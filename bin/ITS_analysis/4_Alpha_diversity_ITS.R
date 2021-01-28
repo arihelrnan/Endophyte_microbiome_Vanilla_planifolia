@@ -6,7 +6,7 @@ lib <- lapply(packages, require, character.only = TRUE)
 MetaFile <- "../../Data/mapping_file.txt"
 MetaFile <- read.table(file=MetaFile,header=TRUE,sep="\t",comment.char = "",row.names = 1,check.names = F)
 MetaFile <- MetaFile[!apply(is.na(MetaFile) | MetaFile=="",1,all),]
-otu_file_binary <- "../../Data/binary_table_ITS.txt"
+otu_file_binary <- "../../Data/Data_transformation/binary_table_ITS.txt"
 otu_table_binary <-  read.table (otu_file_binary,
                                  check.names = FALSE,
                                  header = TRUE,
@@ -14,7 +14,7 @@ otu_table_binary <-  read.table (otu_file_binary,
                                  sep = "\t",
                                  row.names = 1,
                                  comment.char = "")
-otu_file_relative <- "../../Data/relative_table_ITS.txt"
+otu_file_relative <- "../../Data/Data_transformation/relative_table_ITS.txt"
 otu_table_relative <-  read.table (otu_file_relative,
                                    check.names = FALSE,
                                    header = TRUE,
@@ -49,7 +49,7 @@ binary_data <- phyloseq(OTU, TAX, samples)
 MetaFile$Richness <- estimate_richness(relative_data, split = TRUE, measures = "Observed")
 MetaFile$Alpha <- estimate_richness(relative_data, split = TRUE, measures = "Shannon")
 Alpha_diversity <- estimate_richness(relative_data, split = TRUE, measures = c("Observed","Chao1","Shannon","InvSimpson"))
-write.table(Alpha_diversity, "../../Data/Alpha_ITS_Relative_data.tab", sep = "\t")
+write.table(Alpha_diversity, "../../Data/Alpha_diversity/Alpha_ITS_Relative_data.tab", sep = "\t")
 
 #Use Kruskal-Wallis test for evaluate diference diversity between symptomatic, asymptomatic and wild samples groups
 kruskal_rel_variables_obs <- kruskal.test(Alpha_diversity$Observed~State, MetaFile)
@@ -62,7 +62,7 @@ kruskal_rel_organ_shan <- kruskal.test(Alpha_diversity$Shannon~Organ, MetaFile)
 MetaFile$Richness.bin <- estimate_richness(binary_data, split = TRUE, measures = "Observed")
 MetaFile$Alpha.bin <- estimate_richness(binary_data, split = TRUE, measures = "Shannon")
 Alpha_diversity.bin <- estimate_richness(binary_data, split = TRUE, measures = c("Observed","Chao1","Shannon","InvSimpson"))
-write.table(Alpha_diversity.bin, "../../Data/Alpha_ITS_Binary_data.tab", sep = "\t")
+write.table(Alpha_diversity.bin, "../../Data/Alpha_diversity/Alpha_ITS_Binary_data.tab", sep = "\t")
 
 #Use Kruskal-Wallis test for evaluate diference diversity between symptomatic, asymptomatic and wild samples groups
 kruskal_bin_variables_obs <- kruskal.test(Alpha_diversity.bin$Observed~State, MetaFile)

@@ -80,8 +80,8 @@ phyloseq.rel
 #Save binary table as .txt file
 binary_table_ITS <- as.data.frame(otu_table(binary_table))
 binary_table_ITS <- cbind(binary_table_ITS, taxonomy_2)
-write.table(binary_table_ITS, "../../Data/binary_table_ITS.txt", sep = "\t")
+write.table(binary_table_ITS, "../../Data/Data_transformation/binary_table_ITS.txt", sep = "\t")
 #Save relative table as .txt file
 relative_table_ITS <- as.data.frame(otu_table(phyloseq.rel))
 relative_table_ITS <- cbind(relative_table_ITS, taxonomy_2)
-write.table(relative_table_ITS, "../../Data/relative_table_ITS.txt", sep = "\t")
+write.table(relative_table_ITS, "../../Data/Data_transformation/relative_table_ITS.txt", sep = "\t")
