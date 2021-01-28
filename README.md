@@ -27,7 +27,7 @@ For comparisson of taxonomic abund between groups we use `compare_grops` funtion
 ## Installation 
 For information on the requirements for installing AMPtk dependencies, please visit their webside [here](https://amptk.readthedocs.io/en/latest/index.html).
 
-We use the 
+We use the `R version 3.6.1 (2019-07-05)`
 
 The libraries use in R you can install with this command: 
 ```
