@@ -1,0 +1,6 @@
+"unlist.kruskal_bin_organ_shan."
+"statistic.Kruskal-Wallis chi-squared"	"8.04044117647059"
+"parameter.df"	"1"
+"p.value"	"0.00457443945621068"
+"method"	"Kruskal-Wallis rank sum test"
+"data.name"	"Alpha_diversity.bin$Shannon by Organ"
