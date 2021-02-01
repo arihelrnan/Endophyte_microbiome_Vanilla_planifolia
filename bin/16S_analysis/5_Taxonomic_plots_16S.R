@@ -47,7 +47,7 @@ heat_tree(metamapa,
           node_label_size_range = c(0.01, 0.027),
           node_color_axis_label = "Mean of OTUs",
           node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Taxonomic_plots/Root_samples_16S.png")
+          output_file = "../../Figures/Root_samples_16S.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
@@ -58,7 +58,7 @@ heat_tree(metamapa,
           node_label_size_range = c(0.01, 0.027),
           node_color_axis_label = "Mean of OTUs",
           node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Taxonomic_plots/Stem_samples_16S.png")
+          output_file = "../../Figures/Stem_samples_16S.png")
 
 #Calculate OTUs in state groups
 metamapa$data$tax_abund <- calc_taxon_abund(metamapa, "tax_data")
@@ -80,7 +80,7 @@ heat_tree(metamapa,
           node_label_size_range = c(0.01, 0.027),
           node_color_axis_label = "Mean of OTUs",
           node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Taxonomic_plots/Asymptomatic_samples_16S.png")
+          output_file = "../../Figures/Asymptomatic_samples_16S.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
@@ -91,7 +91,7 @@ heat_tree(metamapa,
           node_label_size_range = c(0.01, 0.027),
           node_color_axis_label = "Mean of OTUs",
           node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Taxonomic_plots/Symptomatic_samples_16S.png")
+          output_file = "../../Figures/Symptomatic_samples_16S.png")
 
 heat_tree(metamapa, 
           node_label = taxon_names,
@@ -102,5 +102,16 @@ heat_tree(metamapa,
           node_label_size_range = c(0.01, 0.027),
           node_color_axis_label = "Mean of OTUs",
           node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Taxonomic_plots/Wild_samples_16S.png")
+          output_file = "../../Figures/Wild_samples_16S.png")
+
+#Make taxonomic plot of all samples qith bacterial data
+heat_tree(metamapa, 
+          node_label = taxon_names,
+          node_color =  n_obs, 
+          initial_layout = "re", layout = "da",
+          title = "Bacterial Taxonomy",
+          node_label_size_range = c(0.015, 0.03),
+          node_color_axis_label = "Number of OTUs",
+          node_size_axis_label = "Number of samples",
+          output_file = "../../Figures/Taxonomy_16S.png")
 

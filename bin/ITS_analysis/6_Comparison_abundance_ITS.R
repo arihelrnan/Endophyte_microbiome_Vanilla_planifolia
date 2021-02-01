@@ -1,24 +1,15 @@
 #Load programs
-packages <-c("metacoder")
+packages <-c("metacoder","tidyr")
 lib <- lapply(packages, require, character.only = TRUE)
 
 #Load tab delimited file with OTU table information
-#otu_table <-  read.table ("../../Data/ITS_taxonomy.otu_table.taxonomy.txt",
+otu_table <-  read.table ("../../Data/ITS_taxonomy.otu_table.taxonomy.txt",
                           check.names = FALSE,
                           header = TRUE,
                           dec = ".",
                           sep = "\t",
                           row.names = 1,
                           comment.char = "")
-
-otu_table <-  read.table ("../../Data/binary_table_ITS.txt",
-                          check.names = FALSE,
-                          header = TRUE,
-                          dec = ".",
-                          sep = "\t",
-                          row.names = 1,
-                          comment.char = "")
-
 #Load tab delimited file with information of each sample
 sample_table <-  read.table ("../../Data/mapping_file.txt",
                              check.names = FALSE,
@@ -60,67 +51,34 @@ sum(no_reads)
 metamapa <- filter_obs(metamapa, target = "tax_data", ! no_reads, drop_taxa = TRUE)
 print(metamapa)
 
-#Normalize dividing each sample’s counts by the total number of counts observed for each sample
+#Normalize dividing each samples counts by the total number of counts observed for each sample
 metamapa$data$tax_data <- calc_obs_props(metamapa, "tax_data")
 print(metamapa)
 
 #Calculate value of abundance per taxon
 metamapa$data$tax_abund <- calc_taxon_abund(metamapa, "tax_data",
-                                       cols = sample_table$`#SampleID`)
+                                            cols = sample_table$`#SampleID`)
 
 #Calculate number of samples for each taxon
 metamapa$data$tax_occ <- calc_n_samples(metamapa, "tax_abund", groups = sample_table$State, cols = sample_table$`#SampleID`)
 
-#Plot taxonomic data in three groups
-heat_tree(metamapa, 
-          node_label = taxon_names,
-          node_size = metamapa$data$tax_occ[['Asymptomatic']],
-          node_color = Asymptomatic, 
-          initial_layout = "re", layout = "da",
-          title = "Asymptomatic",
-          node_label_size_range = c(0.01, 0.025),
-          node_color_axis_label = "Mean of OTUs",
-          node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Asymtomatic_samples_ITS.png")
-
-heat_tree(metamapa, 
-          node_label = taxon_names,
-          node_size = metamapa$data$tax_occ[['Symptomatic']],
-          node_color =  Symptomatic, 
-          initial_layout = "re", layout = "da",
-          title = "Symptomatic",
-          node_label_size_range = c(0.01, 0.025),
-          node_color_axis_label = "Mean of OTUs",
-          node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Symptomatic_samples_ITS.png")
-
-heat_tree(metamapa, 
-          node_label = taxon_names,
-          node_size = metamapa$data$tax_occ[['Wild']],
-          node_color =  Wild, 
-          initial_layout = "re", layout = "da",
-          title = "Wild",
-          node_label_size_range = c(0.01, 0.025),
-          node_color_axis_label = "Mean of OTUs",
-          node_size_axis_label = "Number of samples",
-          output_file = "../../Figures/Wild_samples_ITS.png")
-
 #Comparing taxon abundance in variables groups
 metamapa$data$diff_table <- compare_groups(metamapa, data = "tax_abund",
-                                      cols = sample_table$`#SampleID`,
-                                      groups = sample_table$Variables)
+                                           cols = sample_table$`#SampleID`,
+                                           groups = paste(sample_table$State, sample_table$Organ))
+
+
 print(metamapa$data$diff_table)
 
 heat_tree_matrix(metamapa,
                  data = "diff_table",
-                 node_size = n_obs, # n_obs is a function that calculates, in this case, the number of OTUs per taxon
                  node_label = taxon_names,
                  node_color = log2_median_ratio, # A column from `obj$data$diff_table`
                  node_color_range = diverging_palette(), # The built-in palette for diverging data
                  node_color_trans = "linear", # The default is scaled by circle area
-                 node_color_interval = c(-3, 3), # The range of `log2_median_ratio` to display
-                 edge_color_interval = c(-3, 3), # The range of `log2_median_ratio` to display
-                 node_size_axis_label = "Number of OTUs",
+                 node_color_interval = c(-10, 10), # The range of `log2_median_ratio` to display
+                 edge_color_interval = c(-10, 10), # The range of `log2_median_ratio` to display
+                 node_label_size_range = c(0.015, 0.03),
                  node_color_axis_label = "Log2 ratio median proportions",
                  layout = "davidson-harel", # The primary layout algorithm
                  initial_layout = "reingold-tilford", # The layout algorithm that initializes node locations
