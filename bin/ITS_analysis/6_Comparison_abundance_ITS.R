@@ -82,4 +82,4 @@ heat_tree_matrix(metamapa,
                  node_color_axis_label = "Log2 ratio median proportions",
                  layout = "davidson-harel", # The primary layout algorithm
                  initial_layout = "reingold-tilford", # The layout algorithm that initializes node locations
-                 output_file = "../../Figures/differential_heat_tree_ITS.png") # Saves the plot as a pdf file
+                 output_file = "../../Figures/Taxonomic_plots/differential_heat_tree_ITS.png") # Saves the plot as a pdf file
