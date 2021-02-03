@@ -55,7 +55,7 @@ metamapa$data$tax_occ <- calc_n_samples(metamapa, "tax_abund", groups = sample_t
 #Comparing taxon abundance in variables groups
 metamapa$data$diff_table <- compare_groups(metamapa, data = "tax_abund",
                                            cols = sample_table$`#SampleID`,
-                                           groups = paste(sample_table$State, sample_table$Organ))
+                                           groups = paste(sample_table$State))
                                            
 print(metamapa$data$diff_table)
 
